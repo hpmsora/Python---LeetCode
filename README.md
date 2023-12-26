@@ -9,6 +9,8 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python3] | Medium |
+|0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python3] | Easy |
+|0027|[Remove Element](https://leetcode.com/problems/remove-element/) | [Python3] | Easy |
 |0028|[Find the Index of the First Occurrence in a String
 ](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Python3] | Easy |
 |0036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python3] | Medium |
