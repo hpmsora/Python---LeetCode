@@ -20,3 +20,4 @@
 |0226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python3] | Easy |
 |0228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Python3] | Easy |
 |0230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Python3] | Medium |
+|2951|[Find the Peaks](https://leetcode.com/problems/find-the-peaks/) | [Python3] | Easy |
