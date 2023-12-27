@@ -10,6 +10,7 @@
 |---| ----- | -------- | ---------- |
 |0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python3](/Solutions/0002_Add_Two_Numbers.py) | Medium |
 |0014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python3](/Solutions/0014_Longest_Common_Prefix.py) | Easy |
+|0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python3](/Solutions/0021_Merge_Two_Sorted_Lists.py) | Easy |
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python3](/Solutions/0026_Remove_Duplicates_from_Sorted_Array.py) | Easy |
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/) | [Python3](/Solutions/0027_Remove_Element.py) | Easy |
 |0028|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Python3](/Solutions/0028_Find_the_Index_of_the_First_Occurrence_in_a_String.py) | Easy |
