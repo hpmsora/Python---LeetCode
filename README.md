@@ -8,7 +8,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python3] | Medium |
+|0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python3](/Solutions/0002_Add_Two_Numbers.py) | Medium |
 |0014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python3] | Easy |
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python3] | Easy |
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/) | [Python3] | Easy |
@@ -18,6 +18,7 @@
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python3] | Easy |
 |0100|[Same Tree](https://leetcode.com/problems/same-tree/) | [Python3] | Easy |
 |0108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python3] | Easy |
+|0130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Python3] | Medium |
 |0141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python3] | Easy |
 |0226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python3] | Easy |
 |0228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Python3] | Easy |
