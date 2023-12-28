@@ -16,6 +16,7 @@
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/) | [Python3](/Solutions/0027_Remove_Element.py) | Easy |
 |0028|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Python3](/Solutions/0028_Find_the_Index_of_the_First_Occurrence_in_a_String.py) | Easy |
 |0036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python3](/Solutions/0036_Valid_Sudoku.py) | Medium |
+|0038|[Count and Say](https://leetcode.com/problems/count-and-say/) | [Python3](/Solutions/0038_Count_and_Say.py) | Medium |
 |0066|[Plus One](https://leetcode.com/problems/plus-one/) | [Python3](/Solutions/0066_Plus_One.py) | Easy |
 |0067|[Add Binary](https://leetcode.com/problems/add-binary/) | [Python3](/Solutions/0067_Add_Binary.py) | Easy |
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python3](/Solutions/0088_Merge_Sorted_Array.py) | Easy |
