@@ -26,5 +26,6 @@
 |0226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python3](/Solutions/0226_Invert_Binary_Tree.py) | Easy |
 |0228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Python3](/Solutions/0228_Summary_Ranges.py) | Easy |
 |0230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Python3](/Solutions/0230_Kth_Smallest_Element_in_a_BST.py) | Medium |
+|0290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python3](/Solutions/0290_Word_Pattern.py) | Medium |
 |1578|[Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [Python3](/Solutions/1578_Minimum_Time_to_Make_Rope_Colorful.py) | Medium |
 |2951|[Find the Peaks](https://leetcode.com/problems/find-the-peaks/) | [Python3](/Solutions/2951_Find_the_Peaks.py) | Easy |
