@@ -30,6 +30,7 @@
 |0141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python3](/Solutions/0141_Linked_List_Cycle.py) | Easy |
 |0151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python3](/Solutions/0151_Reverse_Words_in_a_String.py) | Medium |
 |0202|[Happy Number](https://leetcode.com/problems/happy-number/) | [Python3](/Solutions/0202_Happy_Number.py) | Easy |
+|0219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Python3](/Solutions/0219_Contains_Duplicate_II.py) | Easy |
 |0226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python3](/Solutions/0226_Invert_Binary_Tree.py) | Easy |
 |0228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Python3](/Solutions/0228_Summary_Ranges.py) | Easy |
 |0230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Python3](/Solutions/0230_Kth_Smallest_Element_in_a_BST.py) | Medium |
