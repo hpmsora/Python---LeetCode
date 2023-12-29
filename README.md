@@ -22,6 +22,7 @@
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python3](/Solutions/0088_Merge_Sorted_Array.py) | Easy |
 |0100|[Same Tree](https://leetcode.com/problems/same-tree/) | [Python3](/Solutions/0100_Same_Tree.py) | Easy |
 |0108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python3](/Solutions/0108_Convert_Sorted_Array_to_Binary_Search_Tree.py) | Easy |
+|0112|[Path Sum](https://leetcode.com/problems/path-sum/) | [Python3](/Solutions/0112_Path_Sum.py) | Easy |
 |0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python3](/Solutions/0125_Valid_Palindrome.py) | Easy |
 |0130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Python3](/Solutions/0130_Surrounded_Regions.py) | Medium |
 |0141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python3](/Solutions/0141_Linked_List_Cycle.py) | Easy |
