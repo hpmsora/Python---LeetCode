@@ -22,6 +22,7 @@
 |0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python3](/Solutions/0070_Climbing_Stairs.py) | Easy |
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python3](/Solutions/0088_Merge_Sorted_Array.py) | Easy |
 |0100|[Same Tree](https://leetcode.com/problems/same-tree/) | [Python3](/Solutions/0100_Same_Tree.py) | Easy |
+|0101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python3](/Solutions/0101_Symmetric_Tree.py) | Easy |
 |0108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python3](/Solutions/0108_Convert_Sorted_Array_to_Binary_Search_Tree.py) | Easy |
 |0112|[Path Sum](https://leetcode.com/problems/path-sum/) | [Python3](/Solutions/0112_Path_Sum.py) | Easy |
 |0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python3](/Solutions/0125_Valid_Palindrome.py) | Easy |
