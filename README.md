@@ -38,6 +38,7 @@
 |0202|[Happy Number](https://leetcode.com/problems/happy-number/) | [Python3](/Solutions/0202_Happy_Number.py) | Easy |
 |0208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Python3](/Solutions/0208_Implement_Trie_(Prefix_Tree).py) | Medium |
 |0219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Python3](/Solutions/0219_Contains_Duplicate_II.py) | Easy |
+|0222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [Python3](/Solutions/0222_Count_Complete_Tree_Nodes.py) | Easy |
 |0226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python3](/Solutions/0226_Invert_Binary_Tree.py) | Easy |
 |0228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Python3](/Solutions/0228_Summary_Ranges.py) | Easy |
 |0230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Python3](/Solutions/0230_Kth_Smallest_Element_in_a_BST.py) | Medium |
