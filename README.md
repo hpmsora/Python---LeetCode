@@ -21,6 +21,7 @@
 |0048|[Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python3](/Solutions/0048_Rotate_Image.py) | Medium |
 |0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python3](/Solutions/0049_Group_Anagrams.py) | Medium |
 |0056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python3](/Solutions/0056_Merge_Intervals.py) | Medium |
+|0062|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python3](/Solutions/0062_Unique_Paths.py) | Medium |
 |0066|[Rotate List](https://leetcode.com/problems/rotate-list/) | [Python3](/Solutions/0061_Rotate_List.py) | Medium |
 |0066|[Plus One](https://leetcode.com/problems/plus-one/) | [Python3](/Solutions/0066_Plus_One.py) | Easy |
 |0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python3](/Solutions/0070_Climbing_Stairs.py) | Easy |
