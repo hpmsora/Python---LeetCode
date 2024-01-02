@@ -11,7 +11,7 @@
 |0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python3](/Solutions/0002_Add_Two_Numbers.py) | Medium |
 |0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python3](/Solutions/0009_Palindrome_Number.py) | Easy |
 |0014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python3](/Solutions/0014_Longest_Common_Prefix.py) | Easy |
-|0015|[3Sum](https://leetcode.com/problems/3sum/) | [Python3](/Solutions/0015_3Sum.py) | Easy |
+|0015|[3Sum](https://leetcode.com/problems/3sum/) | [Python3](/Solutions/0015_3Sum.py) | Medium |
 |0017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python3](/Solutions/0017_Letter_Combinations_of_a_Phone_Number.py) | Medium |
 |0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python3](/Solutions/0021_Merge_Two_Sorted_Lists.py) | Easy |
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python3](/Solutions/0026_Remove_Duplicates_from_Sorted_Array.py) | Easy |
@@ -21,6 +21,7 @@
 |0038|[Count and Say](https://leetcode.com/problems/count-and-say/) | [Python3](/Solutions/0038_Count_and_Say.py) | Medium |
 |0048|[Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python3](/Solutions/0048_Rotate_Image.py) | Medium |
 |0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python3](/Solutions/0049_Group_Anagrams.py) | Medium |
+|0050|[Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python3](/Solutions/0050_Pow(x,n).py) | Medium |
 |0056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python3](/Solutions/0056_Merge_Intervals.py) | Medium |
 |0062|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python3](/Solutions/0062_Unique_Paths.py) | Medium |
 |0066|[Rotate List](https://leetcode.com/problems/rotate-list/) | [Python3](/Solutions/0061_Rotate_List.py) | Medium |
@@ -37,9 +38,11 @@
 |0130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Python3](/Solutions/0130_Surrounded_Regions.py) | Medium |
 |0141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python3](/Solutions/0141_Linked_List_Cycle.py) | Easy |
 |0151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python3](/Solutions/0151_Reverse_Words_in_a_String.py) | Medium |
+|0190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Python3](/Solutions/0190_Reverse_Bits.py) | Easy |
 |0202|[Happy Number](https://leetcode.com/problems/happy-number/) | [Python3](/Solutions/0202_Happy_Number.py) | Easy |
 |0208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Python3](/Solutions/0208_Implement_Trie_(Prefix_Tree).py) | Medium |
 |0209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Python3](/Solutions/0209_Minimum_Size_Subarray_Sum.py) | Medium |
+|0215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python3](/Solutions/0215_Kth_Largest_Element_in_an_Array.py) | Medium |
 |0219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Python3](/Solutions/0219_Contains_Duplicate_II.py) | Easy |
 |0222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [Python3](/Solutions/0222_Count_Complete_Tree_Nodes.py) | Easy |
 |0226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python3](/Solutions/0226_Invert_Binary_Tree.py) | Easy |
@@ -50,6 +53,7 @@
 |0290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python3](/Solutions/0290_Word_Pattern.py) | Medium |
 |0380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/word-pattern/) | [Python3](/Solutions/0380_Insert_Delete_GetRandom_O(1).py) | Medium |
 |0455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Python3](/Solutions/0455_Assign_Cookies.py) | Easy |
+|0530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Python3](0530_Minimum_Absolute_Difference_in_BST) | Easy |
 |1578|[Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [Python3](/Solutions/1578_Minimum_Time_to_Make_Rope_Colorful.py) | Medium |
 |1897|[Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | [Python3](/Solutions/1897_Redistribute_Characters_to_Make_All_Strings_Equal.py) | Easy |
 |2810[Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/) | [Python3](/Solutions/2810_Faulty_Keyboard.py) | Easy |
