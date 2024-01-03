@@ -39,6 +39,7 @@
 |0141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python3](/Solutions/0141_Linked_List_Cycle.py) | Easy |
 |0151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python3](/Solutions/0151_Reverse_Words_in_a_String.py) | Medium |
 |0190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Python3](/Solutions/0190_Reverse_Bits.py) | Easy |
+|0191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Python3](/Solutions/0191_Number_of_1_Bits.py) | Easy |
 |0202|[Happy Number](https://leetcode.com/problems/happy-number/) | [Python3](/Solutions/0202_Happy_Number.py) | Easy |
 |0208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Python3](/Solutions/0208_Implement_Trie_(Prefix_Tree).py) | Medium |
 |0209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Python3](/Solutions/0209_Minimum_Size_Subarray_Sum.py) | Medium |
