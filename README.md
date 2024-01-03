@@ -23,9 +23,10 @@
 |0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python3](/Solutions/0049_Group_Anagrams.py) | Medium |
 |0050|[Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python3](/Solutions/0050_Pow(x,n).py) | Medium |
 |0056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python3](/Solutions/0056_Merge_Intervals.py) | Medium |
+|0061|[Rotate List](https://leetcode.com/problems/rotate-list/) | [Python3](/Solutions/0061_Rotate_List.py) | Medium |
 |0062|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python3](/Solutions/0062_Unique_Paths.py) | Medium |
-|0066|[Rotate List](https://leetcode.com/problems/rotate-list/) | [Python3](/Solutions/0061_Rotate_List.py) | Medium |
 |0066|[Plus One](https://leetcode.com/problems/plus-one/) | [Python3](/Solutions/0066_Plus_One.py) | Easy |
+|0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python3](/Solutions/0069_Sqrt(x).py) | Easy |
 |0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python3](/Solutions/0070_Climbing_Stairs.py) | Easy |
 |0071|[Simplify Path](https://leetcode.com/problems/simplify-path/) | [Python3](/Solutions/0071_Simplify_Path.py) | Medium |
 |0073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Python3](/Solutions/0073_Set_Matrix_Zeroes.py) | Medium |
