@@ -39,6 +39,7 @@
 |0112|[Path Sum](https://leetcode.com/problems/path-sum/) | [Python3](/Solutions/0112_Path_Sum.py) | Easy |
 |0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python3](/Solutions/0125_Valid_Palindrome.py) | Easy |
 |0130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Python3](/Solutions/0130_Surrounded_Regions.py) | Medium |
+|0136|[Single Number](https://leetcode.com/problems/single-number/) | [Python3](/Solutions/0136_Single_Number.py) | Easy |
 |0141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python3](/Solutions/0141_Linked_List_Cycle.py) | Easy |
 |0151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python3](/Solutions/0151_Reverse_Words_in_a_String.py) | Medium |
 |0190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Python3](/Solutions/0190_Reverse_Bits.py) | Easy |
