@@ -10,6 +10,7 @@
 |---| ----- | -------- | ---------- |
 |0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python3](/Solutions/0002_Add_Two_Numbers.py) | Medium |
 |0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python3](/Solutions/0009_Palindrome_Number.py) | Easy |
+|0012[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python3](/Solutions/0012_Integer_to_Roman.py) | Medium |
 |0014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python3](/Solutions/0014_Longest_Common_Prefix.py) | Easy |
 |0015|[3Sum](https://leetcode.com/problems/3sum/) | [Python3](/Solutions/0015_3Sum.py) | Medium |
 |0017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python3](/Solutions/0017_Letter_Combinations_of_a_Phone_Number.py) | Medium |
@@ -64,5 +65,6 @@
 |2125|[Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | [Python3](/Solutions/2125_Number_of_Laser_Beams_in_a_Bank.py) | Medium |
 |2610|[Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | [Python3](/Solutions/2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.py) | Medium |
 |2810|[Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/) | [Python3](/Solutions/2810_Faulty_Keyboard.py) | Easy |
+|2870|[Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/) | [Python3](/Solutions/2870_Minimum_Number_of_Operations_to_Make_Array_Empty.py) | Medium |
 |2951|[Find the Peaks](https://leetcode.com/problems/find-the-peaks/) | [Python3](/Solutions/2951_Find_the_Peaks.py) | Easy |
 |2965|[Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | [Python3](/Solutions/2965_Find_Missing_and_Repeated_Values.py) | Easy |
