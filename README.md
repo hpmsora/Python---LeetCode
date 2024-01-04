@@ -33,6 +33,7 @@
 |0073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Python3](/Solutions/0073_Set_Matrix_Zeroes.py) | Medium |
 |0074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python3](/Solutions/0074_Search_a_2D_Matrix.py) | Medium |
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python3](/Solutions/0088_Merge_Sorted_Array.py) | Easy |
+|0092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python3](/Solutions/0092_Reverse_Linked_List_II.py) | Medium |
 |0100|[Same Tree](https://leetcode.com/problems/same-tree/) | [Python3](/Solutions/0100_Same_Tree.py) | Easy |
 |0101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python3](/Solutions/0101_Symmetric_Tree.py) | Easy |
 |0105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Python3](/Solutions/0105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py) | Medium |
