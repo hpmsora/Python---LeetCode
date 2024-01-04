@@ -10,7 +10,7 @@
 |---| ----- | -------- | ---------- |
 |0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python3](/Solutions/0002_Add_Two_Numbers.py) | Medium |
 |0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python3](/Solutions/0009_Palindrome_Number.py) | Easy |
-|0012[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python3](/Solutions/0012_Integer_to_Roman.py) | Medium |
+|0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python3](/Solutions/0012_Integer_to_Roman.py) | Medium |
 |0014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python3](/Solutions/0014_Longest_Common_Prefix.py) | Easy |
 |0015|[3Sum](https://leetcode.com/problems/3sum/) | [Python3](/Solutions/0015_3Sum.py) | Medium |
 |0017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python3](/Solutions/0017_Letter_Combinations_of_a_Phone_Number.py) | Medium |
