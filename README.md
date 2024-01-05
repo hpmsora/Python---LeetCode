@@ -46,6 +46,7 @@
 |0190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Python3](/Solutions/0190_Reverse_Bits.py) | Easy |
 |0191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Python3](/Solutions/0191_Number_of_1_Bits.py) | Easy |
 |0202|[Happy Number](https://leetcode.com/problems/happy-number/) | [Python3](/Solutions/0202_Happy_Number.py) | Easy |
+|0206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python3](/Solutions/0206_Reverse_Linked_List.py) | Easy |
 |0208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Python3](/Solutions/0208_Implement_Trie_(Prefix_Tree).py) | Medium |
 |0209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Python3](/Solutions/0209_Minimum_Size_Subarray_Sum.py) | Medium |
 |0215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python3](/Solutions/0215_Kth_Largest_Element_in_an_Array.py) | Medium |
