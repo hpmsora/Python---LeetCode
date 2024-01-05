@@ -40,6 +40,7 @@
 |0105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Python3](/Solutions/0105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py) | Medium |
 |0108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python3](/Solutions/0108_Convert_Sorted_Array_to_Binary_Search_Tree.py) | Easy |
 |0112|[Path Sum](https://leetcode.com/problems/path-sum/) | [Python3](/Solutions/0112_Path_Sum.py) | Easy |
+|0120|[Triangle](https://leetcode.com/problems/triangle/) | [Python3](/Solutions/0120_Triangle.py) | Medium |
 |0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python3](/Solutions/0125_Valid_Palindrome.py) | Easy |
 |0129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Python3](/Solutions/0129_Sum_Root_to_Leaf_Numbers.py) | Medium |
 |0130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Python3](/Solutions/0130_Surrounded_Regions.py) | Medium |
