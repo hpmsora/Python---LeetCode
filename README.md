@@ -60,6 +60,7 @@
 |0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python3](/Solutions/0242_Valid_Anagram.py) | Easy |
 |0274|[H-Index](https://leetcode.com/problems/h-index/) | [Python3](/Solutions/0274_H-Index.py) | Medium |
 |0290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python3](/Solutions/0290_Word_Pattern.py) | Medium |
+|0200|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python3](/Solutions/0300_Longest_Increasing_Subsequence.py) | Medium |
 |0380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/word-pattern/) | [Python3](/Solutions/0380_Insert_Delete_GetRandom_O(1).py) | Medium |
 |0455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Python3](/Solutions/0455_Assign_Cookies.py) | Easy |
 |0530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Python3](0530_Minimum_Absolute_Difference_in_BST) | Easy |
