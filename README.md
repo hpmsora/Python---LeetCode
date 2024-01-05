@@ -1,8 +1,4 @@
-# Python - LeetCode
- LeetCode Practice
-
-### LeetCode Coding Pactice
-
+# Project - LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
