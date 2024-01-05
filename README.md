@@ -42,6 +42,7 @@
 |0129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Python3](/Solutions/0129_Sum_Root_to_Leaf_Numbers.py) | Medium |
 |0130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Python3](/Solutions/0130_Surrounded_Regions.py) | Medium |
 |0133|[Clone Graph](https://leetcode.com/problems/clone-graph/) | [Python3](/Solutions/0133_Clone_Graph.py) | Medium |
+|0135|[Candy](https://leetcode.com/problems/candy/) | [Python3](/Solutions/0135_Candy.py) | Hard |
 |0136|[Single Number](https://leetcode.com/problems/single-number/) | [Python3](/Solutions/0136_Single_Number.py) | Easy |
 |0141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python3](/Solutions/0141_Linked_List_Cycle.py) | Easy |
 |0151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python3](/Solutions/0151_Reverse_Words_in_a_String.py) | Medium |
