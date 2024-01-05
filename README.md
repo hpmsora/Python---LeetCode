@@ -1,9 +1,7 @@
 # Python - LeetCode
  LeetCode Practice
 
-========
-
-### LeetCode Algorithm
+### LeetCode Coding Pactice
 
 
 | # | Title | Solution | Difficulty |
