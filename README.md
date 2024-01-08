@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|0001|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python3](/Solutions/0001_Two_Sum.py) | Easy |
 |0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python3](/Solutions/0002_Add_Two_Numbers.py) | Medium |
 |0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python3](/Solutions/0009_Palindrome_Number.py) | Easy |
 |0011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python3](/Solutions/0011_Container_With_Most_Water.py) | Medium |
