@@ -20,6 +20,7 @@
 |0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python3](/Solutions/0049_Group_Anagrams.py) | Medium |
 |0050|[Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python3](/Solutions/0050_Pow(x,n).py) | Medium |
 |0056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python3](/Solutions/0056_Merge_Intervals.py) | Medium |
+|0057|[Insert Interval](https://leetcode.com/problems/insert-interval/) | [Python3](/Solutions/0057_Insert_Interval.py) | Medium |
 |0061|[Rotate List](https://leetcode.com/problems/rotate-list/) | [Python3](/Solutions/0061_Rotate_List.py) | Medium |
 |0062|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python3](/Solutions/0062_Unique_Paths.py) | Medium |
 |0066|[Plus One](https://leetcode.com/problems/plus-one/) | [Python3](/Solutions/0066_Plus_One.py) | Easy |
@@ -44,9 +45,11 @@
 |0133|[Clone Graph](https://leetcode.com/problems/clone-graph/) | [Python3](/Solutions/0133_Clone_Graph.py) | Medium |
 |0135|[Candy](https://leetcode.com/problems/candy/) | [Python3](/Solutions/0135_Candy.py) | Hard |
 |0136|[Single Number](https://leetcode.com/problems/single-number/) | [Python3](/Solutions/0136_Single_Number.py) | Easy |
+|0136|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Python3](/Solutions/0138_Copy_List_with_Random_Pointer.py) | Medium |
 |0141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python3](/Solutions/0141_Linked_List_Cycle.py) | Easy |
 |0151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python3](/Solutions/0151_Reverse_Words_in_a_String.py) | Medium |
 |0155|[Min Stack](https://leetcode.com/problems/min-stack/) | [Python3](/Solutions/0155_Min_Stack.py) | Medium |
+|0167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python3](/Solutions/0167_Two_Sum_II_Input_Array_Is_Sorted.py) | Medium |
 |0190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Python3](/Solutions/0190_Reverse_Bits.py) | Easy |
 |0191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Python3](/Solutions/0191_Number_of_1_Bits.py) | Easy |
 |0202|[Happy Number](https://leetcode.com/problems/happy-number/) | [Python3](/Solutions/0202_Happy_Number.py) | Easy |
@@ -68,6 +71,7 @@
 |0455|[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Python3](/Solutions/0446_Arithmetic_Slices_II_Subsequence.py) | Hard |
 |0455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Python3](/Solutions/0455_Assign_Cookies.py) | Easy |
 |0530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Python3](0530_Minimum_Absolute_Difference_in_BST.py) | Easy |
+|0938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python3](0938_Range_Sum_of_BST.py) | Easy |
 |1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [Python3](1235_Maximum_Profit_in_Job_Scheduling.py) | Hard |
 |1492|[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [Python3](1492_The_kth_Factor_of_n.py) | Medium |
 |1578|[Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [Python3](/Solutions/1578_Minimum_Time_to_Make_Rope_Colorful.py) | Medium |
