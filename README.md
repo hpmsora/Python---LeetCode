@@ -77,6 +77,7 @@
 |0455|[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Python3](/Solutions/0446_Arithmetic_Slices_II_Subsequence.py) | Hard |
 |0455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Python3](/Solutions/0455_Assign_Cookies.py) | Easy |
 |0530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Python3](0530_Minimum_Absolute_Difference_in_BST.py) | Easy |
+|0872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [Python3](0872_Leaf-Similar_Trees.py) | Easy |
 |0938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python3](0938_Range_Sum_of_BST.py) | Easy |
 |0957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | [Python3](0957_Prison_Cells_After_N_Days.py) | Medium |
 |1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [Python3](1235_Maximum_Profit_in_Job_Scheduling.py) | Hard |
