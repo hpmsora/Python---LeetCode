@@ -18,6 +18,7 @@
 |0036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python3](/Solutions/0036_Valid_Sudoku.py) | Medium |
 |0038|[Count and Say](https://leetcode.com/problems/count-and-say/) | [Python3](/Solutions/0038_Count_and_Say.py) | Medium |
 |0045|[Count and Say](https://leetcode.com/problems/jump-game-ii/) | [Python3](/Solutions/0045_Jump_Game_II.py) | Medium |
+|0046|[Permutations](https://leetcode.com/problems/permutations/) | [Python3](/Solutions/0046_Permutations.py) | Medium |
 |0048|[Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python3](/Solutions/0048_Rotate_Image.py) | Medium |
 |0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python3](/Solutions/0049_Group_Anagrams.py) | Medium |
 |0050|[Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python3](/Solutions/0050_Pow(x,n).py) | Medium |
