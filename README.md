@@ -18,6 +18,7 @@
 |0036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python3](/Solutions/0036_Valid_Sudoku.py) | Medium |
 |0038|[Count and Say](https://leetcode.com/problems/count-and-say/) | [Python3](/Solutions/0038_Count_and_Say.py) | Medium |
 |0045|[Count and Say](https://leetcode.com/problems/jump-game-ii/) | [Python3](/Solutions/0045_Jump_Game_II.py) | Medium |
+|0046|[Permutations](https://leetcode.com/problems/permutations/) | [Python3](/Solutions/0046_Permutations.py) | Medium |
 |0048|[Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python3](/Solutions/0048_Rotate_Image.py) | Medium |
 |0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python3](/Solutions/0049_Group_Anagrams.py) | Medium |
 |0050|[Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python3](/Solutions/0050_Pow(x,n).py) | Medium |
@@ -31,15 +32,18 @@
 |0071|[Simplify Path](https://leetcode.com/problems/simplify-path/) | [Python3](/Solutions/0071_Simplify_Path.py) | Medium |
 |0073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Python3](/Solutions/0073_Set_Matrix_Zeroes.py) | Medium |
 |0074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python3](/Solutions/0074_Search_a_2D_Matrix.py) | Medium |
+|0077|[Combinations](https://leetcode.com/problems/combinations/) | [Python3](/Solutions/0077_Combinations.py) | Medium |
 |0082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Python3](/Solutions/0082_Remove_Duplicates_from_Sorted_List_II.py) | Medium |
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python3](/Solutions/0088_Merge_Sorted_Array.py) | Easy |
 |0092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python3](/Solutions/0092_Reverse_Linked_List_II.py) | Medium |
+|0098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python3](/Solutions/0098_Validate_Binary_Search_Tree.py) | Medium |
 |0100|[Same Tree](https://leetcode.com/problems/same-tree/) | [Python3](/Solutions/0100_Same_Tree.py) | Easy |
 |0101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python3](/Solutions/0101_Symmetric_Tree.py) | Easy |
 |0105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Python3](/Solutions/0105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py) | Medium |
 |0108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python3](/Solutions/0108_Convert_Sorted_Array_to_Binary_Search_Tree.py) | Easy |
 |0112|[Path Sum](https://leetcode.com/problems/path-sum/) | [Python3](/Solutions/0112_Path_Sum.py) | Easy |
 |0120|[Triangle](https://leetcode.com/problems/triangle/) | [Python3](/Solutions/0120_Triangle.py) | Medium |
+|0122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python3](/Solutions/0122_Best_Time_to_Buy_and_Sell_Stock_II.py) | Medium |
 |0124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Python3](/Solutions/0124_Binary_Tree_Maximum_Path_Sum.py) | Hard |
 |0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python3](/Solutions/0125_Valid_Palindrome.py) | Easy |
 |0128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Python3](/Solutions/0128_Longest_Consecutive_Sequence.py) | Medium |
@@ -51,6 +55,7 @@
 |0136|[Single Number](https://leetcode.com/problems/single-number/) | [Python3](/Solutions/0136_Single_Number.py) | Easy |
 |0136|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Python3](/Solutions/0138_Copy_List_with_Random_Pointer.py) | Medium |
 |0141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python3](/Solutions/0141_Linked_List_Cycle.py) | Easy |
+|0150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Python3](/Solutions/0150_Evaluate_Reverse_Polish_Notation.py) | Medium |
 |0151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python3](/Solutions/0151_Reverse_Words_in_a_String.py) | Medium |
 |0155|[Min Stack](https://leetcode.com/problems/min-stack/) | [Python3](/Solutions/0155_Min_Stack.py) | Medium |
 |0167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python3](/Solutions/0167_Two_Sum_II_Input_Array_Is_Sorted.py) | Medium |
@@ -77,7 +82,9 @@
 |0455|[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Python3](/Solutions/0446_Arithmetic_Slices_II_Subsequence.py) | Hard |
 |0455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Python3](/Solutions/0455_Assign_Cookies.py) | Easy |
 |0530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Python3](0530_Minimum_Absolute_Difference_in_BST.py) | Easy |
+|0872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [Python3](0872_Leaf-Similar_Trees.py) | Easy |
 |0938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python3](0938_Range_Sum_of_BST.py) | Easy |
+|0957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | [Python3](0957_Prison_Cells_After_N_Days.py) | Medium |
 |1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [Python3](1235_Maximum_Profit_in_Job_Scheduling.py) | Hard |
 |1492|[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [Python3](1492_The_kth_Factor_of_n.py) | Medium |
 |1578|[Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [Python3](/Solutions/1578_Minimum_Time_to_Make_Rope_Colorful.py) | Medium |
