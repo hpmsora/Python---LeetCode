@@ -25,6 +25,7 @@
 |0048|[Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python3](/Solutions/0048_Rotate_Image.py) | Medium |
 |0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python3](/Solutions/0049_Group_Anagrams.py) | Medium |
 |0050|[Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python3](/Solutions/0050_Pow(x,n).py) | Medium |
+|0054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python3](/Solutions/0054_Spiral_Matrix.py) | Medium |
 |0056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python3](/Solutions/0056_Merge_Intervals.py) | Medium |
 |0057|[Insert Interval](https://leetcode.com/problems/insert-interval/) | [Python3](/Solutions/0057_Insert_Interval.py) | Medium |
 |0061|[Rotate List](https://leetcode.com/problems/rotate-list/) | [Python3](/Solutions/0061_Rotate_List.py) | Medium |
