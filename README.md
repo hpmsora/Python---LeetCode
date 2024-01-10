@@ -26,6 +26,7 @@
 |0057|[Insert Interval](https://leetcode.com/problems/insert-interval/) | [Python3](/Solutions/0057_Insert_Interval.py) | Medium |
 |0061|[Rotate List](https://leetcode.com/problems/rotate-list/) | [Python3](/Solutions/0061_Rotate_List.py) | Medium |
 |0062|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python3](/Solutions/0062_Unique_Paths.py) | Medium |
+|0062|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python3](/Solutions/0064_Minimum_Path_Sum.py) | Medium |
 |0066|[Plus One](https://leetcode.com/problems/plus-one/) | [Python3](/Solutions/0066_Plus_One.py) | Easy |
 |0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python3](/Solutions/0069_Sqrt(x).py) | Easy |
 |0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python3](/Solutions/0070_Climbing_Stairs.py) | Easy |
