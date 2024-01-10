@@ -90,6 +90,7 @@
 |0455|[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Python3](/Solutions/0446_Arithmetic_Slices_II_Subsequence.py) | Hard |
 |0455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Python3](/Solutions/0455_Assign_Cookies.py) | Easy |
 |0530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Python3](0530_Minimum_Absolute_Difference_in_BST.py) | Easy |
+|0551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Python3](0551_Student_Attendance_Record_I.py) | Easy |
 |0743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Python3](0743_Network_Delay_Time.py) | Medium |
 |0872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [Python3](0872_Leaf-Similar_Trees.py) | Easy |
 |0938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python3](0938_Range_Sum_of_BST.py) | Easy |
