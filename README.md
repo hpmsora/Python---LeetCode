@@ -64,6 +64,7 @@
 |0136|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Python3](/Solutions/0138_Copy_List_with_Random_Pointer.py) | Medium |
 |0141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python3](/Solutions/0141_Linked_List_Cycle.py) | Easy |
 |0146|[LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python3](/Solutions/0146_LRU_Cache.py) | Medium |
+|0148|[Sort List](https://leetcode.com/problems/sort-list/) | [Python3](/Solutions/0148_Sort_List.py) | Medium |
 |0150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Python3](/Solutions/0150_Evaluate_Reverse_Polish_Notation.py) | Medium |
 |0151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python3](/Solutions/0151_Reverse_Words_in_a_String.py) | Medium |
 |0155|[Min Stack](https://leetcode.com/problems/min-stack/) | [Python3](/Solutions/0155_Min_Stack.py) | Medium |
