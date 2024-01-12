@@ -102,6 +102,7 @@
 |1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [Python3](1235_Maximum_Profit_in_Job_Scheduling.py) | Hard |
 |1492|[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [Python3](1492_The_kth_Factor_of_n.py) | Medium |
 |1578|[Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [Python3](/Solutions/1578_Minimum_Time_to_Make_Rope_Colorful.py) | Medium |
+|1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [Python3](/Solutions/1704_Determine_if_String_Halves_Are_Alike.py) | Easy |
 |1897|[Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | [Python3](/Solutions/1897_Redistribute_Characters_to_Make_All_Strings_Equal.py) | Easy |
 |2125|[Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | [Python3](/Solutions/2125_Number_of_Laser_Beams_in_a_Bank.py) | Medium |
 |2385|[Amount of Time for Binary Tree to Be Infected](http://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | [Python3](/Solutions/2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected.py) | Medium |
