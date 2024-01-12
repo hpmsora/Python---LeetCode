@@ -32,9 +32,10 @@
 |0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python3](/Solutions/0058_Length_of_Last_Word.py) | Easy |
 |0061|[Rotate List](https://leetcode.com/problems/rotate-list/) | [Python3](/Solutions/0061_Rotate_List.py) | Medium |
 |0062|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python3](/Solutions/0062_Unique_Paths.py) | Medium |
-|0062|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python3](/Solutions/0064_Minimum_Path_Sum.py) | Medium |
 |0063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Python3](/Solutions/0063_Unique_Paths_II.py) | Medium |
+|0064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python3](/Solutions/0064_Minimum_Path_Sum.py) | Medium |
 |0066|[Plus One](https://leetcode.com/problems/plus-one/) | [Python3](/Solutions/0066_Plus_One.py) | Easy |
+|0067|[Add Binary](https://leetcode.com/problems/add-binary/) | [Python3](/Solutions/0067_Add_Binary.py) | Easy |
 |0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python3](/Solutions/0069_Sqrt(x).py) | Easy |
 |0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python3](/Solutions/0070_Climbing_Stairs.py) | Easy |
 |0071|[Simplify Path](https://leetcode.com/problems/simplify-path/) | [Python3](/Solutions/0071_Simplify_Path.py) | Medium |
