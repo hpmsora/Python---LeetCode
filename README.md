@@ -42,9 +42,10 @@
 |0073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Python3](/Solutions/0073_Set_Matrix_Zeroes.py) | Medium |
 |0074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python3](/Solutions/0074_Search_a_2D_Matrix.py) | Medium |
 |0077|[Combinations](https://leetcode.com/problems/combinations/) | [Python3](/Solutions/0077_Combinations.py) | Medium |
+|0080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Python3](/Solutions/0080_Remove_Duplicates_from_Sorted_Array_II.py) | Medium |
 |0082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Python3](/Solutions/0082_Remove_Duplicates_from_Sorted_List_II.py) | Medium |
-|0082|[Partition List](https://leetcode.com/problems/partition-list/) | [Python3](/0086_Partition_List.py) | Medium |
-|0083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python3](/0083_Remove_Duplicates_from_Sorted_List.py) | Easy |
+|0083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python3](/Solutions/0083_Remove_Duplicates_from_Sorted_List.py) | Easy |
+|0086|[Partition List](https://leetcode.com/problems/partition-list/) | [Python3](/Solutions/0086_Partition_List.py) | Medium |
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python3](/Solutions/0088_Merge_Sorted_Array.py) | Easy |
 |0092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python3](/Solutions/0092_Reverse_Linked_List_II.py) | Medium |
 |0098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python3](/Solutions/0098_Validate_Binary_Search_Tree.py) | Medium |
