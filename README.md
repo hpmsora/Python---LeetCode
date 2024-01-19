@@ -102,6 +102,7 @@
 |0551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Python3](0551_Student_Attendance_Record_I.py) | Easy |
 |0743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Python3](0743_Network_Delay_Time.py) | Medium |
 |0872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [Python3](0872_Leaf-Similar_Trees.py) | Easy |
+|0931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [Python3](0931_Minimum_Falling_Path_Sum.py) | Medium |
 |0938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python3](0938_Range_Sum_of_BST.py) | Easy |
 |0957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | [Python3](0957_Prison_Cells_After_N_Days.py) | Medium |
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [Python3](1026_Maximum_Difference_Between_Node_and_Ancestor.py) | Medium |
