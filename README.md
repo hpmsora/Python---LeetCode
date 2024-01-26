@@ -100,19 +100,20 @@
 |0433|[Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | [Python3](/Solutions/0433_Minimum_Genetic_Mutation.py) | Medium |
 |0455|[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Python3](/Solutions/0446_Arithmetic_Slices_II_Subsequence.py) | Hard |
 |0455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Python3](/Solutions/0455_Assign_Cookies.py) | Easy |
-|0530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Python3](0530_Minimum_Absolute_Difference_in_BST.py) | Easy |
-|0551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Python3](0551_Student_Attendance_Record_I.py) | Easy |
-|0645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Python3](0645_Set_Mismatch.py) | Easy |
-|0743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Python3](0743_Network_Delay_Time.py) | Medium |
-|0872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [Python3](0872_Leaf-Similar_Trees.py) | Easy |
-|0931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [Python3](0931_Minimum_Falling_Path_Sum.py) | Medium |
-|0938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python3](0938_Range_Sum_of_BST.py) | Easy |
-|0957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | [Python3](0957_Prison_Cells_After_N_Days.py) | Medium |
-|1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [Python3](1026_Maximum_Difference_Between_Node_and_Ancestor.py) | Medium |
-|1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [Python3](1207_Unique_Number_of_Occurrences.py) | Easy |
-|1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [Python3](1235_Maximum_Profit_in_Job_Scheduling.py) | Hard |
-|1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [Python3](1329_Sort_the_Matrix_Diagonally.py) | Medium |
-|1492|[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [Python3](1492_The_kth_Factor_of_n.py) | Medium |
+|0530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Python3](/Solutions/0530_Minimum_Absolute_Difference_in_BST.py) | Easy |
+|0551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Python3](/Solutions/0551_Student_Attendance_Record_I.py) | Easy |
+|0645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Python3](/Solutions/0645_Set_Mismatch.py) | Easy |
+|0743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Python3](/Solutions/0743_Network_Delay_Time.py) | Medium |
+|0859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Python3](/Solutions/0859_Buddy_Strings.py) | Easy |
+|0872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [Python3](/Solutions/0872_Leaf-Similar_Trees.py) | Easy |
+|0931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [Python3](/Solutions/0931_Minimum_Falling_Path_Sum.py) | Medium |
+|0938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python3](/Solutions/0938_Range_Sum_of_BST.py) | Easy |
+|0957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | [Python3](/Solutions/0957_Prison_Cells_After_N_Days.py) | Medium |
+|1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [Python3](/Solutions/1026_Maximum_Difference_Between_Node_and_Ancestor.py) | Medium |
+|1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [Python3](/Solutions/1207_Unique_Number_of_Occurrences.py) | Easy |
+|1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [Python3](/Solutions/1235_Maximum_Profit_in_Job_Scheduling.py) | Hard |
+|1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [Python3](/Solutions/1329_Sort_the_Matrix_Diagonally.py) | Medium |
+|1492|[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [Python3](/Solutions/1492_The_kth_Factor_of_n.py) | Medium |
 |1578|[Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [Python3](/Solutions/1578_Minimum_Time_to_Make_Rope_Colorful.py) | Medium |
 |1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [Python3](/Solutions/1704_Determine_if_String_Halves_Are_Alike.py) | Easy |
 |1897|[Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | [Python3](/Solutions/1897_Redistribute_Characters_to_Make_All_Strings_Equal.py) | Easy |
