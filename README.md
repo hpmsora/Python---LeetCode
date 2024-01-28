@@ -116,6 +116,7 @@
 |0938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python3](/Solutions/0938_Range_Sum_of_BST.py) | Easy |
 |0957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | [Python3](/Solutions/0957_Prison_Cells_After_N_Days.py) | Medium |
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [Python3](/Solutions/1026_Maximum_Difference_Between_Node_and_Ancestor.py) | Medium |
+|1176|[Diet Plan Performance](https://leetcode.com/problems/diet-plan-performance/) | [Python3](/Solutions/1176_Diet_Plan_Performance.py) | Easy |
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [Python3](/Solutions/1207_Unique_Number_of_Occurrences.py) | Easy |
 |1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [Python3](/Solutions/1235_Maximum_Profit_in_Job_Scheduling.py) | Hard |
 |1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [Python3](/Solutions/1266_Minimum_Time_Visiting_All_Points.py) | Easy |
