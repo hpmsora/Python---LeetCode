@@ -96,6 +96,7 @@
 |0290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python3](/Solutions/0290_Word_Pattern.py) | Medium |
 |0200|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python3](/Solutions/0300_Longest_Increasing_Subsequence.py) | Medium |
 |0322|[Coin Change](https://leetcode.com/problems/coin-change/) | [Python3](/Solutions/0322_Coin_Change.py) | Medium |
+|0345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Python3](/Solutions/0345_Reverse_Vowels_of_a_String.py) | Easy |
 |0380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/word-pattern/) | [Python3](/Solutions/0380_Insert_Delete_GetRandom_O(1).py) | Medium |
 |0389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Python3](/Solutions/0389_Find_the_Difference.py) | Easy |
 |0433|[Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | [Python3](/Solutions/0433_Minimum_Genetic_Mutation.py) | Medium |
