@@ -118,6 +118,7 @@
 |1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [Python3](/Solutions/1266_Minimum_Time_Visiting_All_Points.py) | Easy |
 |1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [Python3](/Solutions/1329_Sort_the_Matrix_Diagonally.py) | Medium |
 |1492|[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [Python3](/Solutions/1492_The_kth_Factor_of_n.py) | Medium |
+|1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Python3](/Solutions/1528_Shuffle_String.py) | Easy |
 |1578|[Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [Python3](/Solutions/1578_Minimum_Time_to_Make_Rope_Colorful.py) | Medium |
 |1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [Python3](/Solutions/1704_Determine_if_String_Halves_Are_Alike.py) | Easy |
 |1897|[Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | [Python3](/Solutions/1897_Redistribute_Characters_to_Make_All_Strings_Equal.py) | Easy |
