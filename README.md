@@ -76,6 +76,7 @@
 |0150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Python3](/Solutions/0150_Evaluate_Reverse_Polish_Notation.py) | Medium |
 |0151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python3](/Solutions/0151_Reverse_Words_in_a_String.py) | Medium |
 |0155|[Min Stack](https://leetcode.com/problems/min-stack/) | [Python3](/Solutions/0155_Min_Stack.py) | Medium |
+|0157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) | [Python3](/Solutions/0157_Read_N_Characters_Given_Read4.py) | Easy |
 |0162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python3](/Solutions/0162_Find_Peak_Element.py) | Medium |
 |0167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python3](/Solutions/0167_Two_Sum_II_Input_Array_Is_Sorted.py) | Medium |
 |0172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Python3](/Solutions/0172_Factorial_Trailing_Zeroes.py) | Medium |
@@ -92,10 +93,12 @@
 |0226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python3](/Solutions/0226_Invert_Binary_Tree.py) | Easy |
 |0228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Python3](/Solutions/0228_Summary_Ranges.py) | Easy |
 |0230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Python3](/Solutions/0230_Kth_Smallest_Element_in_a_BST.py) | Medium |
+|0232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Python3](/Solutions/0232_Implement_Queue_using_Stacks.py) | Easy |
 |0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python3](/Solutions/0242_Valid_Anagram.py) | Easy |
 |0274|[H-Index](https://leetcode.com/problems/h-index/) | [Python3](/Solutions/0274_H-Index.py) | Medium |
 |0290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python3](/Solutions/0290_Word_Pattern.py) | Medium |
 |0300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python3](/Solutions/0300_Longest_Increasing_Subsequence.py) | Medium |
+|0303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Python3](/Solutions/0303_Range_Sum_Query_Immutable.py) | Easy |
 |0322|[Coin Change](https://leetcode.com/problems/coin-change/) | [Python3](/Solutions/0322_Coin_Change.py) | Medium |
 |0325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | [Python3](/Solutions/0325_Maximum_Size_Subarray_Sum_Equals_k.py) | Medium |
 |0345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Python3](/Solutions/0345_Reverse_Vowels_of_a_String.py) | Easy |
