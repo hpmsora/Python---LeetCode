@@ -116,6 +116,7 @@
 |0551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Python3](/Solutions/0551_Student_Attendance_Record_I.py) | Easy |
 |0572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Python3](/Solutions/0572_Subtree_of_Another_Tree.py) | Easy |
 |0645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Python3](/Solutions/0645_Set_Mismatch.py) | Easy |
+|0739|[Network Delay Time](https://leetcode.com/problems/daily-temperatures/) | [Python3](/Solutions/0739_Daily_Temperatures.py) | Medium |
 |0743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Python3](/Solutions/0743_Network_Delay_Time.py) | Medium |
 |0859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Python3](/Solutions/0859_Buddy_Strings.py) | Easy |
 |0872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [Python3](/Solutions/0872_Leaf-Similar_Trees.py) | Easy |
