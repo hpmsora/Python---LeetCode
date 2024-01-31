@@ -4,6 +4,7 @@
 |---| ----- | -------- | ---------- |
 |0001|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python3](/Solutions/0001_Two_Sum.py) | Easy |
 |0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python3](/Solutions/0002_Add_Two_Numbers.py) | Medium |
+|0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python3](/Solutions/0005_Longest_Palindromic_Substring.py) | Medium |
 |0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python3](/Solutions/0009_Palindrome_Number.py) | Easy |
 |0011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python3](/Solutions/0011_Container_With_Most_Water.py) | Medium |
 |0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python3](/Solutions/0012_Integer_to_Roman.py) | Medium |
