@@ -129,6 +129,7 @@
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [Python3](/Solutions/1207_Unique_Number_of_Occurrences.py) | Easy |
 |1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [Python3](/Solutions/1235_Maximum_Profit_in_Job_Scheduling.py) | Hard |
 |1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [Python3](/Solutions/1266_Minimum_Time_Visiting_All_Points.py) | Easy |
+|1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/) | [Python3](/Solutions/1291_Sequential_Digits.py) | Medium |
 |1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [Python3](/Solutions/1329_Sort_the_Matrix_Diagonally.py) | Medium |
 |1492|[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [Python3](/Solutions/1492_The_kth_Factor_of_n.py) | Medium |
 |1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Python3](/Solutions/1528_Shuffle_String.py) | Easy |
