@@ -108,6 +108,7 @@
 |0345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Python3](/Solutions/0345_Reverse_Vowels_of_a_String.py) | Easy |
 |0364|[Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) | [Python3](/Solutions/0364_Nested_List_Weight_Sum_II.py) | Medium |
 |0380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/word-pattern/) | [Python3](/Solutions/0380_Insert_Delete_GetRandom_O(1).py) | Medium |
+|0387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python3](/Solutions/0387_First_Unique_Character_in_a_String.py) | Easy |
 |0389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Python3](/Solutions/0389_Find_the_Difference.py) | Easy |
 |0433|[Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | [Python3](/Solutions/0433_Minimum_Genetic_Mutation.py) | Medium |
 |0443|[String Compression](https://leetcode.com/problems/string-compression/) | [Python3](/Solutions/0443_String_Compression.py) | Medium |
