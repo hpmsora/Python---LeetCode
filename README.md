@@ -100,6 +100,7 @@
 |0232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Python3](/Solutions/0232_Implement_Queue_using_Stacks.py) | Easy |
 |0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python3](/Solutions/0242_Valid_Anagram.py) | Easy |
 |0249|[Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/) | [Python3](/Solutions/0249_Group_Shifted_Strings.py) | Medium |
+|0268|[Missing Number](https://leetcode.com/problems/missing-number/) | [Python3](/Solutions/0268_Missing_Number.py) | Easy |
 |0274|[H-Index](https://leetcode.com/problems/h-index/) | [Python3](/Solutions/0274_H-Index.py) | Medium |
 |0290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python3](/Solutions/0290_Word_Pattern.py) | Medium |
 |0300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python3](/Solutions/0300_Longest_Increasing_Subsequence.py) | Medium |
