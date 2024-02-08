@@ -106,6 +106,7 @@
 |0268|[Missing Number](https://leetcode.com/problems/missing-number/) | [Python3](/Solutions/0268_Missing_Number.py) | Easy |
 |0270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | [Python3](/Solutions/0270_Closest_Binary_Search_Tree_Value.py) | Easy |
 |0274|[H-Index](https://leetcode.com/problems/h-index/) | [Python3](/Solutions/0274_H-Index.py) | Medium |
+|0279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Python3](/Solutions/0279_Perfect_Squares.py) | Medium |
 |0290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python3](/Solutions/0290_Word_Pattern.py) | Medium |
 |0300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python3](/Solutions/0300_Longest_Increasing_Subsequence.py) | Medium |
 |0303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Python3](/Solutions/0303_Range_Sum_Query_Immutable.py) | Easy |
