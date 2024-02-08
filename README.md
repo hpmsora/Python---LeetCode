@@ -1,6 +1,6 @@
 # Project - LeetCode
 
-| # | Title | Solution | Difficulty |
+| Order | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |0001|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python3](/Solutions/0001_Two_Sum.py) | Easy |
 |0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python3](/Solutions/0002_Add_Two_Numbers.py) | Medium |
