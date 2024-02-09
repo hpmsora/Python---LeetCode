@@ -5,40 +5,51 @@
 #         self.next = next
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        added = ListNode()
-        link_added = added
-        carry = int
+        # Reserve original link list
+        dummy_1 = ListNode(val=-1, next=l1)
+        dummy_2 = ListNode(val=-1, next=l2)
+        
+        # variables
         carry = 0
-        l1_next = None
-        l2_next = None
+        longer_l = dummy_2 # solution (l2 prior)
+        
+        # Loop - until both l1 and l2 empty
         while l1 or l2:
+            # pop l1:
             l1_val = 0
-            l2_val = 0
-            if not l1:
-                l1_val = 0
-            else:
+            if l1:
                 l1_val = l1.val
-                l1_next = l1.next
-            if not l2:
-                l2_val = 0
-            else:
+            
+            # pop l2:
+            l2_val = 0
+            if l2:
                 l2_val = l2.val
-                l2_next = l2.next
-
-            sum_l1_l2 = l1_val + l2_val + carry
-            carry = int(sum_l1_l2 / 10)
-            sum_l1_l2 = sum_l1_l2 % 10
-            link_added.val = sum_l1_l2
-            if l1_next or l2_next:
-                link_added.next = ListNode()
-                link_added = link_added.next
-
-            l1 = l1_next
-            l2 = l2_next
-        if carry == 0:
-            link_added = None
-        else:
-            link_added.next = ListNode()
-            link_added = link_added.next
-            link_added.val = carry
-        return added
+            
+            # addition include carry and update carry
+            new_val = l1_val + l2_val + carry
+            carry = new_val // 10
+            new_val = new_val % 10
+                
+            # update l1 and l2:
+            if l1:
+                l1.val = new_val
+                l1 = l1.next
+                longer_l = dummy_1
+            if l2:
+                l2.val = new_val
+                l2 = l2.next
+                longer_l = dummy_2
+            
+        # last carry check
+        if carry == 1:
+            temp_longer = longer_l # store solution pointer
+            
+            # loop - pointer to the last node
+            while temp_longer.next:
+                temp_longer = temp_longer.next
+            
+            # add 1
+            temp_longer.next = ListNode(val=1, next=None)
+        
+        # RETURN
+        return longer_l.next
