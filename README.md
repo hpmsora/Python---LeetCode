@@ -128,6 +128,7 @@
 |0459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [Python3](/Solutions/0459_Repeated_Substring_Pattern.py) | Easy |
 |0501|[Repeated Substring Pattern](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Python3](/Solutions/0501_Find_Mode_in_Binary_Search_Tree.py) | Easy |
 |0515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Python3](/Solutions/0515_Find_Largest_Value_in_Each_Tree_Row.py) | Medium |
+|0528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | [Python3](/Solutions/0528_Random_Pick_with_Weight.py) | Medium |
 |0530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Python3](/Solutions/0530_Minimum_Absolute_Difference_in_BST.py) | Easy |
 |0543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python3](/Solutions/0543_Diameter_of_Binary_Tree.py) | Easy |
 |0551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Python3](/Solutions/0551_Student_Attendance_Record_I.py) | Easy |
