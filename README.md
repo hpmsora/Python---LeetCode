@@ -144,6 +144,7 @@
 |0743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Python3](/Solutions/0743_Network_Delay_Time.py) | Medium |
 |0859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Python3](/Solutions/0859_Buddy_Strings.py) | Easy |
 |0872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [Python3](/Solutions/0872_Leaf-Similar_Trees.py) | Easy |
+|0921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Python3](/Solutions/0921_Minimum_Add_to_Make_Parentheses_Valid.py) | Medium |
 |0931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [Python3](/Solutions/0931_Minimum_Falling_Path_Sum.py) | Medium |
 |0938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python3](/Solutions/0938_Range_Sum_of_BST.py) | Easy |
 |0957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | [Python3](/Solutions/0957_Prison_Cells_After_N_Days.py) | Medium |
