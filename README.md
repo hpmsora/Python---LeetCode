@@ -19,6 +19,7 @@
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python3](/Solutions/0026_Remove_Duplicates_from_Sorted_Array.py) | Easy |
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/) | [Python3](/Solutions/0027_Remove_Element.py) | Easy |
 |0028|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Python3](/Solutions/0028_Find_the_Index_of_the_First_Occurrence_in_a_String.py) | Easy |
+|0031|[Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python3](/Solutions/0031_Next_Permutation.py) | Medium |
 |0035|[0035_Search_Insert_Position](https://leetcode.com/problems/search-insert-position/) | [Python3](/Solutions/0035_Search_Insert_Position.py) | Easy |
 |0036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python3](/Solutions/0036_Valid_Sudoku.py) | Medium |
 |0038|[Count and Say](https://leetcode.com/problems/count-and-say/) | [Python3](/Solutions/0038_Count_and_Say.py) | Medium |
