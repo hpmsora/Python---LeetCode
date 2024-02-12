@@ -137,6 +137,7 @@
 |0551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Python3](/Solutions/0551_Student_Attendance_Record_I.py) | Easy |
 |0572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Python3](/Solutions/0572_Subtree_of_Another_Tree.py) | Easy |
 |0645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Python3](/Solutions/0645_Set_Mismatch.py) | Easy |
+|0670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/) | [Python3](/Solutions/0670_Maximum_Swap.py) | Medium |
 |0680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [Python3](/Solutions/0680_Valid_Palindrome_II.py) | Easy |
 |0708|[Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/) | [Python3](/Solutions/0708_Insert_into_a_Sorted_Circular_Linked_List.py) | Medium |
 |0739|[Network Delay Time](https://leetcode.com/problems/daily-temperatures/) | [Python3](/Solutions/0739_Daily_Temperatures.py) | Medium |
