@@ -116,6 +116,7 @@
 |0322|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) | [Python3](/Solutions/0314_Binary_Tree_Vertical_Order_Traversal.py) | Medium |
 |0322|[Coin Change](https://leetcode.com/problems/coin-change/) | [Python3](/Solutions/0322_Coin_Change.py) | Medium |
 |0325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | [Python3](/Solutions/0325_Maximum_Size_Subarray_Sum_Equals_k.py) | Medium |
+|0339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) | [Python3](/Solutions/0339_Nested_List_Weight_Sum.py) | Medium |
 |0345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Python3](/Solutions/0345_Reverse_Vowels_of_a_String.py) | Easy |
 |0346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | [Python3](/Solutions/0346_Moving_Average_from_Data_Stream.py) | Easy |
 |0364|[Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) | [Python3](/Solutions/0364_Nested_List_Weight_Sum_II.py) | Medium |
