@@ -38,6 +38,7 @@
 |0062|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python3](/Solutions/0062_Unique_Paths.py) | Medium |
 |0063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Python3](/Solutions/0063_Unique_Paths_II.py) | Medium |
 |0064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python3](/Solutions/0064_Minimum_Path_Sum.py) | Medium |
+|0065|[Valid Number](https://leetcode.com/problems/valid-number/) | [Python3](/Solutions/0065_Valid_Number.py) | Hard |
 |0066|[Plus One](https://leetcode.com/problems/plus-one/) | [Python3](/Solutions/0066_Plus_One.py) | Easy |
 |0067|[Add Binary](https://leetcode.com/problems/add-binary/) | [Python3](/Solutions/0067_Add_Binary.py) | Easy |
 |0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python3](/Solutions/0069_Sqrt(x).py) | Easy |
