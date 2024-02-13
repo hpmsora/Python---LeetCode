@@ -124,6 +124,7 @@
 |0380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/word-pattern/) | [Python3](/Solutions/0380_Insert_Delete_GetRandom_O(1).py) | Medium |
 |0387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python3](/Solutions/0387_First_Unique_Character_in_a_String.py) | Easy |
 |0389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Python3](/Solutions/0389_Find_the_Difference.py) | Easy |
+|0398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/) | [Python3](/Solutions/0398_Random_Pick_Index.py) | Medium |
 |0408|[Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) | [Python3](/Solutions/0408_Valid_Word_Abbreviation.py) | Easy |
 |0426|[Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) | [Python3](/Solutions/0426_Convert_Binary_Search_Tree_to_Sorted_Doubly_Linked_List.py) | Medium |
 |0433|[Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | [Python3](/Solutions/0433_Minimum_Genetic_Mutation.py) | Medium |
