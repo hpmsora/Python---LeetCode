@@ -6,20 +6,18 @@
 #         self.right = right
 class Solution:
     def minDepth(self, root: Optional[TreeNode]) -> int:
-        def helper(_root, _depth):
-            if not (_root.left or _root.right):
-                return _depth + 1
-            
-            sol = []
-            if _root.left:
-                sol.append(helper(_root.left, _depth + 1))
-
-            if _root.right:
-                sol.append(helper(_root.right, _depth + 1))
-            
-            return min(sol)
-        
         if not root:
             return 0
+        # helper - DFS
+        def helper(_root):
+            queue = collections.deque([(_root, 1)])
+            while queue:
+                node, depth = queue.popleft()
+                if not (node.left or node.right):
+                    return depth
+                if node.left:
+                    queue.append((node.left, depth+1))
+                if node.right:
+                    queue.append((node.right, depth+1))
         
-        return helper(root, 0)
+        return helper(root)
