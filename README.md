@@ -168,6 +168,7 @@
 |1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [Python3](/Solutions/1329_Sort_the_Matrix_Diagonally.py) | Medium |
 |1492|[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [Python3](/Solutions/1492_The_kth_Factor_of_n.py) | Medium |
 |1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Python3](/Solutions/1528_Shuffle_String.py) | Easy |
+|1539|[Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Python3](/Solutions/1539_Kth_Missing_Positive_Number.py) | Easy |
 |1570|[Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/) | [Python3](/Solutions/1570_Dot_Product_of_Two_Sparse_Vectors.py) | Medium |
 |1578|[Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [Python3](/Solutions/1578_Minimum_Time_to_Make_Rope_Colorful.py) | Medium |
 |1650|[Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/) | [Python3](/Solutions/1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III.py) | Medium |
