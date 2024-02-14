@@ -107,6 +107,7 @@
 |0236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Python3](/Solutions/0236_Lowest_Common_Ancestor_of_a_Binary_Tree.py) | Medium |
 |0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python3](/Solutions/0242_Valid_Anagram.py) | Easy |
 |0249|[Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/) | [Python3](/Solutions/0249_Group_Shifted_Strings.py) | Medium |
+|0266|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | [Python3](/Solutions/0266_Palindrome_Permutation.py) | Easy |
 |0268|[Missing Number](https://leetcode.com/problems/missing-number/) | [Python3](/Solutions/0268_Missing_Number.py) | Easy |
 |0270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | [Python3](/Solutions/0270_Closest_Binary_Search_Tree_Value.py) | Easy |
 |0274|[H-Index](https://leetcode.com/problems/h-index/) | [Python3](/Solutions/0274_H-Index.py) | Medium |
