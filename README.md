@@ -160,6 +160,7 @@
 |0986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [Python3](/Solutions/0986_Interval_List_Intersections.py) | Medium |
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Python3](/Solutions/1004_Max_Consecutive_Ones_III.py) | Medium |
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [Python3](/Solutions/1026_Maximum_Difference_Between_Node_and_Ancestor.py) | Medium |
+|1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Python3](/Solutions/1047_Remove_All_Adjacent_Duplicates_In_String.py) | Easy |
 |1176|[Diet Plan Performance](https://leetcode.com/problems/diet-plan-performance/) | [Python3](/Solutions/1176_Diet_Plan_Performance.py) | Easy |
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [Python3](/Solutions/1207_Unique_Number_of_Occurrences.py) | Easy |
 |1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [Python3](/Solutions/1235_Maximum_Profit_in_Job_Scheduling.py) | Hard |
