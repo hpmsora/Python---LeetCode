@@ -1,7 +1,7 @@
 class LRUCache:
 
     def __init__(self, capacity: int):
-        self.stack_size = 0
+        self.size = 0
         self.capacity = capacity
         self.stack = collections.OrderedDict()
 
@@ -14,14 +14,15 @@ class LRUCache:
 
     def put(self, key: int, value: int) -> None:
         if key in self.stack:
-            self.stack[key]=value
             self.stack.move_to_end(key)
-        elif self.capacity == self.stack_size:
+            self.stack[key] = value
+        elif self.size == self.capacity:
             self.stack.popitem(last=False)
-            self.stack[key]=value
+            self.stack[key] = value
         else:
-            self.stack_size += 1
-            self.stack[key]=value
+            self.stack[key] = value
+            self.size += 1
+
 
 
 # Your LRUCache object will be instantiated and called as such:
