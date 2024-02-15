@@ -138,6 +138,7 @@
 |0455|[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Python3](/Solutions/0446_Arithmetic_Slices_II_Subsequence.py) | Hard |
 |0455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Python3](/Solutions/0455_Assign_Cookies.py) | Easy |
 |0459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [Python3](/Solutions/0459_Repeated_Substring_Pattern.py) | Easy |
+|0498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [Python3](/Solutions/0498_Diagonal_Traverse.py) | Medium |
 |0501|[Repeated Substring Pattern](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Python3](/Solutions/0501_Find_Mode_in_Binary_Search_Tree.py) | Easy |
 |0515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Python3](/Solutions/0515_Find_Largest_Value_in_Each_Tree_Row.py) | Medium |
 |0523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Python3](/Solutions/0523_Continuous_Subarray_Sum.py) | Medium |
