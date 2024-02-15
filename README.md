@@ -156,6 +156,7 @@
 |0791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | [Python3](/Solutions/0791_Custom_Sort_String.py) | Medium |
 |0859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Python3](/Solutions/0859_Buddy_Strings.py) | Easy |
 |0863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Python3](/Solutions/0863_All_Nodes_Distance_K_in_Binary_Tree.py) | Medium |
+|0865|[Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [Python3](/Solutions/0865_Smallest_Subtree_withall_the_Deepest_Nodes.py) | Medium |
 |0872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [Python3](/Solutions/0872_Leaf-Similar_Trees.py) | Easy |
 |0921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Python3](/Solutions/0921_Minimum_Add_to_Make_Parentheses_Valid.py) | Medium |
 |0931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [Python3](/Solutions/0931_Minimum_Falling_Path_Sum.py) | Medium |
