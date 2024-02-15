@@ -1,22 +1,23 @@
 class Solution:
     def findClosestElements(self, arr: List[int], k: int, x: int) -> List[int]:
-        heap = [(float('-inf'), x) for x in range(k)]
+        left = 0
+        right = len(arr) - k
+        mid = 0
 
-        heapq.heapify(heap)
+        while left < right:
+            mid = (left + right) // 2
 
-        for num in arr:
-            diff = abs(x - num)
+            if arr[mid] > x:
+                right = mid
+            elif x > arr[mid+k]:
+                left = mid + 1
+            else:
+                mid_dist = abs(arr[mid] - x)
+                mid_k_dist = abs(arr[mid+k] - x)
 
-            last_diff, last_num = heap[0]
-
-            last_diff *= -1
-
-            if last_diff > diff:
-                heapq.heappushpop(heap, (-1*diff, num))
+                if mid_dist <= mid_k_dist:
+                    right = mid
+                else:
+                    left = mid + 1
         
-        sol = []
-        for _, val in heap:
-            sol.append(val)
-
-        return sorted(sol)
-            
+        return arr[left:left+k]
