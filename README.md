@@ -88,6 +88,7 @@
 |0163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [Python3](/Solutions/0163_Missing_Ranges.py) | Easy |
 |0167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python3](/Solutions/0167_Two_Sum_II_Input_Array_Is_Sorted.py) | Medium |
 |0172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Python3](/Solutions/0172_Factorial_Trailing_Zeroes.py) | Medium |
+|0173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Python3](/Solutions/0173_Binary_Search_Tree_Iterator.py) | Medium |
 |0190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Python3](/Solutions/0190_Reverse_Bits.py) | Easy |
 |0191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Python3](/Solutions/0191_Number_of_1_Bits.py) | Easy |
 |0198|[House Robber](https://leetcode.com/problems/house-robber/) | [Python3](/Solutions/0198_House_Robber.py) | Medium |
