@@ -185,6 +185,7 @@
 |1570|[Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/) | [Python3](/Solutions/1570_Dot_Product_of_Two_Sparse_Vectors.py) | Medium |
 |1578|[Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [Python3](/Solutions/1578_Minimum_Time_to_Make_Rope_Colorful.py) | Medium |
 |1650|[Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/) | [Python3](/Solutions/1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III.py) | Medium |
+|1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [Python3](/Solutions/1662_Check_If_Two_String_Arrays_are_Equivalent.py) | Easy |
 |1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [Python3](/Solutions/1704_Determine_if_String_Halves_Are_Alike.py) | Easy |
 |1762|[Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/) | [Python3](/Solutions/1762_Buildings_Withan_Ocean_View.py) | Medium |
 |1897|[Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | [Python3](/Solutions/1897_Redistribute_Characters_to_Make_All_Strings_Equal.py) | Easy |
