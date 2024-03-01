@@ -208,3 +208,4 @@
 |2956|[Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/description/) | [Python3](/Solutions/2956_Find_Common_Elements_Between_Two_Arrays.py) | Easy |
 |2965|[Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | [Python3](/Solutions/2965_Find_Missing_and_Repeated_Values.py) | Easy |
 |2971|[Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/) | [Python3](/Solutions/2971_Find_Polygon_With_the_Largest_Perimeter.py) | Medium |
+|3062|[Winner of the Linked List Game](https://leetcode.com/problems/winner-of-the-linked-list-game/) | [Python3](/Solutions/3062_Winner_of_the_Linked_List_Game.py) | Easy |
