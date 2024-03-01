@@ -202,6 +202,7 @@
 |2610|[Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | [Python3](/Solutions/2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.py) | Medium |
 |2769|[Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [Python3](/Solutions/2769_Find_the_Maximum_Achievable_Number.py) | Easy |
 |2810|[Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/) | [Python3](/Solutions/2810_Faulty_Keyboard.py) | Easy |
+|2864|[Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/) | [Python3](/Solutions/2864_Maximum_Odd_Binary_Number.py) | Easy |
 |2870|[Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/) | [Python3](/Solutions/2870_Minimum_Number_of_Operations_to_Make_Array_Empty.py) | Medium |
 |2951|[Find the Peaks](https://leetcode.com/problems/find-the-peaks/) | [Python3](/Solutions/2951_Find_the_Peaks.py) | Easy |
 |2956|[Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/description/) | [Python3](/Solutions/2956_Find_Common_Elements_Between_Two_Arrays.py) | Easy |
