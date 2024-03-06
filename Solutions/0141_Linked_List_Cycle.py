@@ -6,18 +6,32 @@
 
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        visited_set = set()
+        # Visited node save variable
+        visited = {}
 
-        # First
-        isFirst = True
+        # Initialize pos
+        pos = -1
+
+        # Index count variable
+        index = 0
+
+        # Loop - all node
         while head:
-            if isFirst:
-                visited_set.add(head)
-                isFirst = False
-            else:
-                if head in visited_set:
-                    return True
-                else:
-                    visited_set.add(head)
+            if head in visited: # visited node
+                # Update pos
+                pos = visited[head]
+
+                # RETURN - loop exist
+                return True
+
+            else: # not visited node
+                visited[head] = index
+
+            # Update index
+            index += 1
+
+            # Update head
             head = head.next
+        
+        # RETURN - loop not exist
         return False
