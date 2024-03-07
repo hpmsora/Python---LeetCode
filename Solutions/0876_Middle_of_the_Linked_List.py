@@ -5,26 +5,22 @@
 #         self.next = next
 class Solution:
     def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        # Visited node save
-        # key: index, val: ListNode
-        visited_dict = {}
+        # Only one case
+        if not head.next:
+            # RETURN - original head
+            return head
+        
+        # Slow, Fast varialbe
+        slow = head.next
+        fast = head.next.next
 
-        # Index count variable
-        index = 0
+        # Loop - fast read the last second
+        while fast and fast.next:
+            # Update slow one step
+            slow = slow.next
 
-        # Loop - all node
-        while head:
-            # Update visited node dictionary
-            visited_dict[index] = head
-
-            # Update head
-            head = head.next
-
-            # Update index
-            index += 1
-
-        # Find middle index
-        index = index // 2
-
-        # RETURN - middle index head
-        return visited_dict[index]
+            # Update fast two step
+            fast = fast.next.next
+        
+        # RETURN - slow (middle)
+        return slow
