@@ -125,6 +125,7 @@
 |0345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Python3](/Solutions/0345_Reverse_Vowels_of_a_String.py) | Easy |
 |0346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | [Python3](/Solutions/0346_Moving_Average_from_Data_Stream.py) | Easy |
 |0348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) | [Python3](/Solutions/0348_Design_Tic-Tac-Toe.py) | Medium |
+|0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python3](/Solutions/0349_Intersection_of_Two_Arrays.py) | Easy |
 |0364|[Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) | [Python3](/Solutions/0364_Nested_List_Weight_Sum_II.py) | Medium |
 |0378|[Nested List Weight Sum II](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [Python3](/Solutions/0378_Kth_Smallest_Element_in_a_Sorted_Matrix.py) | Medium |
 |0380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/word-pattern/) | [Python3](/Solutions/0380_Insert_Delete_GetRandom_O(1).py) | Medium |
