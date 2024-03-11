@@ -216,3 +216,4 @@
 |2971|[Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/) | [Python3](/Solutions/2971_Find_Polygon_With_the_Largest_Perimeter.py) | Medium |
 |3005|[Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | [Python3](/Solutions/3005_Count_Elements_With_Maximum_Frequency.py) | Easy |
 |3062|[Winner of the Linked List Game](https://leetcode.com/problems/winner-of-the-linked-list-game/) | [Python3](/Solutions/3062_Winner_of_the_Linked_List_Game.py) | Easy |
+|3062|[Linked List Frequency](https://leetcode.com/problems/linked-list-frequency/) | [Python3](/Solutions/3063_Linked_List_Frequency.py) | Easy |
