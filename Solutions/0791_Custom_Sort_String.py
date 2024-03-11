@@ -1,17 +1,30 @@
 class Solution:
     def customSortString(self, order: str, s: str) -> str:
-        order_dict = {}
-        for each_order in order:
-            order_dict[each_order] = 0
-        
-        sol = ""
-        for each_s in s:
-            if each_s in order_dict:
-                order_dict[each_s] += 1
-            else:
-                sol += each_s
+        # s letter frequency dictionary declare
+        s_freq_dict = {}
 
-        for key, val in reversed(order_dict.items()):
-            if not val == 0:
-                sol = key * val + sol
-        return sol
+        # s_freq_dict initialize by order
+        for letter_order in order:
+            s_freq_dict[letter_order] = 0
+
+        # Remainder letter reserve
+        remainder = ""
+
+        # Loop - all letter in s
+        for letter in s:
+            if letter in s_freq_dict: # order letter
+                s_freq_dict[letter] += 1
+            else: # non-order letter
+                remainder += letter
+
+        # solution declare
+        sol = ""
+
+        # Loop - order
+        for order_letter in order:
+            if order_letter in s_freq_dict: # letter exist
+                # Update solution - letter and freqeuncy
+                sol += order_letter * s_freq_dict[order_letter]
+
+        # RETURN - solution add with remainder
+        return sol + remainder
