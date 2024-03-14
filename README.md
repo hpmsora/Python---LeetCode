@@ -168,6 +168,7 @@
 |0872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [Python3](/Solutions/0872_Leaf-Similar_Trees.py) | Easy |
 |0876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python3](/Solutions/0876_Middle_of_the_Linked_List.py) | Easy |
 |0921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Python3](/Solutions/0921_Minimum_Add_to_Make_Parentheses_Valid.py) | Medium |
+|0930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | [Python3](/Solutions/0930_Binary_Subarrays_With_Sum.py) | Medium |
 |0931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [Python3](/Solutions/0931_Minimum_Falling_Path_Sum.py) | Medium |
 |0938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python3](/Solutions/0938_Range_Sum_of_BST.py) | Easy |
 |0948|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | [Python3](/Solutions/0948_Bag_of_Tokens.py) | Medium |
