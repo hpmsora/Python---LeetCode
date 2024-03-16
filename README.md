@@ -145,6 +145,7 @@
 |0513|[Find Bottom Left Tree Value](http://leetcode.com/problems/find-bottom-left-tree-value/) | [Python3](/Solutions/0513_Find_Bottom_Left_Tree_Value.py) | Medium |
 |0515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Python3](/Solutions/0515_Find_Largest_Value_in_Each_Tree_Row.py) | Medium |
 |0523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Python3](/Solutions/0523_Continuous_Subarray_Sum.py) | Medium |
+|0525|[Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [Python3](/Solutions/0525_Contiguous_Array.py) | Medium |
 |0528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | [Python3](/Solutions/0528_Random_Pick_with_Weight.py) | Medium |
 |0530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Python3](/Solutions/0530_Minimum_Absolute_Difference_in_BST.py) | Easy |
 |0543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python3](/Solutions/0543_Diameter_of_Binary_Tree.py) | Easy |
