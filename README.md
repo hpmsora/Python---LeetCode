@@ -138,6 +138,7 @@
 |0433|[Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | [Python3](/Solutions/0433_Minimum_Genetic_Mutation.py) | Medium |
 |0443|[String Compression](https://leetcode.com/problems/string-compression/) | [Python3](/Solutions/0443_String_Compression.py) | Medium |
 |0451|[String Compression](https://leetcode.com/problems/sort-characters-by-frequency/) | [Python3](/Solutions/0451_Sort_Characters_By_Frequency.py) | Medium |
+|0451|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Python3](/Solutions/0452_Minimum_Number_of_Arrows_to_Burst_Balloons.py) | Medium |
 |0455|[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Python3](/Solutions/0446_Arithmetic_Slices_II_Subsequence.py) | Hard |
 |0455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Python3](/Solutions/0455_Assign_Cookies.py) | Easy |
 |0459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [Python3](/Solutions/0459_Repeated_Substring_Pattern.py) | Easy |
