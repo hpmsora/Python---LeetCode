@@ -77,6 +77,7 @@
 |0136|[Single Number](https://leetcode.com/problems/single-number/) | [Python3](/Solutions/0136_Single_Number.py) | Easy |
 |0136|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Python3](/Solutions/0138_Copy_List_with_Random_Pointer.py) | Medium |
 |0141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python3](/Solutions/0141_Linked_List_Cycle.py) | Easy |
+|0143|[Reorder List](https://leetcode.com/problems/reorder-list/) | [Python3](/Solutions/0143_Reorder_List.py) | Medium |
 |0144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python3](/Solutions/0144_Binary_Tree_Preorder_Traversal.py) | Easy |
 |0146|[LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python3](/Solutions/0146_LRU_Cache.py) | Medium |
 |0148|[Sort List](https://leetcode.com/problems/sort-list/) | [Python3](/Solutions/0148_Sort_List.py) | Medium |
