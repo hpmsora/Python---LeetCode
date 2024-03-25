@@ -119,6 +119,7 @@
 |0274|[H-Index](https://leetcode.com/problems/h-index/) | [Python3](/Solutions/0274_H-Index.py) | Medium |
 |0279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Python3](/Solutions/0279_Perfect_Squares.py) | Medium |
 |0282|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python3](/Solutions/0283_Move_Zeroes.py) | Easy |
+|0287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Python3](/Solutions/0287_Find_the_Duplicate_Number.py) | Medium |
 |0290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python3](/Solutions/0290_Word_Pattern.py) | Medium |
 |0300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python3](/Solutions/0300_Longest_Increasing_Subsequence.py) | Medium |
 |0303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Python3](/Solutions/0303_Range_Sum_Query_Immutable.py) | Easy |
