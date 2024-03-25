@@ -140,6 +140,7 @@
 |0408|[Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) | [Python3](/Solutions/0408_Valid_Word_Abbreviation.py) | Easy |
 |0426|[Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) | [Python3](/Solutions/0426_Convert_Binary_Search_Tree_to_Sorted_Doubly_Linked_List.py) | Medium |
 |0433|[Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | [Python3](/Solutions/0433_Minimum_Genetic_Mutation.py) | Medium |
+|0442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Python3](/Solutions/0442_Find_All_Duplicates_in_an_Array.py) | Medium |
 |0443|[String Compression](https://leetcode.com/problems/string-compression/) | [Python3](/Solutions/0443_String_Compression.py) | Medium |
 |0451|[String Compression](https://leetcode.com/problems/sort-characters-by-frequency/) | [Python3](/Solutions/0451_Sort_Characters_By_Frequency.py) | Medium |
 |0451|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Python3](/Solutions/0452_Minimum_Number_of_Arrows_to_Burst_Balloons.py) | Medium |
