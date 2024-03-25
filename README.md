@@ -188,6 +188,7 @@
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Python3](/Solutions/1004_Max_Consecutive_Ones_III.py) | Medium |
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [Python3](/Solutions/1026_Maximum_Difference_Between_Node_and_Ancestor.py) | Medium |
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Python3](/Solutions/1047_Remove_All_Adjacent_Duplicates_In_String.py) | Easy |
+|1047|[Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) | [Python3](/Solutions/1119_Remove_Vowels_from_a_String.py) | Easy |
 |1171|[Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [Python3](/Solutions/1171_Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List.py) | Medium |
 |1176|[Diet Plan Performance](https://leetcode.com/problems/diet-plan-performance/) | [Python3](/Solutions/1176_Diet_Plan_Performance.py) | Easy |
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [Python3](/Solutions/1207_Unique_Number_of_Occurrences.py) | Easy |
