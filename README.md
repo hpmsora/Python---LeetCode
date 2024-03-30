@@ -128,6 +128,7 @@
 |0322|[Coin Change](https://leetcode.com/problems/coin-change/) | [Python3](/Solutions/0322_Coin_Change.py) | Medium |
 |0325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | [Python3](/Solutions/0325_Maximum_Size_Subarray_Sum_Equals_k.py) | Medium |
 |0339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) | [Python3](/Solutions/0339_Nested_List_Weight_Sum.py) | Medium |
+|0340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/) | [Python3](/Solutions/0340_Longest_Substring_with_At_Most_K_Distinct_Characters.py) | Medium |
 |0345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Python3](/Solutions/0345_Reverse_Vowels_of_a_String.py) | Easy |
 |0346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | [Python3](/Solutions/0346_Moving_Average_from_Data_Stream.py) | Easy |
 |0348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) | [Python3](/Solutions/0348_Design_Tic-Tac-Toe.py) | Medium |
@@ -187,6 +188,7 @@
 |0973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Python3](/Solutions/0973_K_Closest_Points_to_Origin.py) | Medium |
 |0977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python3](/Solutions/0977_Squares_of_a_Sorted_Array.py) | Easy |
 |0986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [Python3](/Solutions/0986_Interval_List_Intersections.py) | Medium |
+|0992|[Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [Python3](/Solutions/0992_subarrays_with_K_Different_Integers.py) | Hard |
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Python3](/Solutions/1004_Max_Consecutive_Ones_III.py) | Medium |
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [Python3](/Solutions/1026_Maximum_Difference_Between_Node_and_Ancestor.py) | Medium |
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Python3](/Solutions/1047_Remove_All_Adjacent_Duplicates_In_String.py) | Easy |
