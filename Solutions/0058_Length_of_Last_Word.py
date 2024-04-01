@@ -1,7 +1,22 @@
 class Solution:
     def lengthOfLastWord(self, s: str) -> int:
-        s_list = s.split(" ")
+        # index variable for count position
+        index = 0
 
-        for each_list in reversed(s_list):
-            if not each_list == "":
-                return (len(each_list))
+        # word length
+        sol = 0
+
+        # loop - check each letter
+        while index < len(s):
+            if s[len(s) - index - 1] == " ": # check the letter is space
+                if not sol == 0: # check solution is empty
+                    # RETURN - length of current solution
+                    return sol
+            else: # otherwise
+                sol += 1
+            
+            # update index
+            index += 1
+            
+        # RETURN - end of s
+        return sol
