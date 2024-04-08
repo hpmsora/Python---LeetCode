@@ -169,6 +169,7 @@
 |0658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [Python3](/Solutions/0658_Find_K_Closest_Elements.py) | Medium |
 |0670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/) | [Python3](/Solutions/0670_Maximum_Swap.py) | Medium |
 |0674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [Python3](/Solutions/0674_Longest_Continuous_Increasing_Subsequence.py) | Easy |
+|0678|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [Python3](/Solutions/0678_Valid_Parenthesis_String.py) | Medium |
 |0680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [Python3](/Solutions/0680_Valid_Palindrome_II.py) | Easy |
 |0708|[Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/) | [Python3](/Solutions/0708_Insert_into_a_Sorted_Circular_Linked_List.py) | Medium |
 |0713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [Python3](/Solutions/0713_Subarray_Product_Less_Than_K.py) | Medium |
