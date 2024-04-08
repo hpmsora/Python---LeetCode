@@ -216,6 +216,7 @@
 |1650|[Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/) | [Python3](/Solutions/1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III.py) | Medium |
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [Python3](/Solutions/1662_Check_If_Two_String_Arrays_are_Equivalent.py) | Easy |
 |1669|[Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | [Python3](/Solutions/1669_Merge_In_Between_Linked_Lists.py) | Medium |
+|1700|[Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [Python3](/Solutions/1700_Number_of_Students_Unable_to_Eat_Lunch.py) | Easy |
 |1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [Python3](/Solutions/1704_Determine_if_String_Halves_Are_Alike.py) | Easy |
 |1750|[Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | [Python3](/Solutions/1750_Minimum_Length_of_String_After_Deleting_Similar_Ends.py) | Medium |
 |1762|[Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/) | [Python3](/Solutions/1762_Buildings_Withan_Ocean_View.py) | Medium |
