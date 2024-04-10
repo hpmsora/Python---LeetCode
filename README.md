@@ -187,6 +187,7 @@
 |0931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [Python3](/Solutions/0931_Minimum_Falling_Path_Sum.py) | Medium |
 |0938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python3](/Solutions/0938_Range_Sum_of_BST.py) | Easy |
 |0948|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | [Python3](/Solutions/0948_Bag_of_Tokens.py) | Medium |
+|0950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python3](/Solutions/0950_Reveal_Cards_In_Increasing_Order.py) | Medium |
 |0957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | [Python3](/Solutions/0957_Prison_Cells_After_N_Days.py) | Medium |
 |0973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Python3](/Solutions/0973_K_Closest_Points_to_Origin.py) | Medium |
 |0977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python3](/Solutions/0977_Squares_of_a_Sorted_Array.py) | Easy |
