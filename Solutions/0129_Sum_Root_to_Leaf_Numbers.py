@@ -8,6 +8,7 @@ class Solution:
     def sumNumbers(self, root: Optional[TreeNode]) -> int:
         def helper(_root, _prev):
             sol = 0
+            
             val = _prev*10+_root.val
             if _root.left:
                 sol += helper(_root.left, val)
