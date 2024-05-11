@@ -206,6 +206,7 @@
 |1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/) | [Python3](/Solutions/1291_Sequential_Digits.py) | Medium |
 |1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [Python3](/Solutions/1329_Sort_the_Matrix_Diagonally.py) | Medium |
 |1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | [Python3](/Solutions/1331_Rank_Transform_of_an_Array.py) | Easy |
+|1436|[Destination City](https://leetcode.com/problems/destination-city/) | [Python3](/Solutions/1436_Destination_City) | Easy |
 |1469|[Find All The Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/) | [Python3](/Solutions/1469_Find_All_The_Lonely_Nodes.py) | Easy |
 |1492|[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [Python3](/Solutions/1492_The_kth_Factor_of_n.py) | Medium |
 |1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Python3](/Solutions/1528_Shuffle_String.py) | Easy |
