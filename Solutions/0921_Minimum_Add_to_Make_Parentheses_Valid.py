@@ -1,20 +1,30 @@
 class Solution:
     def minAddToMakeValid(self, s: str) -> int:
-        # parentheses reserve count
-        p_count = 0
-
-        # solution count
-        sol = 0
-
-        # Loop - each character list
-        for each_s in s:
-            if each_s == ")": # letter is close parentheses
-                if p_count > 0: # parentheses open exist
-                    p_count -= 1 # parentheses open remove once
-                else: # parentheses open not exist
-                    sol += 1 # removing list update
-            else:
-                p_count += 1 # parentheses open add one
+        # Declare balance count variable
+        b_index = 0
         
-        # RETURN: removed parentheses count + still open parenthese count
-        return sol + p_count
+        # Declare number of addition
+        addition = 0
+
+        # Loop - each letter of string s
+        for each_s in s:
+            
+            # Check letter - open par
+            if each_s == "(":
+                b_index += 1
+            # Check letter - close par
+            elif each_s == ")":
+                b_index -= 1
+
+                # Check close par not feasible
+                if b_index < 0:
+                    addition += 1
+                    b_index += 1
+
+        # RETURN - conditional
+        # 1. Unblanced
+        if b_index > 0:
+            return b_index + addition
+        # 2. Balanced
+        else:
+            return addition
