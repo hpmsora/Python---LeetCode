@@ -238,6 +238,7 @@
 |2418|[Sort the People](https://leetcode.com/problems/sort-the-people/) | [Python3](/Solutions/2418_Sort_the_People.py) | Easy |
 |2444|[Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | [Python3](/Solutions/2444_Count_Subarrays_With_Fixed_Bounds.py) | Hard |
 |2485|[Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | [Python3](/Solutions/2485_Find_the_Pivot_Integer.py) | Easy |
+|2530|[Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) | [Python3](/Solutions/2530_Maximal_Score_After_Applying_K_Operations.py) | Medium |
 |2540|[Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | [Python3](/Solutions/2540_Minimum_Common_Value.py) | Easy |
 |2610|[Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | [Python3](/Solutions/2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.py) | Medium |
 |2769|[Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [Python3](/Solutions/2769_Find_the_Maximum_Achievable_Number.py) | Easy |
