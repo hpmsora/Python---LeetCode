@@ -1,37 +1,33 @@
 class Solution:
     def maximumSwap(self, num: int) -> int:
-        # num list from num
+        # Declare number list
         num_list = []
 
-        # loop - get num_list
-        for each_num in str(num):
-            num_list.append(int(each_num))
-        
-        # sort the list
-        num_list_sorted = sorted(num_list, reverse=True)
+        # Data type [(number, index), ...]
+        for index, each_num_str in enumerate(str(num)):
+            num_list.append((each_num_str, index))
 
-        # Loop - num_list and num_list_sorted compare each element
-        isChange = False
-        index_1, index_2 = 0, 0
-        for index in range(len(num_list)):
-            each_num, each_num_sorted = num_list[index], num_list_sorted[index]
-            if isChange:
-                if num_list_sorted[index_1] == num_list[index]:
-                    index_2 = index
-            if not isChange and not each_num == each_num_sorted:
-                isChange = True
-                index_1 = index
-        
-        # Swap check
-        if isChange: # need swap
-            # Swap the num
-            temp_num = num_list[index_1]
-            num_list[index_1] = num_list[index_2]
-            num_list[index_2] = temp_num
+        # Loop - each number
+        for num_set in num_list:
+            num, index = num_set
 
-            # RETURN
-            return int(''.join(map(str, num_list)))
-        else: # no need to swap
-            #RETURN
-            return num
+            if not num == 9: # Skip if num is 9
+                if index == len(num_list) - 1:
+                    break
+                else: # Else number
+                    # Find largest rest of number
+                    max_num_2, index_2 = max(num_list[index+1:])
+                    # Check if number is swappable
+                    if max_num_2 > num:
+                        # Swap
+                        num_list[index] = (max_num_2, index_2)
+                        num_list[index_2] = (num, index)
+                        break
         
+        # Combine the number to string
+        sol = ""
+        for num, _ in num_list:
+            sol += num
+        
+        # RETURN - string to number
+        return int(sol)
