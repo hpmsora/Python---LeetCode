@@ -1,39 +1,32 @@
 class Solution:
     def minRemoveToMakeValid(self, s: str) -> str:
-        # solution list
+        # declare par index list
         par_list = []
+        # [("( or )", index), ...]
 
-        # removed set
-        remove_list = set()
-
-        # loop - all letter s
-        for index in range(len(s)):
-            # get left side letter
-            each_s = s[index]
-
-            if each_s == "(": # check open
+        # Loop - all letter in s
+        for index, each_s in enumerate(s):
+            # Check "("
+            if each_s == "(":
                 par_list.append(("(", index))
-            elif each_s == ")": # check close
-                if not par_list:
-                    remove_list.add(index)
-                    continue
-                
-                # remove
-                par_list.pop()
-        
-        # loop - remove the letter
-        for _, index in par_list:
-            remove_list.add(index)
+            # Check ")"
+            elif each_s == ")":
+                # Check removable
+                if par_list and par_list[-1][0] == "(":
+                    par_list.pop()
+                else:
+                    par_list.append((")", index))
 
-        # solution string
+        # Get set of unnecessay index set
         sol = ""
-
-        # loop - all letter s
-        for index in range(len(s)):
-            # get each letter
-            each_s = s[index]
-            if not index in remove_list:
+        index_set = set()
+        for _, index in par_list:
+            index_set.add(index)
+        
+        # Get removed string
+        for index, each_s in enumerate(s):
+            if not index in index_set:
                 sol += each_s
         
-        # RETURN - solution strig
+        # RETURN
         return sol
