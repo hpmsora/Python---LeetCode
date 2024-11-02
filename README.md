@@ -245,6 +245,7 @@
 |2418|[Sort the People](https://leetcode.com/problems/sort-the-people/) | [Python3](/Solutions/2418_Sort_the_People.py) | Easy |
 |2444|[Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | [Python3](/Solutions/2444_Count_Subarrays_With_Fixed_Bounds.py) | Hard |
 |2485|[Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | [Python3](/Solutions/2485_Find_the_Pivot_Integer.py) | Easy |
+|2490|[Circular Sentence](https://leetcode.com/problems/circular-sentence/) | [Python3](/Solutions/2490_Circular_Sentence.py) | Easy |
 |2530|[Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) | [Python3](/Solutions/2530_Maximal_Score_After_Applying_K_Operations.py) | Medium |
 |2540|[Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | [Python3](/Solutions/2540_Minimum_Common_Value.py) | Easy |
 |2583|[Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | [Python3](/Solutions/2583_Kth_Largest_Sum_in_a_Binary_Tree.py) | Medium |
