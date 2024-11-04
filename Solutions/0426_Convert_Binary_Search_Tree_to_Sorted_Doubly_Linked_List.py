@@ -8,37 +8,32 @@ class Node:
 """
 
 class Solution:
+    # DFS
+    def helper(self, _root):
+        if not _root:
+            return
+        # Left
+        self.helper(_root.left)
+        # Update node list
+        self.node_list.append(_root)
+        # Right
+        self.helper(_root.right)
     def treeToDoublyList(self, root: 'Optional[Node]') -> 'Optional[Node]':
         if not root:
             return root
-        node_dict = {}
-        node_list = []
 
-        # DFS
-        def helper(_root):
-            if not _root:
-                return
-            
-            node_dict[_root.val] = _root
-            node_list.append(_root.val)
-
-            # Left
-            if _root.left:
-                helper(_root.left)
-            
-            # Right
-            if _root.right:
-                helper(_root.right)
-
-            return
-
-        helper(root)
-        node_list.sort()
-        prev_node = node_dict[node_list[-1]]
-        for each_val in node_list:
-            curr_node = node_dict[each_val]
-            prev_node.right = curr_node
-            curr_node.left = prev_node
-            prev_node = curr_node
+        self.node_list = []
         
-        return node_dict[node_list[0]]
+        self.helper(root)
+
+        for index in range(len(self.node_list) - 1):
+            self.node_list[index+1].left = self.node_list[index]
+            self.node_list[index].right = self.node_list[index+1]
+        
+        self.node_list[0].left = self.node_list[-1]
+        self.node_list[-1].right = self.node_list[0]
+
+        for each_node_list in self.node_list:
+            print(each_node_list.left.val)
+
+        return self.node_list[0]
