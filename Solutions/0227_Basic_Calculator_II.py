@@ -1,66 +1,43 @@
 class Solution:
     def calculate(self, s: str) -> int:
-        # Calculation List
-        cal_list = []
+        add_sub_list = []
 
-        # Operation set
-        opt_set = {
-            "/", "*", "+", "-"
-        }
-
-        # Loop - Calculation List
-        prev = ""
-        for each_s in s:
-            if each_s == " ": # Empty
+        str_num = ""
+        add_sub_set, mul_div_set = {"+", "-"}, {"*", "/"}
+        for each_s in s + "=":
+            if each_s == " ":
                 continue
             
-            if each_s in opt_set: # Operation char
-                cal_list.append(int(prev))
-                cal_list.append(each_s)
-                prev = ""
-            else: # number char
-                prev += each_s
-        # Remaining num
-        cal_list.append(int(prev))
-
-        # Calculation Loop - Remove mul and div
-        prev = 0
-        new_cal_list = []
-        index = 0
-        while index < len(cal_list):
-            each_cal = cal_list[index]
-            if each_cal in opt_set:
-                if each_cal == "/": # division
-                    prev = prev // cal_list[index + 1]
-                    index += 2
-                elif each_cal == "*": # multiplication
-                    prev = prev * cal_list[index + 1]
-                    index += 2
+            if each_s in add_sub_set or each_s in mul_div_set:
+                if add_sub_list and add_sub_list[-1] in mul_div_set:
+                    last_sign = add_sub_list.pop()
+                    if last_sign == "*":
+                        add_sub_list[-1] = int(add_sub_list[-1] * int(str_num))
+                    else:
+                        add_sub_list[-1] = int(add_sub_list[-1] / int(str_num))
+                    add_sub_list.append(each_s)
                 else:
-                    new_cal_list.append(prev)
-                    new_cal_list.append(each_cal)
-                    prev = 0
-                    index += 1
+                    add_sub_list += [int(str_num), each_s]
+                str_num = ""
+            elif each_s == "=":
+                if add_sub_list and add_sub_list[-1] in mul_div_set:
+                    last_sign = add_sub_list.pop()
+                    if last_sign == "*":
+                        add_sub_list[-1] = int(add_sub_list[-1] * int(str_num))
+                    else:
+                        add_sub_list[-1] = int(add_sub_list[-1] / int(str_num))
+                else:
+                    add_sub_list += [int(str_num)]
             else:
-                prev = each_cal
+                str_num += each_s
+        sol = add_sub_list[0]
+        index = 1
+        while index < len(add_sub_list) - 1:
+            if add_sub_list[index] == "+":
                 index += 1
-        # Remaining num
-        new_cal_list.append(prev)
-
-        # Calculation Loop - Remove add and sub
-        index = 0
-        sol = 0
-        while index < len(new_cal_list):
-            each_new_cal = new_cal_list[index]
-            if each_new_cal == "+": # addition
-                sol += new_cal_list[index + 1]
-                index += 2
-            elif each_new_cal == "-": # subtraction
-                sol -= new_cal_list[index + 1]
-                index += 2
-            else:
-                sol = each_new_cal
+                sol += add_sub_list[index]
+            elif add_sub_list[index] == "-":
                 index += 1
-        
-        #RETURN
+                sol -= add_sub_list[index]
+            index += 1
         return sol
