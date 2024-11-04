@@ -43,20 +43,13 @@
 
 class Solution:
     def depthSum(self, nestedList: List[NestedInteger]) -> int:
-        def helper(_root, _depth):
-            temp_sol = 0
-            if _root.isInteger():
-                val = _root.getInteger()
-                return val * _depth
-            
-            root_list = _root.getList()
-            for each_n in root_list:
-                temp_sol += helper(each_n, _depth + 1)
-
-            return temp_sol
-        
-        sol = 0
-        for each_nestedList in nestedList:
-            sol += helper(each_nestedList, 1)
-
-        return sol
+        def helper(_nestedList, _depth):
+            sol = 0
+            for each_nList in _nestedList:
+                if each_nList.getInteger():
+                    sol += each_nList.getInteger() * _depth
+                
+                if each_nList.getList():
+                    sol += helper(each_nList.getList(), _depth + 1)
+            return sol
+        return helper(nestedList, 1)

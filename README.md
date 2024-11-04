@@ -180,6 +180,7 @@
 |0743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Python3](/Solutions/0743_Network_Delay_Time.py) | Medium |
 |0766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Python3](/Solutions/0766_Toeplitz_Matrix.py) | Easy |
 |0791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | [Python3](/Solutions/0791_Custom_Sort_String.py) | Medium |
+|0796|[Rotate String](https://leetcode.com/problems/rotate-string/) | [Python3](/Solutions/0796_Rotate_String.py) | Easy |
 |0859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Python3](/Solutions/0859_Buddy_Strings.py) | Easy |
 |0863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Python3](/Solutions/0863_All_Nodes_Distance_K_in_Binary_Tree.py) | Medium |
 |0865|[Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [Python3](/Solutions/0865_Smallest_Subtree_withall_the_Deepest_Nodes.py) | Medium |
