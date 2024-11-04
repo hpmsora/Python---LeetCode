@@ -9,61 +9,36 @@ class Node:
 
 class Solution:
     def treeToDoublyList(self, root: 'Optional[Node]') -> 'Optional[Node]':
-        # Boundry case - empty root
         if not root:
             return root
+        node_dict = {}
+        node_list = []
 
-        # Variables
-        # linked list to list
-        num_list = [] # [(val:int, node:Optional[Node])]
-
-        # helper function - BSF
-        # Return: None
-        def helper(_root) -> None:
-            val = _root.val
-
-            # update num_list
-            nonlocal num_list
-            num_list.append((val, _root))
-
-            # leaf check
-            if not(_root.left or _root.right):
+        # DFS
+        def helper(_root):
+            if not _root:
                 return
             
-            if _root.left: # left check
+            node_dict[_root.val] = _root
+            node_list.append(_root.val)
+
+            # Left
+            if _root.left:
                 helper(_root.left)
             
-            if _root.right: # right check
+            # Right
+            if _root.right:
                 helper(_root.right)
 
-            # RETURN
             return
 
-        # Run helper function
         helper(root)
-
-        # num_list sort
-        num_list.sort()
-
-        # First element
-        _, first_num_node = num_list[0]
+        node_list.sort()
+        prev_node = node_dict[node_list[-1]]
+        for each_val in node_list:
+            curr_node = node_dict[each_val]
+            prev_node.right = curr_node
+            curr_node.left = prev_node
+            prev_node = curr_node
         
-        # re-construct the link list
-        dummy = Node(val=-1, left=first_num_node)
-
-        # loop - left connection
-        left_pointer = first_num_node
-        for _, num_node in num_list[1:]:
-            left_pointer.right = num_node
-            left_pointer = left_pointer.right
-        left_pointer.right = first_num_node
-
-        # loop - left connection
-        right_pointer = first_num_node
-        for _, num_node in reversed(num_list[1:]):
-            right_pointer.left = num_node
-            right_pointer = right_pointer.left
-        right_pointer.left = first_num_node
-
-        # RETURN
-        return dummy.left
+        return node_dict[node_list[0]]
