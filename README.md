@@ -144,6 +144,7 @@
 |0389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Python3](/Solutions/0389_Find_the_Difference.py) | Easy |
 |0398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/) | [Python3](/Solutions/0398_Random_Pick_Index.py) | Medium |
 |0408|[Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) | [Python3](/Solutions/0408_Valid_Word_Abbreviation.py) | Easy |
+|0414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Python3](/Solutions/0414_Third_Maximum_Number.py) | Easy |
 |0426|[Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) | [Python3](/Solutions/0426_Convert_Binary_Search_Tree_to_Sorted_Doubly_Linked_List.py) | Medium |
 |0433|[Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | [Python3](/Solutions/0433_Minimum_Genetic_Mutation.py) | Medium |
 |0442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Python3](/Solutions/0442_Find_All_Duplicates_in_an_Array.py) | Medium |
