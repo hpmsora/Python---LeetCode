@@ -8,62 +8,32 @@ class Node:
 """
 
 class Solution:
+    # DFS
+    def helper(self, _root):
+        if not _root:
+            return
+        # Left
+        self.helper(_root.left)
+        # Update node list
+        self.node_list.append(_root)
+        # Right
+        self.helper(_root.right)
     def treeToDoublyList(self, root: 'Optional[Node]') -> 'Optional[Node]':
-        # Boundry case - empty root
         if not root:
             return root
 
-        # Variables
-        # linked list to list
-        num_list = [] # [(val:int, node:Optional[Node])]
-
-        # helper function - BSF
-        # Return: None
-        def helper(_root) -> None:
-            val = _root.val
-
-            # update num_list
-            nonlocal num_list
-            num_list.append((val, _root))
-
-            # leaf check
-            if not(_root.left or _root.right):
-                return
-            
-            if _root.left: # left check
-                helper(_root.left)
-            
-            if _root.right: # right check
-                helper(_root.right)
-
-            # RETURN
-            return
-
-        # Run helper function
-        helper(root)
-
-        # num_list sort
-        num_list.sort()
-
-        # First element
-        _, first_num_node = num_list[0]
+        self.node_list = []
         
-        # re-construct the link list
-        dummy = Node(val=-1, left=first_num_node)
+        self.helper(root)
 
-        # loop - left connection
-        left_pointer = first_num_node
-        for _, num_node in num_list[1:]:
-            left_pointer.right = num_node
-            left_pointer = left_pointer.right
-        left_pointer.right = first_num_node
+        for index in range(len(self.node_list) - 1):
+            self.node_list[index+1].left = self.node_list[index]
+            self.node_list[index].right = self.node_list[index+1]
+        
+        self.node_list[0].left = self.node_list[-1]
+        self.node_list[-1].right = self.node_list[0]
 
-        # loop - left connection
-        right_pointer = first_num_node
-        for _, num_node in reversed(num_list[1:]):
-            right_pointer.left = num_node
-            right_pointer = right_pointer.left
-        right_pointer.left = first_num_node
+        for each_node_list in self.node_list:
+            print(each_node_list.left.val)
 
-        # RETURN
-        return dummy.left
+        return self.node_list[0]

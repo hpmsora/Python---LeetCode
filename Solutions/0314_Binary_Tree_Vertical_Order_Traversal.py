@@ -6,51 +6,53 @@
 #         self.right = right
 class Solution:
     def verticalOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        # Boundry case - empty root
+        # Special case - empty root
         if not root:
             return []
+        
+        # min, max column number declare
+        min_col = 0
+        max_col = 0
+        
+        # column dictinary
+        # key: int(col)
+        # value: list(int(val))
+        col_dict = {}
 
-        # Global min pos and max pos
-        min_pos = 0
-        max_pos = 0
+        # BFS
+        # dp = [(TreeNode, int(col)),...]
+        dp = [(root, 0)]
+        while dp:
+            # Get first node info
+            curr_node, col = dp.pop(0)
 
-        # DFS
-        def helper(_root):
-            # Global variables
-            nonlocal min_pos, max_pos
+            # column dictionary update
+            if col in col_dict:
+                col_dict[col].append(curr_node.val)
+            else:
+                col_dict[col] = [curr_node.val]
 
-            # Init queue
-            # (node, v_pos)
-            queue = collections.deque([(_root, 0)])
-            # [(val:int, v_pos:int)]
-            node_list = []
+            # min, max col update
+            if min_col > col:
+                min_col = col
+            elif max_col < col:
+                max_col = col
 
-            # Loop - Queue
-            while queue:
-                node, pos = queue.popleft() # Get left most queue
-
-                # node_list Update
-                node_list.append((node.val, pos))
-
-                # Global min, max pos updaet
-                min_pos = min(min_pos, pos)
-                max_pos = max(max_pos, pos)
-
-                if node.left: # Left check
-                    queue.append((node.left, pos - 1))
-                if node.right: # Right check
-                    queue.append((node.right, pos + 1))
+            # Left
+            if curr_node.left:
+                dp.append((curr_node.left, col - 1))
             
-            #RETURN
-            return node_list
+            # Right
+            if curr_node.right:
+                dp.append((curr_node.right, col + 1))
 
-        # Run helper
-        node_list = helper(root)
+        # solution variable
+        sol = []
 
-        # Re-arrange node_list
-        sol = [[] for _ in range(max_pos - min_pos + 1)]
-        for val, pos in node_list:
-            sol[pos - min_pos].append(val)
-
-        # RETURN
+        # Loop - column number from min col to max col
+        for col_num in range(min_col, max_col + 1):
+            # Add to sol list the value list
+            sol.append(col_dict[col_num])
+        
+        # RETURN - sol
         return sol

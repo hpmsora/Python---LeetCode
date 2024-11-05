@@ -1,17 +1,17 @@
 class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
-        # Get k length heap list
+        # Declare basic heap list
         heap = nums[:k]
 
         # Heapify
         heapq.heapify(heap)
 
-        # Loop - all num in nums
+        # Loop - rest of numbers
         for each_nums in nums[k:]:
-            # Check only valid for list
-            if heap[0] < each_nums:
-                # Remove smallest and add current number
+            # Check each_nums is bigger than smallest number in heap
+            if each_nums > heap[0]:
+                # Update heap
                 heapq.heappushpop(heap, each_nums)
-                
-        # RETURN
+        
+        # RETURN - first element of heap
         return heap[0]
