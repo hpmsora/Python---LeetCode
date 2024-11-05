@@ -91,6 +91,7 @@
 |0157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) | [Python3](/Solutions/0157_Read_N_Characters_Given_Read4.py) | Easy |
 |0162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python3](/Solutions/0162_Find_Peak_Element.py) | Medium |
 |0163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [Python3](/Solutions/0163_Missing_Ranges.py) | Easy |
+|0166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Python3](/Solutions/0166_Fraction_to_Recurring_Decimal.py) | Medium |
 |0167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python3](/Solutions/0167_Two_Sum_II_Input_Array_Is_Sorted.py) | Medium |
 |0172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Python3](/Solutions/0172_Factorial_Trailing_Zeroes.py) | Medium |
 |0173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Python3](/Solutions/0173_Binary_Search_Tree_Iterator.py) | Medium |
