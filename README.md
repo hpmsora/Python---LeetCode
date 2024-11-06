@@ -91,6 +91,7 @@
 |0157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) | [Python3](/Solutions/0157_Read_N_Characters_Given_Read4.py) | Easy |
 |0162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python3](/Solutions/0162_Find_Peak_Element.py) | Medium |
 |0163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [Python3](/Solutions/0163_Missing_Ranges.py) | Easy |
+|0166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Python3](/Solutions/0166_Fraction_to_Recurring_Decimal.py) | Medium |
 |0167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python3](/Solutions/0167_Two_Sum_II_Input_Array_Is_Sorted.py) | Medium |
 |0172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Python3](/Solutions/0172_Factorial_Trailing_Zeroes.py) | Medium |
 |0173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Python3](/Solutions/0173_Binary_Search_Tree_Iterator.py) | Medium |
@@ -170,11 +171,13 @@
 |0621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python3](/Solutions/0621_Task_Scheduler.py) | Medium |
 |0632|[Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | [Python3](/Solutions/0632_Smallest_Range_Covering_Elements_from_K_Lists.py) | Hard |
 |0645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Python3](/Solutions/0645_Set_Mismatch.py) | Easy |
+|0653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Python3](/Solutions/0653_Two_Sum_IV_-_Input_is_a_BST.py) | Easy |
 |0658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [Python3](/Solutions/0658_Find_K_Closest_Elements.py) | Medium |
 |0670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/) | [Python3](/Solutions/0670_Maximum_Swap.py) | Medium |
 |0674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [Python3](/Solutions/0674_Longest_Continuous_Increasing_Subsequence.py) | Easy |
 |0678|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [Python3](/Solutions/0678_Valid_Parenthesis_String.py) | Medium |
 |0680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [Python3](/Solutions/0680_Valid_Palindrome_II.py) | Easy |
+|0703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Python3](/Solutions/0703_Kth_Largest_Element_in_a_Stream.py) | Easy |
 |0708|[Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/) | [Python3](/Solutions/0708_Insert_into_a_Sorted_Circular_Linked_List.py) | Medium |
 |0713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [Python3](/Solutions/0713_Subarray_Product_Less_Than_K.py) | Medium |
 |0721|[Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [Python3](/Solutions/0721_Accounts_Merge.py) | Medium |
@@ -183,6 +186,7 @@
 |0766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Python3](/Solutions/0766_Toeplitz_Matrix.py) | Easy |
 |0791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | [Python3](/Solutions/0791_Custom_Sort_String.py) | Medium |
 |0796|[Rotate String](https://leetcode.com/problems/rotate-string/) | [Python3](/Solutions/0796_Rotate_String.py) | Easy |
+|0824|[Goat Latin](https://leetcode.com/problems/goat-latin/) | [Python3](/Solutions/0824_Goat_Latin.py) | Easy |
 |0859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Python3](/Solutions/0859_Buddy_Strings.py) | Easy |
 |0863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Python3](/Solutions/0863_All_Nodes_Distance_K_in_Binary_Tree.py) | Medium |
 |0865|[Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [Python3](/Solutions/0865_Smallest_Subtree_withall_the_Deepest_Nodes.py) | Medium |
