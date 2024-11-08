@@ -130,7 +130,8 @@
 |0290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python3](/Solutions/0290_Word_Pattern.py) | Medium |
 |0300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python3](/Solutions/0300_Longest_Increasing_Subsequence.py) | Medium |
 |0303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Python3](/Solutions/0303_Range_Sum_Query_Immutable.py) | Easy |
-|0322|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) | [Python3](/Solutions/0314_Binary_Tree_Vertical_Order_Traversal.py) | Medium |
+|0314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) | [Python3](/Solutions/0314_Binary_Tree_Vertical_Order_Traversal.py) | Medium |
+|0319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [Python3](/Solutions/0319_Bulb_Switcher.py) | Medium |
 |0322|[Coin Change](https://leetcode.com/problems/coin-change/) | [Python3](/Solutions/0322_Coin_Change.py) | Medium |
 |0325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | [Python3](/Solutions/0325_Maximum_Size_Subarray_Sum_Equals_k.py) | Medium |
 |0339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) | [Python3](/Solutions/0339_Nested_List_Weight_Sum.py) | Medium |
