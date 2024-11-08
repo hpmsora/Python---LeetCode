@@ -7,51 +7,28 @@
 
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-        # helper - BFS
-        # Return: ['TreeNode']
-        def helper(_root, _target):
-            # return value
-            sol = []
-
-            # val check
-            val = _root.val
-            if val == _target.val:
-                sol.append(_root)
-                return sol
-
-            # Leaf check
-            if not(_root.left or _root.right):
-                return sol
+        # DFS
+        # RETURN: Parents List
+        def helper(_root, _target) -> 'TreeNode':
+            if _root == _target:
+                return [_root]
             
-            # Left check
+            # Left
             left = []
             if _root.left:
                 left = helper(_root.left, _target)
-            
-            # Left solution exist
-            if left:
-                left.append(_root)
-                return left
-
-            # Right check
+                if left:
+                    return left + [_root]
+            # Right
             right = []
             if _root.right:
                 right = helper(_root.right, _target)
+                if right:
+                    return right + [_root]
 
-            # Right solution exist
-            if right:
-                right.append(_root)
-                return right
-            
-            # RETURN
-            return sol
-
-        # Run helper
         p_list = helper(root, p)
-        q_list = helper(root, q)
+        q_list = set(helper(root, q))
 
-        # Loop - find common element
-        for each_p in p_list:
-            for each_q in q_list:
-                if each_p == each_q:
-                    return each_p
+        for each_p_list in p_list:
+            if each_p_list in q_list:
+                return each_p_list
