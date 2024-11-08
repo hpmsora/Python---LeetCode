@@ -243,6 +243,7 @@
 |1762|[Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/) | [Python3](/Solutions/1762_Buildings_Withan_Ocean_View.py) | Medium |
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [Python3](/Solutions/1768_Merge_Strings_Alternately.py) | Easy |
 |1791|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | [Python3](/Solutions/1791_Find_Center_of_Star_Graph.py) | Easy |
+|1829|[Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/) | [Python3](/Solutions/1829_Maximum_XOR_for_Each_Query.py) | Meidum |
 |1897|[Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | [Python3](/Solutions/1897_Redistribute_Characters_to_Make_All_Strings_Equal.py) | Easy |
 |1942|[The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | [Python3](/Solutions/1942_The_Number_of_the_Smallest_Unoccupied_Chair.py) | Meidum |
 |1957|[Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [Python3](/Solutions/1957_Delete_Characters_to_Make_Fancy_String.py) | Easy |
