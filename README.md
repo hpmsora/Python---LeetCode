@@ -4,6 +4,7 @@
 |---| ----- | -------- | ---------- |
 |0001|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python3](/Solutions/0001_Two_Sum.py) | Easy |
 |0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python3](/Solutions/0002_Add_Two_Numbers.py) | Medium |
+|0003|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python3](/Solutions/0003_Longest_Substring_Without_Repeating_Characters.py) | Medium |
 |0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python3](/Solutions/0005_Longest_Palindromic_Substring.py) | Medium |
 |0006|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python3](/Solutions/0006_Zigzag_Conversion.py) | Medium |
 |0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python3](/Solutions/0007_Reverse_Integer.py) | Medium |
@@ -144,6 +145,7 @@
 |0387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python3](/Solutions/0387_First_Unique_Character_in_a_String.py) | Easy |
 |0389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Python3](/Solutions/0389_Find_the_Difference.py) | Easy |
 |0398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/) | [Python3](/Solutions/0398_Random_Pick_Index.py) | Medium |
+|0399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [Python3](/Solutions/0399_Evaluate_Division.py) | Medium |
 |0408|[Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) | [Python3](/Solutions/0408_Valid_Word_Abbreviation.py) | Easy |
 |0414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Python3](/Solutions/0414_Third_Maximum_Number.py) | Easy |
 |0426|[Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) | [Python3](/Solutions/0426_Convert_Binary_Search_Tree_to_Sorted_Doubly_Linked_List.py) | Medium |
