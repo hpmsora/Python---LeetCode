@@ -213,6 +213,7 @@
 |1171|[Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [Python3](/Solutions/1171_Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List.py) | Medium |
 |1176|[Diet Plan Performance](https://leetcode.com/problems/diet-plan-performance/) | [Python3](/Solutions/1176_Diet_Plan_Performance.py) | Easy |
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [Python3](/Solutions/1207_Unique_Number_of_Occurrences.py) | Easy |
+|1213|[Intersection of Three Sorted Arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays/) | [Python3](/Solutions/1213_Intersection_of_Three_Sorted_Arrays.py) | Easy |
 |1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [Python3](/Solutions/1235_Maximum_Profit_in_Job_Scheduling.py) | Hard |
 |1249|[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Python3](/Solutions/1249_Minimum_Remove_to_Make_Valid_Parentheses.py) | Medium |
 |1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [Python3](/Solutions/1266_Minimum_Time_Visiting_All_Points.py) | Easy |
