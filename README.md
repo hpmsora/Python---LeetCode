@@ -4,6 +4,7 @@
 |---| ----- | -------- | ---------- |
 |0001|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python3](/Solutions/0001_Two_Sum.py) | Easy |
 |0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python3](/Solutions/0002_Add_Two_Numbers.py) | Medium |
+|0003|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python3](/Solutions/0003_Longest_Substring_Without_Repeating_Characters.py) | Medium |
 |0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python3](/Solutions/0005_Longest_Palindromic_Substring.py) | Medium |
 |0006|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python3](/Solutions/0006_Zigzag_Conversion.py) | Medium |
 |0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python3](/Solutions/0007_Reverse_Integer.py) | Medium |
