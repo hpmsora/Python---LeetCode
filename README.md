@@ -281,4 +281,5 @@
 |3011|[Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/) | [Python3](/Solutions/3011_Find_if_Array_Can_Be_Sorted.py) | Medium |
 |3062|[Winner of the Linked List Game](https://leetcode.com/problems/winner-of-the-linked-list-game/) | [Python3](/Solutions/3062_Winner_of_the_Linked_List_Game.py) | Easy |
 |3063|[Linked List Frequency](https://leetcode.com/problems/linked-list-frequency/) | [Python3](/Solutions/3063_Linked_List_Frequency.py) | Easy |
+|3133|[Minimum Array End](https://leetcode.com/problems/minimum-array-end/) | [Python3](/Solutions/3133_Minimum_Array_End.py) | Medium |
 |3163|[String Compression III](https://leetcode.com/problems/string-compression-iii/) | [Python3](/Solutions/3163_String_Compression_III.py) | Medium |
