@@ -203,12 +203,14 @@
 |0950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python3](/Solutions/0950_Reveal_Cards_In_Increasing_Order.py) | Medium |
 |0951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | [Python3](/Solutions/0951_Flip_Equivalent_Binary_Trees.py) | Medium |
 |0957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | [Python3](/Solutions/0957_Prison_Cells_After_N_Days.py) | Medium |
+|0957|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [Python3](/Solutions/0958_Check_Completeness_of_a_Binary_Tree.py) | Medium |
 |0973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Python3](/Solutions/0973_K_Closest_Points_to_Origin.py) | Medium |
 |0977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python3](/Solutions/0977_Squares_of_a_Sorted_Array.py) | Easy |
 |0986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [Python3](/Solutions/0986_Interval_List_Intersections.py) | Medium |
 |0992|[Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [Python3](/Solutions/0992_subarrays_with_K_Different_Integers.py) | Hard |
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Python3](/Solutions/1004_Max_Consecutive_Ones_III.py) | Medium |
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [Python3](/Solutions/1026_Maximum_Difference_Between_Node_and_Ancestor.py) | Medium |
+|1027|[Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | [Python3](/Solutions/1027_Longest_Arithmetic_Subsequence.py) | Medium |
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Python3](/Solutions/1047_Remove_All_Adjacent_Duplicates_In_String.py) | Easy |
 |1047|[Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) | [Python3](/Solutions/1119_Remove_Vowels_from_a_String.py) | Easy |
 |1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Python3](/Solutions/1091_Shortest_Path_in_Binary_Matrix.py) | Medium |
@@ -281,4 +283,5 @@
 |3011|[Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/) | [Python3](/Solutions/3011_Find_if_Array_Can_Be_Sorted.py) | Medium |
 |3062|[Winner of the Linked List Game](https://leetcode.com/problems/winner-of-the-linked-list-game/) | [Python3](/Solutions/3062_Winner_of_the_Linked_List_Game.py) | Easy |
 |3063|[Linked List Frequency](https://leetcode.com/problems/linked-list-frequency/) | [Python3](/Solutions/3063_Linked_List_Frequency.py) | Easy |
+|3133|[Minimum Array End](https://leetcode.com/problems/minimum-array-end/) | [Python3](/Solutions/3133_Minimum_Array_End.py) | Medium |
 |3163|[String Compression III](https://leetcode.com/problems/string-compression-iii/) | [Python3](/Solutions/3163_String_Compression_III.py) | Medium |
