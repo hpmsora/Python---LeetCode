@@ -209,6 +209,7 @@
 |0992|[Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [Python3](/Solutions/0992_subarrays_with_K_Different_Integers.py) | Hard |
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Python3](/Solutions/1004_Max_Consecutive_Ones_III.py) | Medium |
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [Python3](/Solutions/1026_Maximum_Difference_Between_Node_and_Ancestor.py) | Medium |
+|1027|[Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | [Python3](/Solutions/1027_Longest_Arithmetic_Subsequence.py) | Medium |
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Python3](/Solutions/1047_Remove_All_Adjacent_Duplicates_In_String.py) | Easy |
 |1047|[Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) | [Python3](/Solutions/1119_Remove_Vowels_from_a_String.py) | Easy |
 |1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Python3](/Solutions/1091_Shortest_Path_in_Binary_Matrix.py) | Medium |
