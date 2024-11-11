@@ -140,6 +140,7 @@
 |0346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | [Python3](/Solutions/0346_Moving_Average_from_Data_Stream.py) | Easy |
 |0348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) | [Python3](/Solutions/0348_Design_Tic-Tac-Toe.py) | Medium |
 |0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python3](/Solutions/0349_Intersection_of_Two_Arrays.py) | Easy |
+|0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Python3](/Solutions/0350_Intersection_of_Two_Arrays_II.py) | Easy |
 |0364|[Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) | [Python3](/Solutions/0364_Nested_List_Weight_Sum_II.py) | Medium |
 |0378|[Nested List Weight Sum II](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [Python3](/Solutions/0378_Kth_Smallest_Element_in_a_Sorted_Matrix.py) | Medium |
 |0380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/word-pattern/) | [Python3](/Solutions/0380_Insert_Delete_GetRandom_O(1).py) | Medium |
@@ -283,5 +284,6 @@
 |3011|[Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/) | [Python3](/Solutions/3011_Find_if_Array_Can_Be_Sorted.py) | Medium |
 |3062|[Winner of the Linked List Game](https://leetcode.com/problems/winner-of-the-linked-list-game/) | [Python3](/Solutions/3062_Winner_of_the_Linked_List_Game.py) | Easy |
 |3063|[Linked List Frequency](https://leetcode.com/problems/linked-list-frequency/) | [Python3](/Solutions/3063_Linked_List_Frequency.py) | Easy |
+|3097|[Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/) | [Python3](/Solutions/3097_Shortest_Subarray_With_OR_at_Least_K_II.py) | Medium |
 |3133|[Minimum Array End](https://leetcode.com/problems/minimum-array-end/) | [Python3](/Solutions/3133_Minimum_Array_End.py) | Medium |
 |3163|[String Compression III](https://leetcode.com/problems/string-compression-iii/) | [Python3](/Solutions/3163_String_Compression_III.py) | Medium |
