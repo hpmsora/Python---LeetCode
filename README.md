@@ -265,6 +265,7 @@
 |2530|[Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) | [Python3](/Solutions/2530_Maximal_Score_After_Applying_K_Operations.py) | Medium |
 |2540|[Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | [Python3](/Solutions/2540_Minimum_Common_Value.py) | Easy |
 |2583|[Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | [Python3](/Solutions/2583_Kth_Largest_Sum_in_a_Binary_Tree.py) | Medium |
+|2601|[Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/) | [Python3](/Solutions/.py) | Medium |
 |2610|[Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | [Python3](/Solutions/2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.py) | Medium |
 |2641|[Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/) | [Python3](/Solutions/2641_Cousins_in_Binary_Tree_II.py) | Medium |
 |2696|[Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | [Python3](/Solutions/2696_Minimum_String_Length_After_Removing_Substrings.py) | Easy |
