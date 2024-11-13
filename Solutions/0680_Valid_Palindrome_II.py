@@ -1,12 +1,23 @@
 class Solution:
+    def check_p(self, _s):
+        half_len_s = len(_s) // 2
+        if len(_s) % 2 == 0:
+            return _s[:half_len_s] == _s[half_len_s:][::-1]
+        else:
+            return _s[:half_len_s] == _s[half_len_s+1:][::-1]
     def validPalindrome(self, s: str) -> bool:
-            p1=0
-            p2=len(s)-1
-            while p1<=p2:
-                if s[p1]!=s[p2]:
-                    string1=s[:p1]+s[p1+1:]
-                    string2=s[:p2]+s[p2+1:]
-                    return string1==string1[::-1] or string2==string2[::-1]
-                p1+=1
-                p2-=1
-            return True
+        left = 0
+        right = len(s) - 1
+        
+        while left < right:
+            if s[left] == s[right]:
+                left += 1
+                right -= 1
+                if left >= right:
+                    return True
+            else:
+                if left + 1 < right:
+                    return self.check_p(s[left+1:right+1]) or self.check_p(s[left:right])
+                else:
+                    return True
+        return True
