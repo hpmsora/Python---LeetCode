@@ -12,22 +12,15 @@ class Solution:
     def lowestCommonAncestor(self, p: 'Node', q: 'Node') -> 'Node':
         p_set = set()
         q_set = set()
-
         while p or q:
-            # p, q set update
             p_set.add(p)
             q_set.add(q)
-
-            # p check:
-            if p in q_set:
-                return p
-            # q check:
             if q in p_set:
                 return q
-
-            # p update
-            if p:
+            elif p in q_set:
+                return p
+            if p.parent:
                 p = p.parent
-            # q update
-            if q:
+            if q.parent:
                 q = q.parent
+        return None
