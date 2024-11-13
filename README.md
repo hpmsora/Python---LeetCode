@@ -171,6 +171,7 @@
 |0543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python3](/Solutions/0543_Diameter_of_Binary_Tree.py) | Easy |
 |0551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Python3](/Solutions/0551_Student_Attendance_Record_I.py) | Easy |
 |0560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Python3](/Solutions/0560_Subarray_Sum_Equals_K.py) | Medium |
+|0567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Python3](/Solutions/0567_Permutation_in_String.py) | Medium |
 |0572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Python3](/Solutions/0572_Subtree_of_Another_Tree.py) | Easy |
 |0605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Python3](/Solutions/0605_Can_Place_Flowers.py) | Easy |
 |0621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python3](/Solutions/0621_Task_Scheduler.py) | Medium |
