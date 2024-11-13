@@ -99,6 +99,7 @@
 |0190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Python3](/Solutions/0190_Reverse_Bits.py) | Easy |
 |0191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Python3](/Solutions/0191_Number_of_1_Bits.py) | Easy |
 |0198|[House Robber](https://leetcode.com/problems/house-robber/) | [Python3](/Solutions/0198_House_Robber.py) | Medium |
+|0199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Python3](/Solutions/0199_Binary_Tree_Right_Side_View.py) | Medium |
 |0202|[Happy Number](https://leetcode.com/problems/happy-number/) | [Python3](/Solutions/0202_Happy_Number.py) | Easy |
 |0205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Python3](/Solutions/0205_Isomorphic_Strings.py) | Easy |
 |0206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python3](/Solutions/0206_Reverse_Linked_List.py) | Easy |
@@ -170,6 +171,7 @@
 |0543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python3](/Solutions/0543_Diameter_of_Binary_Tree.py) | Easy |
 |0551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Python3](/Solutions/0551_Student_Attendance_Record_I.py) | Easy |
 |0560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Python3](/Solutions/0560_Subarray_Sum_Equals_K.py) | Medium |
+|0567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Python3](/Solutions/0567_Permutation_in_String.py) | Medium |
 |0572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Python3](/Solutions/0572_Subtree_of_Another_Tree.py) | Easy |
 |0605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Python3](/Solutions/0605_Can_Place_Flowers.py) | Easy |
 |0621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python3](/Solutions/0621_Task_Scheduler.py) | Medium |
@@ -203,6 +205,7 @@
 |0948|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | [Python3](/Solutions/0948_Bag_of_Tokens.py) | Medium |
 |0950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python3](/Solutions/0950_Reveal_Cards_In_Increasing_Order.py) | Medium |
 |0951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | [Python3](/Solutions/0951_Flip_Equivalent_Binary_Trees.py) | Medium |
+|0953|[Verifying an Alien Dictionary](https://leetcode.com/problems/0953_Verifying_an_Alien_Dictionary/) | [Python3](/Solutions/0953_Verifying_an_Alien_Dictionary.py) | Easy |
 |0957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | [Python3](/Solutions/0957_Prison_Cells_After_N_Days.py) | Medium |
 |0957|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [Python3](/Solutions/0958_Check_Completeness_of_a_Binary_Tree.py) | Medium |
 |0973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Python3](/Solutions/0973_K_Closest_Points_to_Origin.py) | Medium |
@@ -216,6 +219,7 @@
 |1047|[Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) | [Python3](/Solutions/1119_Remove_Vowels_from_a_String.py) | Easy |
 |1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Python3](/Solutions/1091_Shortest_Path_in_Binary_Matrix.py) | Medium |
 |1106|[Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | [Python3](/Solutions/1106_Parsing_A_Boolean_Expression.py) | Hard |
+|1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [Python3](/Solutions/1137_N-th_Tribonacci_Number.py) | Medium |
 |1171|[Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [Python3](/Solutions/1171_Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List.py) | Medium |
 |1176|[Diet Plan Performance](https://leetcode.com/problems/diet-plan-performance/) | [Python3](/Solutions/1176_Diet_Plan_Performance.py) | Easy |
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [Python3](/Solutions/1207_Unique_Number_of_Occurrences.py) | Easy |
@@ -251,6 +255,7 @@
 |1942|[The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | [Python3](/Solutions/1942_The_Number_of_the_Smallest_Unoccupied_Chair.py) | Meidum |
 |1957|[Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [Python3](/Solutions/1957_Delete_Characters_to_Make_Fancy_String.py) | Easy |
 |1963|[Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | [Python3](/Solutions/1963_Minimum_Number_of_Swaps_to_Make_the_String_Balanced.py) | Meidum |
+|2070|[Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/) | [Python3](/Solutions/2070_Most_Beautiful_Item_for_Each_Query.py) | Meidum |
 |2073|[Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | [Python3](/Solutions/2073_Time_Needed_to_Buy_Tickets.py) | Easy |
 |2108|[Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [Python3](/Solutions/2108_Find_First_Palindromic_String_in_the_Array.py) | Medium |
 |2125|[Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | [Python3](/Solutions/2125_Number_of_Laser_Beams_in_a_Bank.py) | Medium |
