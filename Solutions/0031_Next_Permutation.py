@@ -3,41 +3,30 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        
-        # 1324 -> 1342
-        # 1342 -> 1423
-
-        prev = -1
-        new_list = []
+        if len(nums) == 1:
+            return nums
         index = len(nums) - 1
-        isSwap = False
-        while index >= 0:
-            num = nums[index]
-            if num < prev:
-                # Swap first
-                diff = float('inf')
-                s_index = 0
-                for sub_index in range(index+1, len(nums)):
-                    sub_num = nums[sub_index]
-                    if sub_num > num:
-                        if sub_num - num < diff:
-                            diff = sub_num - num
-                            s_index = sub_index
-                temp_num = nums[s_index]
-                nums[s_index] = nums[index]
-                nums[index] = temp_num
-                new_list = nums[index + 1:]
-                new_list.sort()
-                count = 0
-                for sub_index in range(index + 1, len(nums)):
-                    nums[sub_index] = new_list[count]
-                    count += 1
-                nums = nums[:index] + new_list
-                isSwap = True
+        isSol = False
+        while index >= 1:
+            prev_num = nums[index-1]
+            curr_num = nums[index]
+            
+            if prev_num < curr_num:
+                min_diff_index = 0
+                min_diff = float('inf')
+                for index_2, each_nums in enumerate(nums[index:]):
+                    if each_nums > prev_num:
+                        diff = each_nums - prev_num
+                        if diff < min_diff:
+                            min_diff = diff
+                            min_diff_index = index_2 + index
+                temp_num = prev_num
+                nums[index-1] = nums[min_diff_index]
+                nums[min_diff_index] = temp_num
+                nums[index:] = sorted(nums[index:])
+                isSol = True
                 break
-            prev = num
+            
             index -= 1
-
-
-        if not isSwap:
+        if not isSol:
             nums.sort()
