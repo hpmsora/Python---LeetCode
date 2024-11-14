@@ -1,24 +1,33 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        char_list = set(['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', '0','1','2','3','4','5','6','7','8','9'])
         left = 0
         right = len(s) - 1
+        alphabet_set = {
+            'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'
+        }
+        alphabet_upper_set = {
+            'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'
+        }
+        numerical_set = {
+            '1', '2', '3', '4', '5', '6', '7', '8', '9', '0'
+        }
         while left < right:
-            # Next Left
-            while left < right and not s[left].lower() in char_list:
+            # Left Stratch
+            while left < right and not (s[left] in alphabet_set or s[left] in alphabet_upper_set or s[left] in numerical_set):
                 left += 1
-            left_letter = s[left].lower()
-            left += 1
-
-            # Next Right
-            while 0 <= right and not s[right].lower() in char_list:
-                right -= 1
-            right_letter = s[right].lower()
-            right -= 1
-
-            if not left_letter in char_list:
+            
+            if left == right:
                 return True
-
-            if not (left_letter == right_letter):
+            
+            # Right Stratch
+            while left < right and not (s[right] in alphabet_set or s[right] in alphabet_upper_set or s[right] in numerical_set):
+                right -= 1
+            if left == right:
+                return True
+            
+            if not s[left].lower() == s[right].lower():
                 return False
+            else:
+                left += 1
+                right -= 1
         return True

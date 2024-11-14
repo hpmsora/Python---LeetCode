@@ -44,6 +44,7 @@
 |0065|[Valid Number](https://leetcode.com/problems/valid-number/) | [Python3](/Solutions/0065_Valid_Number.py) | Hard |
 |0066|[Plus One](https://leetcode.com/problems/plus-one/) | [Python3](/Solutions/0066_Plus_One.py) | Easy |
 |0067|[Add Binary](https://leetcode.com/problems/add-binary/) | [Python3](/Solutions/0067_Add_Binary.py) | Easy |
+|0068|[Text Justification](https://leetcode.com/problems/text-justification/) | [Python3](/Solutions/0068_Text_Justification.py) | Hard |
 |0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python3](/Solutions/0069_Sqrt(x).py) | Easy |
 |0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python3](/Solutions/0070_Climbing_Stairs.py) | Easy |
 |0071|[Simplify Path](https://leetcode.com/problems/simplify-path/) | [Python3](/Solutions/0071_Simplify_Path.py) | Medium |
@@ -126,7 +127,8 @@
 |0270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | [Python3](/Solutions/0270_Closest_Binary_Search_Tree_Value.py) | Easy |
 |0274|[H-Index](https://leetcode.com/problems/h-index/) | [Python3](/Solutions/0274_H-Index.py) | Medium |
 |0279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Python3](/Solutions/0279_Perfect_Squares.py) | Medium |
-|0282|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python3](/Solutions/0283_Move_Zeroes.py) | Easy |
+|0282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | [Python3](/Solutions/0282_Expression_Add_Operators.py) | Hard |
+|0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python3](/Solutions/0283_Move_Zeroes.py) | Easy |
 |0287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Python3](/Solutions/0287_Find_the_Duplicate_Number.py) | Medium |
 |0290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python3](/Solutions/0290_Word_Pattern.py) | Medium |
 |0300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python3](/Solutions/0300_Longest_Increasing_Subsequence.py) | Medium |
@@ -269,6 +271,7 @@
 |2490|[Circular Sentence](https://leetcode.com/problems/circular-sentence/) | [Python3](/Solutions/2490_Circular_Sentence.py) | Easy |
 |2530|[Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) | [Python3](/Solutions/2530_Maximal_Score_After_Applying_K_Operations.py) | Medium |
 |2540|[Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | [Python3](/Solutions/2540_Minimum_Common_Value.py) | Easy |
+|2563|[Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | [Python3](/Solutions/2563_Count_the_Number_of_Fair_Pairs.py) | Medium |
 |2583|[Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | [Python3](/Solutions/2583_Kth_Largest_Sum_in_a_Binary_Tree.py) | Medium |
 |2601|[Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/) | [Python3](/Solutions/.py) | Medium |
 |2610|[Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | [Python3](/Solutions/2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.py) | Medium |
