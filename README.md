@@ -44,6 +44,7 @@
 |0065|[Valid Number](https://leetcode.com/problems/valid-number/) | [Python3](/Solutions/0065_Valid_Number.py) | Hard |
 |0066|[Plus One](https://leetcode.com/problems/plus-one/) | [Python3](/Solutions/0066_Plus_One.py) | Easy |
 |0067|[Add Binary](https://leetcode.com/problems/add-binary/) | [Python3](/Solutions/0067_Add_Binary.py) | Easy |
+|0068|[Text Justification](https://leetcode.com/problems/text-justification/) | [Python3](/Solutions/0068_Text_Justification.py) | Hard |
 |0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python3](/Solutions/0069_Sqrt(x).py) | Easy |
 |0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python3](/Solutions/0070_Climbing_Stairs.py) | Easy |
 |0071|[Simplify Path](https://leetcode.com/problems/simplify-path/) | [Python3](/Solutions/0071_Simplify_Path.py) | Medium |
