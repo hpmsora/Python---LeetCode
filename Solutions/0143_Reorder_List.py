@@ -8,25 +8,24 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
-        dummy = ListNode(val=-1, next=head)
-
-        list_node = []
-
+        
+        dummy_head = ListNode(val=0, next=head)
+        head_dict = {}
+        max_index = 0
         while head:
-            list_node.append(head)
+            head_dict[max_index] = head
             head = head.next
-
-        new_list_node = []
-
-        while list_node:
-            f_node = list_node.pop(0)
-            new_list_node.append(f_node)
-
-            if list_node:
-                new_list_node.append(list_node.pop())
-
-        head = dummy
-        for node in new_list_node:
-            head.next = node
+            max_index += 1
+        max_index -= 1
+        head = dummy_head
+        for each_index in range(max_index//2+1):
+            head.next = head_dict[each_index]
             head = head.next
-        head.next = None
+            
+            head.next = head_dict[max_index - each_index]
+            head = head.next
+        if max_index % 2 == 1:
+            head.next = None
+        else:
+            head.next = head_dict[max_index//2]
+            head.next.next = None

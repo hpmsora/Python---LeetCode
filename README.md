@@ -25,6 +25,7 @@
 |0035|[0035_Search_Insert_Position](https://leetcode.com/problems/search-insert-position/) | [Python3](/Solutions/0035_Search_Insert_Position.py) | Easy |
 |0036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python3](/Solutions/0036_Valid_Sudoku.py) | Medium |
 |0038|[Count and Say](https://leetcode.com/problems/count-and-say/) | [Python3](/Solutions/0038_Count_and_Say.py) | Medium |
+|0039|[Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python3](/Solutions/0039_Combination_Sum.py) | Medium |
 |0042|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python3](/Solutions/0041_First_Missing_Positive.py) | Hard |
 |0042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python3](/Solutions/0042_Trapping_Rain_Water.py) | Hard |
 |0045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Python3](/Solutions/0045_Jump_Game_II.py) | Medium |
@@ -162,6 +163,7 @@
 |0455|[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Python3](/Solutions/0446_Arithmetic_Slices_II_Subsequence.py) | Hard |
 |0455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Python3](/Solutions/0455_Assign_Cookies.py) | Easy |
 |0459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [Python3](/Solutions/0459_Repeated_Substring_Pattern.py) | Easy |
+|0463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Python3](/Solutions/0463_Island_Perimeter.py) | Easy |
 |0498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [Python3](/Solutions/0498_Diagonal_Traverse.py) | Medium |
 |0501|[Repeated Substring Pattern](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Python3](/Solutions/0501_Find_Mode_in_Binary_Search_Tree.py) | Easy |
 |0513|[Find Bottom Left Tree Value](http://leetcode.com/problems/find-bottom-left-tree-value/) | [Python3](/Solutions/0513_Find_Bottom_Left_Tree_Value.py) | Medium |
@@ -257,6 +259,7 @@
 |1942|[The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | [Python3](/Solutions/1942_The_Number_of_the_Smallest_Unoccupied_Chair.py) | Meidum |
 |1957|[Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [Python3](/Solutions/1957_Delete_Characters_to_Make_Fancy_String.py) | Easy |
 |1963|[Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | [Python3](/Solutions/1963_Minimum_Number_of_Swaps_to_Make_the_String_Balanced.py) | Meidum |
+|2064|[Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) | [Python3](/Solutions/2064_Minimized_Maximum_of_Products_Distributed_to_Any_Store.py) | Meidum |
 |2070|[Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/) | [Python3](/Solutions/2070_Most_Beautiful_Item_for_Each_Query.py) | Meidum |
 |2073|[Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | [Python3](/Solutions/2073_Time_Needed_to_Buy_Tickets.py) | Easy |
 |2108|[Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [Python3](/Solutions/2108_Find_First_Palindromic_String_in_the_Array.py) | Medium |
