@@ -242,6 +242,7 @@
 |1544|[Make The String Great](https://leetcode.com/problems/make-the-string-great/) | [Python3](/Solutions/1544_Make_The_String_Great.py) | Easy |
 |1545|[Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | [Python3](/Solutions/1545_Find_Kth_Bit_in_Nth_Binary_String.py) | Medium |
 |1570|[Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/) | [Python3](/Solutions/1570_Dot_Product_of_Two_Sparse_Vectors.py) | Medium |
+|1574|[Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/) | [Python3](/Solutions/1574_Shortest_Subarray_to_be_Removed_to_Make_Array_Sorted.py) | Medium |
 |1578|[Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [Python3](/Solutions/1578_Minimum_Time_to_Make_Rope_Colorful.py) | Medium |
 |1609|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree/) | [Python3](/Solutions/1609_Even_Odd_Tree.py) | Medium |
 |1614|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Python3](/Solutions/1614_Maximum_Nesting_Depth_of_the_Parentheses.py) | Easy |
