@@ -1,20 +1,20 @@
 class Solution:
     def minRemoveToMakeValid(self, s: str) -> str:
+        par_heap = []
+
         sol = []
+        s_list = list(s)
 
-        open_par = []
-
-        for index, each_s in enumerate(s):
+        for index, each_s in enumerate(s_list):
             if each_s == "(":
-                open_par.append(index)
+                par_heap.append((each_s, index))
+            
             elif each_s == ")":
-                if not open_par:
+                if par_heap and par_heap[-1][0] == "(":
+                    par_heap.pop()
                     sol.append(index)
                 else:
-                    open_par.pop()
-
-        s_list = list(s)
-        for each_index in sol + open_par:
-            s_list[each_index] = ""
-
-        return ''.join(s_list)
+                    par_heap.append((each_s, index))
+        for _, index in par_heap:
+            s_list[index] = ""
+        return "".join(s_list)
