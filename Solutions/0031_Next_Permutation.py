@@ -3,30 +3,32 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        if len(nums) == 1:
-            return nums
+
+        prev_nums = nums[-1]
+
         index = len(nums) - 1
-        isSol = False
-        while index >= 1:
-            prev_num = nums[index-1]
-            curr_num = nums[index]
-            
-            if prev_num < curr_num:
-                min_diff_index = 0
-                min_diff = float('inf')
-                for index_2, each_nums in enumerate(nums[index:]):
-                    if each_nums > prev_num:
-                        diff = each_nums - prev_num
-                        if diff < min_diff:
-                            min_diff = diff
-                            min_diff_index = index_2 + index
-                temp_num = prev_num
-                nums[index-1] = nums[min_diff_index]
-                nums[min_diff_index] = temp_num
-                nums[index:] = sorted(nums[index:])
-                isSol = True
+        isLast = True
+        while index >= 0:
+            each_nums = nums[index]
+
+            if prev_nums <= each_nums:
+                prev_nums = each_nums
+            else:
+                isLast = False
+                next_num = nums[-1]
+                next_index = len(nums) - 1
+                diff = float('inf')
+                for index_2, each_nums2 in enumerate(nums[:index:-1]):
+                    index_2 = len(nums) - index_2 - 1
+                    if each_nums2 - each_nums > 0 and diff > each_nums2 - each_nums:
+                        diff = next_num - each_nums2
+                        next_num = each_nums2
+                        next_index = index_2
+                # Swap
+                nums[index] = nums[next_index]
+                nums[next_index] = each_nums
+                nums[index+1:] = sorted(nums[index+1:])
                 break
-            
             index -= 1
-        if not isSol:
+        if isLast:
             nums.sort()
