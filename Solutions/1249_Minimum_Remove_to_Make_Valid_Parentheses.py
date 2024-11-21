@@ -1,20 +1,27 @@
 class Solution:
     def minRemoveToMakeValid(self, s: str) -> str:
-        par_heap = []
+        # [(str("(" or ")"), int(index))]
+        stack = []
 
-        sol = []
+        # str(s) -> list(s)
         s_list = list(s)
 
         for index, each_s in enumerate(s_list):
+            # Case 1: "("
             if each_s == "(":
-                par_heap.append((each_s, index))
-            
+                stack.append(("(", index))
+            # Case 2: ")"
             elif each_s == ")":
-                if par_heap and par_heap[-1][0] == "(":
-                    par_heap.pop()
-                    sol.append(index)
+                # Case 2-1: remove "("
+                if stack and stack[-1][0] == "(":
+                    stack.pop()
+                # Case 2-2: append ")"
                 else:
-                    par_heap.append((each_s, index))
-        for _, index in par_heap:
+                    stack.append((")", index))
+        
+        # str(s) remove unnecessary parenthesis
+        for _, index in stack:
             s_list[index] = ""
-        return "".join(s_list)
+        
+        # RETURN - list(s_list) -> str(s)
+        return ''.join(s_list)

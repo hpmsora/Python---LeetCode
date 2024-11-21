@@ -7,28 +7,21 @@
 
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-        # DFS
-        # RETURN: Parents List
-        def helper(_root, _target) -> 'TreeNode':
-            if _root == _target:
-                return [_root]
+        def helper(_root, _p, _q):
+            if not _root:
+                return None
+            if _root == _p or _root == _q:
+                return _root
             
-            # Left
-            left = []
-            if _root.left:
-                left = helper(_root.left, _target)
-                if left:
-                    return left + [_root]
-            # Right
-            right = []
-            if _root.right:
-                right = helper(_root.right, _target)
-                if right:
-                    return right + [_root]
-
-        p_list = helper(root, p)
-        q_list = set(helper(root, q))
-
-        for each_p_list in p_list:
-            if each_p_list in q_list:
-                return each_p_list
+            left = helper(_root.left, _p, _q)
+            
+            right = helper(_root.right, _p, _q)
+            
+            if left and right:
+                return _root
+            elif left:
+                return left
+            else:
+                return right
+        
+        return helper(root, p, q)

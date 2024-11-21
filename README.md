@@ -276,6 +276,7 @@
 |2461|[Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | [Python3](/Solutions/2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K.py) | Medium |
 |2485|[Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | [Python3](/Solutions/2485_Find_the_Pivot_Integer.py) | Easy |
 |2490|[Circular Sentence](https://leetcode.com/problems/circular-sentence/) | [Python3](/Solutions/2490_Circular_Sentence.py) | Easy |
+|2516|[Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/) | [Python3](/Solutions/2516_Take_K_of_Each_Character_From_Left_and_Right.py) | Medium |
 |2530|[Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) | [Python3](/Solutions/2530_Maximal_Score_After_Applying_K_Operations.py) | Medium |
 |2540|[Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | [Python3](/Solutions/2540_Minimum_Common_Value.py) | Easy |
 |2563|[Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | [Python3](/Solutions/2563_Count_the_Number_of_Fair_Pairs.py) | Medium |
