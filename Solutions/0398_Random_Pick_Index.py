@@ -1,23 +1,20 @@
 class Solution:
 
     def __init__(self, nums: List[int]):
-        # Declare dictionary (key: num, value: [index, ...])
-        self.dict_index = {}
-
-        # Loop - each nums
-        for index, each_num in enumerate(nums):
-            # Update index dictionary
-            if each_num in self.dict_index:
-                self.dict_index[each_num].append(index)
+        self.nums_index_freq_dict = {}
+        for index, each_nums in enumerate(nums):
+            if each_nums in self.nums_index_freq_dict:
+                self.nums_index_freq_dict[each_nums].append(index)
             else:
-                self.dict_index[each_num] = [index]
+                self.nums_index_freq_dict[each_nums] = [index]
 
     def pick(self, target: int) -> int:
-        # Get index list
-        index_list = self.dict_index[target]
+        index_list = self.nums_index_freq_dict[target]
+        new_index = math.floor(random.random() * len(index_list))
+        
+        return index_list[new_index]
+        
 
-        # RETURN - random index
-        return random.choice(index_list)
 
 # Your Solution object will be instantiated and called as such:
 # obj = Solution(nums)
