@@ -6,29 +6,33 @@
 #         self.right = right
 class Solution:
     def verticalOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        # Special case
         if not root:
             return []
         # BFS
-        dp = [(root, 0)]
-        
-        index = 0
+        stack = collections.deque([(root, 0)])
         min_depth = 0
         max_depth = 0
-        while index < len(dp):
-            curr_node, depth = dp[index]
-            # Left
+        index = 0
+        
+        while index < len(stack):
+            curr_node, depth = stack[index]
+            
+            min_depth = min(min_depth, depth)
+            max_depth = max(max_depth, depth)
+            
             if curr_node.left:
-                dp.append((curr_node.left, depth-1))
-                min_depth = min(min_depth, depth-1)
-            # Right
+                stack.append((curr_node.left, depth - 1))
+            
             if curr_node.right:
-                dp.append((curr_node.right, depth+1))
-                max_depth = max(max_depth, depth+1)
+                stack.append((curr_node.right, depth + 1))
+            
             index += 1
+        
+        total_depth = max_depth - min_depth
+        
         sol = [[] for _ in range(min_depth, max_depth+1)]
         
-        for each_dp, depth in dp:
-            depth = depth - min_depth
-            sol[depth].append(each_dp.val)
+        
+        for node, depth in stack:
+            sol[depth - min_depth].append(node.val)
         return sol
