@@ -8,16 +8,15 @@ class Solution:
     def minDepth(self, root: Optional[TreeNode]) -> int:
         if not root:
             return 0
-        # helper - DFS
-        def helper(_root):
-            queue = collections.deque([(_root, 1)])
-            while queue:
-                node, depth = queue.popleft()
-                if not (node.left or node.right):
-                    return depth
-                if node.left:
-                    queue.append((node.left, depth+1))
-                if node.right:
-                    queue.append((node.right, depth+1))
-        
-        return helper(root)
+        # BFS
+        stack = collections.deque([(root, 1)])
+        while stack:
+            curr_node, depth = stack.popleft()
+            
+            if (not curr_node.left) and (not curr_node.right):
+                return depth
+            
+            if curr_node.left:
+                stack.append((curr_node.left, depth + 1))
+            if curr_node.right:
+                stack.append((curr_node.right, depth + 1))
