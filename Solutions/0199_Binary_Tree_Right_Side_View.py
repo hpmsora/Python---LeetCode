@@ -6,31 +6,27 @@
 #         self.right = right
 class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
-        # Speical Case - Empty
         if not root:
             return []
-        
         # BFS
-        dp = [(root, 0)]
+        stack = collections.deque([(root, 0)])
+        sol = []
         
         prev_depth = -1
-        prev_num = None
-        sol = []
-        while dp:
-            curr_node, depth = dp.pop(0)
+        prev_val = None
+        while stack:
+            curr_node, curr_depth = stack.popleft()
             
-            if not prev_depth == depth:
-                sol.append(prev_num)
-                prev_depth = depth
+            if not curr_depth == prev_depth:
+                sol.append(prev_val)
+                prev_depth = curr_depth
+            prev_val = curr_node.val
             
-            # left
             if curr_node.left:
-                dp.append((curr_node.left, depth + 1))
-            
-            # right
-            if curr_node.right:
-                dp.append((curr_node.right, depth + 1))
+                stack.append((curr_node.left, curr_depth + 1))
                 
-            prev_num = curr_node.val
-        sol.append(prev_num)
+            if curr_node.right:
+                stack.append((curr_node.right, curr_depth + 1))
+            
+        sol.append(curr_node.val)
         return sol[1:]
