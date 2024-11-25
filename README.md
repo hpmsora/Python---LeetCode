@@ -196,6 +196,7 @@
 |0739|[Network Delay Time](https://leetcode.com/problems/daily-temperatures/) | [Python3](/Solutions/0739_Daily_Temperatures.py) | Medium |
 |0743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Python3](/Solutions/0743_Network_Delay_Time.py) | Medium |
 |0766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Python3](/Solutions/0766_Toeplitz_Matrix.py) | Easy |
+|0773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | [Python3](/Solutions/0773_Sliding_Puzzle.py) | Hard |
 |0791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | [Python3](/Solutions/0791_Custom_Sort_String.py) | Medium |
 |0796|[Rotate String](https://leetcode.com/problems/rotate-string/) | [Python3](/Solutions/0796_Rotate_String.py) | Easy |
 |0824|[Goat Latin](https://leetcode.com/problems/goat-latin/) | [Python3](/Solutions/0824_Goat_Latin.py) | Easy |
