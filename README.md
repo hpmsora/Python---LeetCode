@@ -266,6 +266,7 @@
 |1942|[The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | [Python3](/Solutions/1942_The_Number_of_the_Smallest_Unoccupied_Chair.py) | Meidum |
 |1957|[Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [Python3](/Solutions/1957_Delete_Characters_to_Make_Fancy_String.py) | Easy |
 |1963|[Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | [Python3](/Solutions/1963_Minimum_Number_of_Swaps_to_Make_the_String_Balanced.py) | Meidum |
+|1975|[Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | [Python3](/Solutions/1975_Maximum_Matrix_Sum.py) | Meidum |
 |2064|[Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) | [Python3](/Solutions/2064_Minimized_Maximum_of_Products_Distributed_to_Any_Store.py) | Meidum |
 |2070|[Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/) | [Python3](/Solutions/2070_Most_Beautiful_Item_for_Each_Query.py) | Meidum |
 |2073|[Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | [Python3](/Solutions/2073_Time_Needed_to_Buy_Tickets.py) | Easy |
