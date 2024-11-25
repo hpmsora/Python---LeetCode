@@ -1,39 +1,28 @@
 class Solution:
-    def isInOrder(self, _word_1, _word_2, _letter_order_dict):
-        index = 0
-        
-        min_len = min(len(_word_1), len(_word_2))
-        
-        while index < min_len:
-            letter_1 = _word_1[index]
-            letter_2 = _word_2[index]
-            if not letter_1 == letter_2:
-                if _letter_order_dict[letter_1] < _letter_order_dict[letter_2]:
-                    return True
-                else:
-                    return False
-            index += 1
-        if len(_word_1) <= len(_word_2):
-            return True
-        else:
-            return False
-    
     def isAlienSorted(self, words: List[str], order: str) -> bool:
+        order_dict_letter_index = {}
+        
+        for index, each_order in enumerate(order):
+            order_dict_letter_index[each_order] = index
+            
         if len(words) == 1:
             return True
         
-        letter_order_dict = {}
+        pre_words = words[0]
         
-        for index, each_order in enumerate(order):
-            letter_order_dict[each_order] = index
-        
-        index = 1
-        
-        while index < len(words):
-            prev_word = words[index-1]
-            curr_word = words[index]
+        for each_words in words[1:]:
+            index = 0
+            min_len = min(len(pre_words), len(each_words))
+            isInOrder = False
+            while index < min_len:
+                if order_dict_letter_index[pre_words[index]] > order_dict_letter_index[each_words[index]]:
+                    return False
+                elif order_dict_letter_index[pre_words[index]] < order_dict_letter_index[each_words[index]]:
+                    isInOrder = True
+                    break
+                index += 1
             
-            if not self.isInOrder(prev_word, curr_word, letter_order_dict):
+            if not isInOrder and len(pre_words) > len(each_words):
                 return False
-            index += 1
+            pre_words = each_words
         return True
