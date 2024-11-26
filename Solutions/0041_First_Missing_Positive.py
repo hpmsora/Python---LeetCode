@@ -1,24 +1,26 @@
 class Solution:
     def firstMissingPositive(self, nums: List[int]) -> int:
+        nums.append(-1)
         index = 0
-        len_nums = len(nums)
 
-        while index < len_nums:
-            if nums[index] <= 0:
-                nums[index] = len_nums + 1
+        while index < len(nums):
+            curr_num = nums[index]
+            if curr_num > 0:
+                if not curr_num == index:
+                    nums[index] = -1
+                    while curr_num > 0 and curr_num < len(nums):
+                        if not nums[curr_num] > 0 or nums[curr_num] == curr_num:
+                            nums[curr_num] = curr_num
+                            break
+                        new_num = nums[curr_num]
+                        nums[curr_num] = curr_num
+                        curr_num = new_num
             index += 1
+        curr_num = 1
+
+        while curr_num < len(nums):
+            if not nums[curr_num] == curr_num:
+                return curr_num
+            curr_num += 1
         
-        index = 0
-        while index < len_nums:
-            num = nums[index]
-            if abs(num) - 1 < len_nums and abs(num) - 1 >= 0:
-                if nums[abs(num) - 1] > 0:
-                    nums[abs(num) - 1] = nums[abs(num) - 1] * -1
-            index += 1
-        
-        index = 0
-        while index < len_nums:
-            if nums[index] > 0:
-                return index + 1
-            index += 1
-        return index + 1
+        return curr_num
