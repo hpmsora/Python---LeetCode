@@ -5,6 +5,7 @@
 |0001|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python3](/Solutions/0001_Two_Sum.py) | Easy |
 |0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python3](/Solutions/0002_Add_Two_Numbers.py) | Medium |
 |0003|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python3](/Solutions/0003_Longest_Substring_Without_Repeating_Characters.py) | Medium |
+|0004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python3](/Solutions/0004_Median_of_Two_Sorted_Arrays.py) | Hard |
 |0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python3](/Solutions/0005_Longest_Palindromic_Substring.py) | Medium |
 |0006|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python3](/Solutions/0006_Zigzag_Conversion.py) | Medium |
 |0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python3](/Solutions/0007_Reverse_Integer.py) | Medium |
@@ -64,6 +65,7 @@
 |0100|[Same Tree](https://leetcode.com/problems/same-tree/) | [Python3](/Solutions/0100_Same_Tree.py) | Easy |
 |0101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python3](/Solutions/0101_Symmetric_Tree.py) | Easy |
 |0102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Python3](/Solutions/0102_Binary_Tree_Level_Order_Traversal.py) | Medium |
+|0103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Python3](/Solutions/0103_Binary_Tree_Zigzag_Level_Order_Traversal.py) | Medium |
 |0105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Python3](/Solutions/0105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py) | Medium |
 |0108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python3](/Solutions/0108_Convert_Sorted_Array_to_Binary_Search_Tree.py) | Easy |
 |0110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Python3](/Solutions/0110_Balanced_Binary_Tree.py) | Easy |
@@ -297,6 +299,7 @@
 |2864|[Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/) | [Python3](/Solutions/2864_Maximum_Odd_Binary_Number.py) | Easy |
 |2870|[Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/) | [Python3](/Solutions/2870_Minimum_Number_of_Operations_to_Make_Array_Empty.py) | Medium |
 |2914|[Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | [Python3](/Solutions/2914_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful.py) | Medium |
+|2924|[Find Champion II](https://leetcode.com/problems/find-champion-ii/) | [Python3](/Solutions/2924_Find_Champion_II.py) | Medium |
 |2938|[Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/) | [Python3](/Solutions/2938_Separate_Black_and_White_Balls.py) | Medium |
 |2951|[Find the Peaks](https://leetcode.com/problems/find-the-peaks/) | [Python3](/Solutions/2951_Find_the_Peaks.py) | Easy |
 |2956|[Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/description/) | [Python3](/Solutions/2956_Find_Common_Elements_Between_Two_Arrays.py) | Easy |
