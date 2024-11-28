@@ -3,13 +3,15 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        index = 0
-        max_right_index = len(nums) - 1
         
-        while index < len(nums) and index <= max_right_index:
+        index = 0
+        zero_count = 0
+        
+        while index < len(nums):
             if nums[index] == 0:
+                zero_count += 1
                 nums.pop(index)
-                nums.append(0)
-                max_right_index -= 1
             else:
                 index += 1
+                
+        nums += [0] * zero_count

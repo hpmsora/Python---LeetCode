@@ -8,31 +8,30 @@ class Solution:
     def verticalOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         if not root:
             return []
-        # BFS
-        stack = collections.deque([(root, 0)])
-        min_depth = 0
-        max_depth = 0
-        index = 0
+        left = 0
+        right = 0
+        data_dict = {}
         
-        while index < len(stack):
-            curr_node, depth = stack[index]
+        queue = collections.deque([(root, 0)])
+        
+        while queue:
+            curr_node, level = queue.popleft()
+            left = min(left, level)
+            right = max(right, level)
             
-            min_depth = min(min_depth, depth)
-            max_depth = max(max_depth, depth)
+            if level in data_dict:
+                data_dict[level].append(curr_node.val)
+            else:
+                data_dict[level] = [curr_node.val]
             
             if curr_node.left:
-                stack.append((curr_node.left, depth - 1))
+                queue.append((curr_node.left, level-1))
             
             if curr_node.right:
-                stack.append((curr_node.right, depth + 1))
-            
-            index += 1
+                queue.append((curr_node.right, level+1))
+                
+        sol = [[] for _ in range(right - left + 1)]
         
-        total_depth = max_depth - min_depth
-        
-        sol = [[] for _ in range(min_depth, max_depth+1)]
-        
-        
-        for node, depth in stack:
-            sol[depth - min_depth].append(node.val)
+        for index, data in data_dict.items():
+            sol[index-left] = data
         return sol
