@@ -279,6 +279,7 @@
 |2225|[Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | [Python3](/Solutions/2225_Find_Players_With_Zero_or_One_Losses.py) | Medium |
 |2257|[Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | [Python3](/Solutions/2257_Count_Unguarded_Cells_in_the_Grid.py) | Medium |
 |2275|[Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | [Python3](/Solutions/2275_Largest_Combination_With_Bitwise_AND_Greater_Than_Zero.py) | Medium |
+|2290|[Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) | [Python3](/Solutions/2290_Minimum_Obstacle_Removal_to_Reach_Corner.py) | Hard |
 |2385|[Amount of Time for Binary Tree to Be Infected](http://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | [Python3](/Solutions/2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected.py) | Medium |
 |2418|[Sort the People](https://leetcode.com/problems/sort-the-people/) | [Python3](/Solutions/2418_Sort_the_People.py) | Easy |
 |2444|[Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | [Python3](/Solutions/2444_Count_Subarrays_With_Fixed_Bounds.py) | Hard |
