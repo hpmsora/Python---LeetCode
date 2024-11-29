@@ -1,26 +1,22 @@
 class Solution:
     def kClosest(self, points: List[List[int]], k: int) -> List[List[int]]:
-        # Distance helper function
-        def helper(_x:int , _y:int ) -> int:
-            return -1*(_x**2 + _y**2)**0.5
+        # cal euc
+        def helper(_x, _y):
+            return (_x**2 + _y**2) * -1
 
-        # Solution Variable
-        sol = [(float('-inf'), 0, 0) for _ in range(k)]
-        
-        # Heap
-        heapq.heapify(sol)
-
-        # Loop for each point (x: int, y: int)
-        for x, y in points:
-            # Get largest distnace from heap
-            min_val, _, _ = sol[0]
-
-            # Get current x, y euc-distance
+        heap = []
+        heapq.heapify(heap)
+        for x, y in points[:k]:
             dis = helper(x, y)
+            heapq.heappush(heap, (dis, x, y))
 
-            # Check current position is valid
-            if dis > min_val:
-                heapq.heappushpop(sol, (dis, x, y))
+        for x, y in points[k:]:
+            dis = helper(x, y)
+            if heap[0][0] < dis:
+                heapq.heappushpop(heap, (dis, x, y))
         
-        # RETURN
-        return [[x, y] for _, x, y in sol]
+        sol = []
+        for _, x, y in heap:
+            sol.append([x, y])
+
+        return sol
