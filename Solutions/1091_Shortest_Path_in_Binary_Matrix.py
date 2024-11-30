@@ -1,59 +1,31 @@
 class Solution:
     def shortestPathBinaryMatrix(self, grid: List[List[int]]) -> int:
-        # [(x, y, dis)]
-        dp = [(0, 0, 1)]
+        m = len(grid)
+        n = len(grid[0])
 
-        wid = len(grid)
-        hei = len(grid[0])
+        target = (m-1, n-1)
 
-        target = (wid-1, hei-1)
+        dirs = [(-1, 0), (-1, 1), (0, 1), (1, 1), (1, 0), (1, -1), (0, -1), (-1, -1)]
 
-        visited = set()
-        visited.add((0, 0))
-
-        if grid[0][0] == 1:
+        if grid[0][0] == 1 or grid[m-1][n-1] == 1:
             return -1
+        elif m-1 == 0 and n-1 == 0:
+            return 1
 
-        while dp:
-            x, y, dis = dp.pop(0)
+        stack = collections.deque([(0, 0, 1)])
+        visited = set([(0, 0)])
 
-            if (x, y) == target:
-                return dis
-            
-            # x + 1
-            if x + 1 < wid:
-                if (not (x+1, y) in visited) and (grid[x+1][y] == 0):
-                    dp.append((x + 1, y, dis + 1))
-                    visited.add((x+1, y))
-                if y + 1 < hei:
-                    if (not (x+1, y+1) in visited) and (grid[x+1][y+1] == 0):
-                        dp.append((x+1, y+1, dis + 1))
-                        visited.add((x+1, y+1))
-            # y + 1
-            if y + 1 < hei:
-                if (not (x, y+1) in visited) and (grid[x][y+1] == 0):
-                    dp.append((x, y+1, dis + 1))
-                    visited.add((x, y+1))
-                if x - 1 >= 0:
-                    if (not (x-1, y+1) in visited) and (grid[x-1][y+1] == 0):
-                        dp.append((x-1, y+1, dis + 1))
-                        visited.add((x-1, y+1))
-            # x - 1
-            if x - 1 >= 0:
-                if (not (x-1, y) in visited) and (grid[x-1][y] == 0):
-                    dp.append((x-1, y, dis + 1))
-                    visited.add((x-1, y))
-                if y - 1 >= 0:
-                    if (not (x-1, y-1) in visited) and (grid[x-1][y-1] == 0):
-                        dp.append((x-1, y-1, dis + 1))
-                        visited.add((x-1, y-1))
-            # y - 1
-            if y - 1 >= 0:
-                if (not (x, y-1) in visited) and (grid[x][y-1] == 0):
-                    dp.append((x, y-1, dis + 1))
-                    visited.add((x, y-1))
-                if x + 1 < hei:
-                    if (not (x+1, y-1) in visited) and (grid[x+1][y-1] == 0):
-                        dp.append((x+1, y-1, dis + 1))
-                        visited.add((x+1, y-1))
+        while stack:
+            x, y, step = stack.popleft()
+
+            for dx, dy in dirs:
+                nx, ny = x + dx, y + dy
+
+                if nx >= 0 and nx < m and ny >= 0 and ny < n and not (nx, ny) in visited:
+                    if grid[nx][ny] == 1:
+                        continue
+                    if (nx, ny) == target:
+                        return step + 1
+                    visited.add((nx, ny))
+                    stack.append((nx, ny, step + 1))
         return -1
