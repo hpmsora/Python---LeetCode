@@ -273,6 +273,7 @@
 |2064|[Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) | [Python3](/Solutions/2064_Minimized_Maximum_of_Products_Distributed_to_Any_Store.py) | Meidum |
 |2070|[Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/) | [Python3](/Solutions/2070_Most_Beautiful_Item_for_Each_Query.py) | Meidum |
 |2073|[Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | [Python3](/Solutions/2073_Time_Needed_to_Buy_Tickets.py) | Easy |
+|2097|[Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/) | [Python3](/Solutions/2097_Valid_Arrangement_of_Pairs.py) | Hard |
 |2108|[Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [Python3](/Solutions/2108_Find_First_Palindromic_String_in_the_Array.py) | Medium |
 |2125|[Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | [Python3](/Solutions/2125_Number_of_Laser_Beams_in_a_Bank.py) | Medium |
 |2149|[Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [Python3](/Solutions/2149_Rearrange_Array_Elements_by_Sign.py) | Medium |
