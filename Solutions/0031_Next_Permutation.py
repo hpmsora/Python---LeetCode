@@ -3,32 +3,31 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-
-        prev_nums = nums[-1]
-
         index = len(nums) - 1
-        isLast = True
+        
+        prev_num = nums[index]
+        index -= 1
+        
         while index >= 0:
             each_nums = nums[index]
-
-            if prev_nums <= each_nums:
-                prev_nums = each_nums
-            else:
-                isLast = False
-                next_num = nums[-1]
-                next_index = len(nums) - 1
-                diff = float('inf')
-                for index_2, each_nums2 in enumerate(nums[:index:-1]):
-                    index_2 = len(nums) - index_2 - 1
-                    if each_nums2 - each_nums > 0 and diff > each_nums2 - each_nums:
-                        diff = next_num - each_nums2
-                        next_num = each_nums2
-                        next_index = index_2
-                # Swap
-                nums[index] = nums[next_index]
-                nums[next_index] = each_nums
-                nums[index+1:] = sorted(nums[index+1:])
+            
+            if prev_num > each_nums:
+                index_2 = index + 1
+                min_gap = prev_num - each_nums
+                next_digit_index = index_2
+                while index_2 < len(nums) and nums[index_2] > each_nums:
+                    if nums[index_2] - each_nums < min_gap:
+                        next_digit_index = index_2
+                        min_gap = nums[index_2] - each_nums
+                    index_2 += 1
+                nums[index], nums[next_digit_index] = nums[next_digit_index], nums[index]
+                # nums[index + 1:] reverse
+                new_nums = nums[index + 1:]
+                new_nums.sort()
+                nums[index + 1:] = new_nums
+                return
                 break
+            prev_num = each_nums
+            
             index -= 1
-        if isLast:
-            nums.sort()
+        nums.reverse()

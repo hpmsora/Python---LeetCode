@@ -1,24 +1,30 @@
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
-        if not digits:
-            return []
-        num_map = {
-            "2": ["a", "b", "c"],
-            "3": ["d", "e", "f"],
-            "4": ["g", "h", "i"],
-            "5": ["j", "k", "l"],
-            "6": ["m", "n", "o"],
-            "7": ["p", "q", "r", "s"],
-            "8": ["t", "u", "v"],
-            "9": ["w", "x", "y", "z"]
+        nums_dict = {
+            "2" : "abc",
+            "3" : "def",
+            "4" : "ghi",
+            "5" : "jkl",
+            "6" : "mno",
+            "7" : "pqrs",
+            "8" : "tuv",
+            "9" : "wxyz"
         }
         
-        sol = [""]
+        if not digits:
+            return []
+        val = nums_dict[digits[0]]
+        sol = []
+        for each_val in val:
+            sol.append(each_val)
         
-        for each_digits in digits:
+        index = 1
+        while index < len(digits):
+            letters = nums_dict[digits[index]]
+            index += 1
             new_sol = []
-            for each_sol in sol:
-                for each_letter in num_map[each_digits]:
-                    new_sol.append(each_sol + each_letter)
+            for each_letters in letters:
+                for each_sol in sol:
+                    new_sol.append(each_sol+each_letters)
             sol = new_sol
         return sol
