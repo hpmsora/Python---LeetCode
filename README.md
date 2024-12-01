@@ -9,6 +9,7 @@
 |0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python3](/Solutions/0005_Longest_Palindromic_Substring.py) | Medium |
 |0006|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python3](/Solutions/0006_Zigzag_Conversion.py) | Medium |
 |0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python3](/Solutions/0007_Reverse_Integer.py) | Medium |
+|0008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python3](/Solutions/0008_String_to_Integer_(atoi).py) | Medium |
 |0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python3](/Solutions/0009_Palindrome_Number.py) | Easy |
 |0011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python3](/Solutions/0011_Container_With_Most_Water.py) | Medium |
 |0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python3](/Solutions/0012_Integer_to_Roman.py) | Medium |
