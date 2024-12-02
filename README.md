@@ -19,6 +19,7 @@
 |0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python3](/Solutions/0019_Remove_Nth_Node_From_End_of_List.py) | Medium |
 |0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python3](/Solutions/0020_Valid_Parentheses.py) | Easy |
 |0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python3](/Solutions/0021_Merge_Two_Sorted_Lists.py) | Easy |
+|0023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python3](/Solutions/0023_Merge_k_Sorted_Lists.py) | Hard |
 |0024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python3](/Solutions/0024_Swap_Nodes_in_Pairs.py) | Medium |
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python3](/Solutions/0026_Remove_Duplicates_from_Sorted_Array.py) | Easy |
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/) | [Python3](/Solutions/0027_Remove_Element.py) | Easy |
