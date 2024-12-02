@@ -7,10 +7,8 @@ class Solution:
         elif n == 2:
             return 1
         
-        num_list = [0, 1, 1]
+        nums = [0, 1, 1]
         
-        index = 3
-        while index <= n:
-            num_list.append(num_list[index-1] + num_list[index-2] + num_list[index-3])
-            index += 1
-        return num_list[-1]
+        for index in range(3,n+1):
+            nums.append(nums[index-3] + nums[index-2]+nums[index-1])
+        return nums[-1]

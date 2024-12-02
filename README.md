@@ -9,6 +9,7 @@
 |0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python3](/Solutions/0005_Longest_Palindromic_Substring.py) | Medium |
 |0006|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python3](/Solutions/0006_Zigzag_Conversion.py) | Medium |
 |0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python3](/Solutions/0007_Reverse_Integer.py) | Medium |
+|0008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python3](/Solutions/0008_String_to_Integer_(atoi).py) | Medium |
 |0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python3](/Solutions/0009_Palindrome_Number.py) | Easy |
 |0011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python3](/Solutions/0011_Container_With_Most_Water.py) | Medium |
 |0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python3](/Solutions/0012_Integer_to_Roman.py) | Medium |
@@ -242,6 +243,7 @@
 |1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/) | [Python3](/Solutions/1291_Sequential_Digits.py) | Medium |
 |1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [Python3](/Solutions/1329_Sort_the_Matrix_Diagonally.py) | Medium |
 |1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | [Python3](/Solutions/1331_Rank_Transform_of_an_Array.py) | Easy |
+|1363|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Python3](/Solutions/1346_Check_If_N_and_Its_Double_Exist.py) | Easy |
 |1436|[Destination City](https://leetcode.com/problems/destination-city/) | [Python3](/Solutions/1436_Destination_City) | Easy |
 |1469|[Find All The Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/) | [Python3](/Solutions/1469_Find_All_The_Lonely_Nodes.py) | Easy |
 |1492|[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [Python3](/Solutions/1492_The_kth_Factor_of_n.py) | Medium |
