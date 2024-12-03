@@ -27,6 +27,7 @@
 |0028|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Python3](/Solutions/0028_Find_the_Index_of_the_First_Occurrence_in_a_String.py) | Easy |
 |0030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Python3](/Solutions/0030_Substring_with_Concatenation_of_All_Words.py) | Hard |
 |0031|[Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python3](/Solutions/0031_Next_Permutation.py) | Medium |
+|0034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python3](/Solutions/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) | Medium |
 |0035|[0035_Search_Insert_Position](https://leetcode.com/problems/search-insert-position/) | [Python3](/Solutions/0035_Search_Insert_Position.py) | Easy |
 |0036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python3](/Solutions/0036_Valid_Sudoku.py) | Medium |
 |0038|[Count and Say](https://leetcode.com/problems/count-and-say/) | [Python3](/Solutions/0038_Count_and_Say.py) | Medium |
