@@ -150,6 +150,7 @@
 |0340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/) | [Python3](/Solutions/0340_Longest_Substring_with_At_Most_K_Distinct_Characters.py) | Medium |
 |0345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Python3](/Solutions/0345_Reverse_Vowels_of_a_String.py) | Easy |
 |0346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | [Python3](/Solutions/0346_Moving_Average_from_Data_Stream.py) | Easy |
+|0347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python3](/Solutions/0347_Top_K_Frequent_Elements.py) | Medium |
 |0348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) | [Python3](/Solutions/0348_Design_Tic-Tac-Toe.py) | Medium |
 |0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python3](/Solutions/0349_Intersection_of_Two_Arrays.py) | Easy |
 |0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Python3](/Solutions/0350_Intersection_of_Two_Arrays_II.py) | Easy |
