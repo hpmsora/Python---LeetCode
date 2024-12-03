@@ -281,6 +281,7 @@
 |2073|[Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | [Python3](/Solutions/2073_Time_Needed_to_Buy_Tickets.py) | Easy |
 |2097|[Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/) | [Python3](/Solutions/2097_Valid_Arrangement_of_Pairs.py) | Hard |
 |2108|[Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [Python3](/Solutions/2108_Find_First_Palindromic_String_in_the_Array.py) | Medium |
+|2109|[Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/) | [Python3](/Solutions/2109_Adding_Spaces_to_a_String.py) | Medium |
 |2125|[Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | [Python3](/Solutions/2125_Number_of_Laser_Beams_in_a_Bank.py) | Medium |
 |2149|[Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [Python3](/Solutions/2149_Rearrange_Array_Elements_by_Sign.py) | Medium |
 |2225|[Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | [Python3](/Solutions/2225_Find_Players_With_Zero_or_One_Losses.py) | Medium |
