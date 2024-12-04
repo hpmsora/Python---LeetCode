@@ -1,56 +1,54 @@
 class Solution:
     def calculate(self, s: str) -> int:
-        # Declare constants
-        mul_div_set = {"*", "/"}
-        add_sub_set = {"+", "-"}
-
-        # Declare new list removed mul/div
-        new_s_list = []
-
-        # Declare new num string
-        num = ""
-
-        # 1. Calculate mul/div
-        # Loop - string s to each letter
-        for each_s in s + "=":
-            # Skip space
-            if each_s == " ":
-                continue
-            
-            # Split and calculation
-            if each_s in mul_div_set or each_s in add_sub_set or each_s == "=": # Operation
-                # String(num) -> int(num)
-                num = int(num)
-                if new_s_list and (new_s_list[-1] in mul_div_set or each_s == "="):
-                    if new_s_list[-1] == "*":
-                        new_s_list[-2] *= num
-                    elif new_s_list[-1] == "/":
-                        new_s_list[-2] = int(new_s_list[-2] / num)
-                    else:
-                        new_s_list += [num, each_s]
-                    new_s_list[-1] = each_s
-                else:
-                    new_s_list += [num, each_s]
-                num = ""
-            else: # Number
-                num += each_s
-
-        # 2. Calculate add/sub
-        # Declare solution variable
-        sol = new_s_list[0]
-
-        # Loop - each mul/div removed list
-        index = 1
-        while index < len(new_s_list)-2:
-            # Get the indexed number
-            each_new_s_list = new_s_list[index]
-
-            if each_new_s_list == "+": # Addition
-                sol += new_s_list[index+1]
-            else: # Substraction
-                sol -= new_s_list[index+1]
-
-            index += 2
         
-        # RETURN - sol
+        cal_list = []
+
+        index = 0
+
+        operators_pn = {'+', '-'} 
+        operators_md = {'*', '/'}
+
+        curr_num = ""
+
+        while index < len(s):
+            curr_letter = s[index]
+
+            if curr_letter == " ":
+                index += 1
+                continue
+
+            if curr_letter in operators_pn or curr_letter in operators_md:
+                if cal_list and cal_list[-1] in operators_md:
+                    curr_operator = cal_list.pop()
+
+                    if curr_operator == "*":
+                        cal_list[-1] = cal_list[-1] * int(curr_num)
+                    else:
+                        cal_list[-1] = cal_list[-1] // int(curr_num)
+                    cal_list.append(curr_letter)
+                else:
+                    cal_list.append(int(curr_num))
+                    cal_list.append(curr_letter)
+                curr_num = ""
+            else:
+                curr_num += curr_letter
+            index += 1
+        if cal_list and cal_list[-1] == "*":
+            cal_list.pop()
+            cal_list[-1] = cal_list[-1] * int(curr_num)
+        elif cal_list and cal_list[-1] == "/":
+            cal_list.pop()
+            cal_list[-1] = cal_list[-1] // int(curr_num)
+        else:
+            cal_list.append(int(curr_num))
+        sol = 0
+        curr_opreator = "+"
+        for each_cal_list in cal_list:
+            if each_cal_list in operators_pn:
+                curr_opreator = each_cal_list
+            else:
+                if curr_opreator == "+":
+                    sol += each_cal_list
+                else:
+                    sol -= each_cal_list
         return sol
