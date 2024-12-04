@@ -9,23 +9,24 @@ class Node:
 from typing import Optional
 class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
+        visited = set()
+        start = Node(neighbors=[])
         if not node:
             return node
+        new_val_dict = {}
+        
+        # DFS
+        def dfs(_node, _new_head):
+            head = Node(val=_node.val)
+            _new_head.neighbors.append(head)
+            visited.add(_node.val)
+            new_val_dict[_node.val] = head
 
-        queue = collections.deque([node])
-        sol_dict = {
-            node.val : Node(val=node.val, neighbors=[])
-        }
-
-        while queue:
-            n = queue.popleft()
-            n_sol = sol_dict[n.val]
-
-            for each_n_neighbors in n.neighbors:
-                if not each_n_neighbors.val in sol_dict:
-                    sol_dict[each_n_neighbors.val] = Node(val=each_n_neighbors.val, neighbors=[])
-                    queue.append(each_n_neighbors)
-                
-                n_sol.neighbors.append(sol_dict[each_n_neighbors.val])
-
-        return sol_dict[node.val]
+            for each_neighbors in _node.neighbors:
+                if not each_neighbors.val in visited:
+                    dfs(each_neighbors, head)
+                else:
+                    head.neighbors.append(new_val_dict[each_neighbors.val])
+        dfs(node, start)
+        
+        return start.neighbors[0]

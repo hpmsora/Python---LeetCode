@@ -27,6 +27,7 @@
 |0028|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Python3](/Solutions/0028_Find_the_Index_of_the_First_Occurrence_in_a_String.py) | Easy |
 |0030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Python3](/Solutions/0030_Substring_with_Concatenation_of_All_Words.py) | Hard |
 |0031|[Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python3](/Solutions/0031_Next_Permutation.py) | Medium |
+|0034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python3](/Solutions/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) | Medium |
 |0035|[0035_Search_Insert_Position](https://leetcode.com/problems/search-insert-position/) | [Python3](/Solutions/0035_Search_Insert_Position.py) | Easy |
 |0036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python3](/Solutions/0036_Valid_Sudoku.py) | Medium |
 |0038|[Count and Say](https://leetcode.com/problems/count-and-say/) | [Python3](/Solutions/0038_Count_and_Say.py) | Medium |
@@ -133,6 +134,7 @@
 |0268|[Missing Number](https://leetcode.com/problems/missing-number/) | [Python3](/Solutions/0268_Missing_Number.py) | Easy |
 |0270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | [Python3](/Solutions/0270_Closest_Binary_Search_Tree_Value.py) | Easy |
 |0274|[H-Index](https://leetcode.com/problems/h-index/) | [Python3](/Solutions/0274_H-Index.py) | Medium |
+|0277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [Python3](/Solutions/0277_Find_the_Celebrity.py) | Medium |
 |0279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Python3](/Solutions/0279_Perfect_Squares.py) | Medium |
 |0282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | [Python3](/Solutions/0282_Expression_Add_Operators.py) | Hard |
 |0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python3](/Solutions/0283_Move_Zeroes.py) | Easy |
@@ -149,6 +151,7 @@
 |0340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/) | [Python3](/Solutions/0340_Longest_Substring_with_At_Most_K_Distinct_Characters.py) | Medium |
 |0345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Python3](/Solutions/0345_Reverse_Vowels_of_a_String.py) | Easy |
 |0346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | [Python3](/Solutions/0346_Moving_Average_from_Data_Stream.py) | Easy |
+|0347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python3](/Solutions/0347_Top_K_Frequent_Elements.py) | Medium |
 |0348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) | [Python3](/Solutions/0348_Design_Tic-Tac-Toe.py) | Medium |
 |0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python3](/Solutions/0349_Intersection_of_Two_Arrays.py) | Easy |
 |0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Python3](/Solutions/0350_Intersection_of_Two_Arrays_II.py) | Easy |
@@ -161,6 +164,7 @@
 |0399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [Python3](/Solutions/0399_Evaluate_Division.py) | Medium |
 |0408|[Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) | [Python3](/Solutions/0408_Valid_Word_Abbreviation.py) | Easy |
 |0414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Python3](/Solutions/0414_Third_Maximum_Number.py) | Easy |
+|0417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Python3](/Solutions/0417_Pacific_Atlantic_Water_Flow.py) | Medium |
 |0426|[Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) | [Python3](/Solutions/0426_Convert_Binary_Search_Tree_to_Sorted_Doubly_Linked_List.py) | Medium |
 |0433|[Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | [Python3](/Solutions/0433_Minimum_Genetic_Mutation.py) | Medium |
 |0442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Python3](/Solutions/0442_Find_All_Duplicates_in_an_Array.py) | Medium |
@@ -205,6 +209,7 @@
 |0791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | [Python3](/Solutions/0791_Custom_Sort_String.py) | Medium |
 |0796|[Rotate String](https://leetcode.com/problems/rotate-string/) | [Python3](/Solutions/0796_Rotate_String.py) | Easy |
 |0824|[Goat Latin](https://leetcode.com/problems/goat-latin/) | [Python3](/Solutions/0824_Goat_Latin.py) | Easy |
+|0827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | [Python3](/Solutions/0827_Making_A_Large_Island.py) | Hard |
 |0859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Python3](/Solutions/0859_Buddy_Strings.py) | Easy |
 |0863|[Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [Python3](/Solutions/0862_Shortest_Subarray_with_Sum_at_Least_K.py) | Hard |
 |0863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Python3](/Solutions/0863_All_Nodes_Distance_K_in_Binary_Tree.py) | Medium |
@@ -238,16 +243,16 @@
 |1176|[Diet Plan Performance](https://leetcode.com/problems/diet-plan-performance/) | [Python3](/Solutions/1176_Diet_Plan_Performance.py) | Easy |
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [Python3](/Solutions/1207_Unique_Number_of_Occurrences.py) | Easy |
 |1213|[Intersection of Three Sorted Arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays/) | [Python3](/Solutions/1213_Intersection_of_Three_Sorted_Arrays.py) | Easy |
+|1216|[Valid Palindrome III](https://leetcode.com/problems/valid-palindrome-iii/) | [Python3](/Solutions/1216_Valid_Palindrome_III.py) | Hard |
 |1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [Python3](/Solutions/1235_Maximum_Profit_in_Job_Scheduling.py) | Hard |
 |1249|[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Python3](/Solutions/1249_Minimum_Remove_to_Make_Valid_Parentheses.py) | Medium |
 |1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [Python3](/Solutions/1266_Minimum_Time_Visiting_All_Points.py) | Easy |
 |1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/) | [Python3](/Solutions/1291_Sequential_Digits.py) | Medium |
 |1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [Python3](/Solutions/1329_Sort_the_Matrix_Diagonally.py) | Medium |
 |1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | [Python3](/Solutions/1331_Rank_Transform_of_an_Array.py) | Easy |
-|1363|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Python3](/Solutions/1346_Check_If_N_and_Its_Double_Exist.py) | Easy |
+|1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Python3](/Solutions/1346_Check_If_N_and_Its_Double_Exist.py) | Easy |
 |1436|[Destination City](https://leetcode.com/problems/destination-city/) | [Python3](/Solutions/1436_Destination_City.py) | Easy |
 |1455|[Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [Python3](/Solutions/1455_Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence.py) | Easy |
-|1436|[Destination City](https://leetcode.com/problems/destination-city/) | [Python3](/Solutions/1436_Destination_City) | Easy |
 |1469|[Find All The Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/) | [Python3](/Solutions/1469_Find_All_The_Lonely_Nodes.py) | Easy |
 |1492|[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [Python3](/Solutions/1492_The_kth_Factor_of_n.py) | Medium |
 |1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Python3](/Solutions/1528_Shuffle_String.py) | Easy |
@@ -281,12 +286,14 @@
 |2073|[Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | [Python3](/Solutions/2073_Time_Needed_to_Buy_Tickets.py) | Easy |
 |2097|[Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/) | [Python3](/Solutions/2097_Valid_Arrangement_of_Pairs.py) | Hard |
 |2108|[Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [Python3](/Solutions/2108_Find_First_Palindromic_String_in_the_Array.py) | Medium |
+|2109|[Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/) | [Python3](/Solutions/2109_Adding_Spaces_to_a_String.py) | Medium |
 |2125|[Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | [Python3](/Solutions/2125_Number_of_Laser_Beams_in_a_Bank.py) | Medium |
 |2149|[Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [Python3](/Solutions/2149_Rearrange_Array_Elements_by_Sign.py) | Medium |
 |2225|[Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | [Python3](/Solutions/2225_Find_Players_With_Zero_or_One_Losses.py) | Medium |
 |2257|[Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | [Python3](/Solutions/2257_Count_Unguarded_Cells_in_the_Grid.py) | Medium |
 |2275|[Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | [Python3](/Solutions/2275_Largest_Combination_With_Bitwise_AND_Greater_Than_Zero.py) | Medium |
 |2290|[Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) | [Python3](/Solutions/2290_Minimum_Obstacle_Removal_to_Reach_Corner.py) | Hard |
+|2330|[Valid Palindrome IV](https://leetcode.com/problems/valid-palindrome-iv/) | [Python3](/Solutions/2330_Valid_Palindrome_IV.py) | Hard |
 |2385|[Amount of Time for Binary Tree to Be Infected](http://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | [Python3](/Solutions/2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected.py) | Medium |
 |2418|[Sort the People](https://leetcode.com/problems/sort-the-people/) | [Python3](/Solutions/2418_Sort_the_People.py) | Easy |
 |2444|[Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | [Python3](/Solutions/2444_Count_Subarrays_With_Fixed_Bounds.py) | Hard |
