@@ -312,6 +312,7 @@
 |2696|[Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | [Python3](/Solutions/2696_Minimum_String_Length_After_Removing_Substrings.py) | Easy |
 |2769|[Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [Python3](/Solutions/2769_Find_the_Maximum_Achievable_Number.py) | Easy |
 |2810|[Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/) | [Python3](/Solutions/2810_Faulty_Keyboard.py) | Easy |
+|2825|[Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/) | [Python3](/Solutions/2825_Make_String_a_Subsequence_Using_Cyclic_Increments.py) | Easy |
 |2864|[Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/) | [Python3](/Solutions/2864_Maximum_Odd_Binary_Number.py) | Easy |
 |2870|[Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/) | [Python3](/Solutions/2870_Minimum_Number_of_Operations_to_Make_Array_Empty.py) | Medium |
 |2914|[Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | [Python3](/Solutions/2914_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful.py) | Medium |
