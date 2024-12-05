@@ -294,6 +294,7 @@
 |2275|[Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | [Python3](/Solutions/2275_Largest_Combination_With_Bitwise_AND_Greater_Than_Zero.py) | Medium |
 |2290|[Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) | [Python3](/Solutions/2290_Minimum_Obstacle_Removal_to_Reach_Corner.py) | Hard |
 |2330|[Valid Palindrome IV](https://leetcode.com/problems/valid-palindrome-iv/) | [Python3](/Solutions/2330_Valid_Palindrome_IV.py) | Hard |
+|2337|[Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) | [Python3](/Solutions/2337_Move_Pieces_to_Obtain_a_String.py) | Medium |
 |2385|[Amount of Time for Binary Tree to Be Infected](http://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | [Python3](/Solutions/2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected.py) | Medium |
 |2418|[Sort the People](https://leetcode.com/problems/sort-the-people/) | [Python3](/Solutions/2418_Sort_the_People.py) | Easy |
 |2444|[Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | [Python3](/Solutions/2444_Count_Subarrays_With_Fixed_Bounds.py) | Hard |
