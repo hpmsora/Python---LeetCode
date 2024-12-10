@@ -328,6 +328,7 @@
 |2962|[Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/) | [Python3](/Solutions/2962_Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Times.py) | Medium |
 |2965|[Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | [Python3](/Solutions/2965_Find_Missing_and_Repeated_Values.py) | Easy |
 |2971|[Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/) | [Python3](/Solutions/2971_Find_Polygon_With_the_Largest_Perimeter.py) | Medium |
+|2981|[Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/) | [Python3](/Solutions/2981_Find_Longest_Special_Substring_That_Occurs_Thrice_I.py) | Medium |
 |3005|[Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | [Python3](/Solutions/3005_Count_Elements_With_Maximum_Frequency.py) | Easy |
 |3011|[Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/) | [Python3](/Solutions/3011_Find_if_Array_Can_Be_Sorted.py) | Medium |
 |3062|[Winner of the Linked List Game](https://leetcode.com/problems/winner-of-the-linked-list-game/) | [Python3](/Solutions/3062_Winner_of_the_Linked_List_Game.py) | Easy |
