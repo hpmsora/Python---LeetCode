@@ -277,6 +277,7 @@
 |1791|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | [Python3](/Solutions/1791_Find_Center_of_Star_Graph.py) | Easy |
 |1829|[Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/) | [Python3](/Solutions/1829_Maximum_XOR_for_Each_Query.py) | Meidum |
 |1861|[Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | [Python3](/Solutions/1861_Rotating_the_Box.py) | Meidum |
+|1891|[Cutting Ribbons](https://leetcode.com/problems/cutting-ribbons/) | [Python3](/Solutions/1891_Cutting_Ribbons.py) | Meidum |
 |1897|[Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | [Python3](/Solutions/1897_Redistribute_Characters_to_Make_All_Strings_Equal.py) | Easy |
 |1942|[The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | [Python3](/Solutions/1942_The_Number_of_the_Smallest_Unoccupied_Chair.py) | Meidum |
 |1957|[Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [Python3](/Solutions/1957_Delete_Characters_to_Make_Fancy_String.py) | Easy |
@@ -315,6 +316,7 @@
 |2641|[Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/) | [Python3](/Solutions/2641_Cousins_in_Binary_Tree_II.py) | Medium |
 |2696|[Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | [Python3](/Solutions/2696_Minimum_String_Length_After_Removing_Substrings.py) | Easy |
 |2769|[Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [Python3](/Solutions/2769_Find_the_Maximum_Achievable_Number.py) | Easy |
+|2779|[Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/) | [Python3](/Solutions/2779_MaximumBeauty_of_an_Array_After_Applying_Operation.py) | Medium |
 |2810|[Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/) | [Python3](/Solutions/2810_Faulty_Keyboard.py) | Easy |
 |2825|[Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/) | [Python3](/Solutions/2825_Make_String_a_Subsequence_Using_Cyclic_Increments.py) | Easy |
 |2864|[Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/) | [Python3](/Solutions/2864_Maximum_Odd_Binary_Number.py) | Easy |
@@ -328,6 +330,7 @@
 |2962|[Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/) | [Python3](/Solutions/2962_Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Times.py) | Medium |
 |2965|[Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | [Python3](/Solutions/2965_Find_Missing_and_Repeated_Values.py) | Easy |
 |2971|[Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/) | [Python3](/Solutions/2971_Find_Polygon_With_the_Largest_Perimeter.py) | Medium |
+|2981|[Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/) | [Python3](/Solutions/2981_Find_Longest_Special_Substring_That_Occurs_Thrice_I.py) | Medium |
 |3005|[Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | [Python3](/Solutions/3005_Count_Elements_With_Maximum_Frequency.py) | Easy |
 |3011|[Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/) | [Python3](/Solutions/3011_Find_if_Array_Can_Be_Sorted.py) | Medium |
 |3062|[Winner of the Linked List Game](https://leetcode.com/problems/winner-of-the-linked-list-game/) | [Python3](/Solutions/3062_Winner_of_the_Linked_List_Game.py) | Easy |
