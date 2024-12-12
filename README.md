@@ -316,6 +316,7 @@
 |2641|[Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/) | [Python3](/Solutions/2641_Cousins_in_Binary_Tree_II.py) | Medium |
 |2696|[Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | [Python3](/Solutions/2696_Minimum_String_Length_After_Removing_Substrings.py) | Easy |
 |2769|[Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [Python3](/Solutions/2769_Find_the_Maximum_Achievable_Number.py) | Easy |
+|2779|[Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/) | [Python3](/Solutions/2779_MaximumBeauty_of_an_Array_After_Applying_Operation.py) | Medium |
 |2810|[Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/) | [Python3](/Solutions/2810_Faulty_Keyboard.py) | Easy |
 |2825|[Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/) | [Python3](/Solutions/2825_Make_String_a_Subsequence_Using_Cyclic_Increments.py) | Easy |
 |2864|[Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/) | [Python3](/Solutions/2864_Maximum_Odd_Binary_Number.py) | Easy |
