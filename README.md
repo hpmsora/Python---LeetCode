@@ -312,6 +312,7 @@
 |2563|[Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | [Python3](/Solutions/2563_Count_the_Number_of_Fair_Pairs.py) | Medium |
 |2577|[Minimum Time to Visit a Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/) | [Python3](/Solutions/2577_Minimum_Time_to_Visit_a_Cell_In_a_Grid.py) | Hard |
 |2583|[Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | [Python3](/Solutions/2583_Kth_Largest_Sum_in_a_Binary_Tree.py) | Medium |
+|2593|[Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/) | [Python3](/Solutions/2593_Find_Score_of_an_Array_After_Marking_All_Elements.py) | Medium |
 |2601|[Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/) | [Python3](/Solutions/.py) | Medium |
 |2610|[Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | [Python3](/Solutions/2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.py) | Medium |
 |2641|[Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/) | [Python3](/Solutions/2641_Cousins_in_Binary_Tree_II.py) | Medium |
