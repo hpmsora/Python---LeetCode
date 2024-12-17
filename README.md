@@ -293,6 +293,7 @@
 |2109|[Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/) | [Python3](/Solutions/2109_Adding_Spaces_to_a_String.py) | Medium |
 |2125|[Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | [Python3](/Solutions/2125_Number_of_Laser_Beams_in_a_Bank.py) | Medium |
 |2149|[Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [Python3](/Solutions/2149_Rearrange_Array_Elements_by_Sign.py) | Medium |
+|2182|[Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/) | [Python3](/Solutions/2182_Construct_String_With_Repeat_Limit.py) | Medium |
 |2225|[Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | [Python3](/Solutions/2225_Find_Players_With_Zero_or_One_Losses.py) | Medium |
 |2257|[Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | [Python3](/Solutions/2257_Count_Unguarded_Cells_in_the_Grid.py) | Medium |
 |2275|[Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | [Python3](/Solutions/2275_Largest_Combination_With_Bitwise_AND_Greater_Than_Zero.py) | Medium |
