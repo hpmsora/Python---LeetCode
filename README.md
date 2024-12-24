@@ -347,6 +347,7 @@
 |3133|[Minimum Array End](https://leetcode.com/problems/minimum-array-end/) | [Python3](/Solutions/3133_Minimum_Array_End.py) | Medium |
 |3152|[Special Array II](https://leetcode.com/problems/special-array-ii/) | [Python3](/Solutions/3152_Special_Array_II.py) | Medium |
 |3163|[String Compression III](https://leetcode.com/problems/string-compression-iii/) | [Python3](/Solutions/3163_String_Compression_III.py) | Medium |
+|3203|[Find Minimum Diameter After Merging Two Trees](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/) | [Python3](/Solutions/3203_Find_Minimum_Diameter_After_Merging_Two_Trees.py) | Medium |
 |3243|[Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/) | [Python3](/Solutions/3243_Shortest_Distance_After_Road_Addition_Queries_I.py) | Medium |
 |3254|[Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/) | [Python3](/Solutions/3254_Find_the_Power_of_K-Size_Subarrays_I.py) | Medium |
 |3264|[Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/) | [Python3](/Solutions/3264_Final_Array_State_After_K_Multiplication_Operations_I.py) | Medium |
