@@ -6,35 +6,26 @@
 #         self.right = right
 class Solution:
     def largestValues(self, root: Optional[TreeNode]) -> List[int]:
-        
+        sol = []
         if not root:
-            return []
-        
-        max_list = {}
-        max_depth = 0
-        
-        def helper(_root, _depth):
-            val = _root.val
-            nonlocal max_list, max_depth
-            if _depth in max_list:
-                max_list[_depth] = max(max_list[_depth], val)
+            return sol
+
+        stack = collections.deque([(root, 0)])
+        max_num = float('-inf')
+        prev_level = 0
+        while stack:
+            curr_node, level = stack.popleft()
+
+            if level == prev_level:
+                max_num = max(max_num, curr_node.val)
             else:
-                max_list[_depth] = val
-            if not(_root.left or _root.right):
-                max_depth = max(max_depth, _depth)
-                return
+                sol.append(max_num)
+                max_num = curr_node.val
+                prev_level = level
             
-            if _root.left:
-                helper(_root.left, _depth + 1)
-            
-            if _root.right:
-                helper(_root.right, _depth + 1)
-                
-            return
-        
-        helper(root, 0)
-        sol = [0 for _ in range(max_depth + 1)]
-        for key, val in max_list.items():
-            sol[key] = val
-            
+            if curr_node.left:
+                stack.append((curr_node.left, level+1))
+            if curr_node.right:
+                stack.append((curr_node.right, level+1))
+        sol.append(max_num)
         return sol
