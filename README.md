@@ -311,6 +311,7 @@
 |2418|[Sort the People](https://leetcode.com/problems/sort-the-people/) | [Python3](/Solutions/2418_Sort_the_People.py) | Easy |
 |2444|[Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | [Python3](/Solutions/2444_Count_Subarrays_With_Fixed_Bounds.py) | Hard |
 |2461|[Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | [Python3](/Solutions/2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K.py) | Medium |
+|2466|[Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) | [Python3](/Solutions/2466_Count_Ways_To_Build_Good_Strings.py) | Medium |
 |2485|[Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | [Python3](/Solutions/2485_Find_the_Pivot_Integer.py) | Easy |
 |2490|[Circular Sentence](https://leetcode.com/problems/circular-sentence/) | [Python3](/Solutions/2490_Circular_Sentence.py) | Easy |
 |2516|[Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/) | [Python3](/Solutions/2516_Take_K_of_Each_Character_From_Left_and_Right.py) | Medium |
