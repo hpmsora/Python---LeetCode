@@ -1,26 +1,37 @@
 class Solution:
     def numWays(self, words: List[str], target: str) -> int:
-        MOD = 10**9 + 7
-        m, n = len(target), len(words[0])
+        target_dp = [0 for _ in target]
 
-        # Precompute frequency of each character at each position in words
-        freq = [[0] * 26 for _ in range(n)]
-        for word in words:
-            for i, char in enumerate(word):
-                freq[i][ord(char) - ord('a')] += 1
+        target_dict = {}
+        for index, each_target_letter in enumerate(list(target)):
+            if each_target_letter in target_dict:
+                target_dict[each_target_letter].append(index)
+            else:
+                target_dict[each_target_letter] = [index]
 
-        # DP table: dp[i][j] is the number of ways to form target[:i] using the first j columns of words
-        dp = [[0] * (n + 1) for _ in range(m + 1)]
-        dp[0][0] = 1
+        for index in range(len(words[0])):
+            letter_dict = {}
+            for each_words in words:
+                each_letter = each_words[index]
 
-        for i in range(m + 1):
-            for j in range(n):
-                # Carry forward the previous ways
-                dp[i][j + 1] = (dp[i][j + 1] + dp[i][j]) % MOD
+                if not each_letter in target_dict:
+                    continue
+                elif each_letter in letter_dict:
+                    letter_dict[each_letter] += 1
+                else:
+                    letter_dict[each_letter] = 1
 
-                if i < m:  # If there's still a character in target to form
-                    char_idx = ord(target[i]) - ord('a')
-                    # If the current character matches, add ways
-                    dp[i + 1][j + 1] = (dp[i + 1][j + 1] + dp[i][j] * freq[j][char_idx]) % MOD
+            update_dict = {}
 
-        return dp[m][n]
+            for key, freq in letter_dict.items():
+                target_index_list = target_dict[key]
+                for each_target_index_list in target_index_list:
+                    if each_target_index_list == 0:
+                        update_dict[0] = target_dp[0] + freq
+                    else:
+                        if not target_dp[each_target_index_list-1] == 0:
+                            update_dict[each_target_index_list] = target_dp[each_target_index_list] + target_dp[each_target_index_list-1] * freq
+            
+            for key, updates in update_dict.items():
+                target_dp[key] = updates
+        return target_dp[-1] % (10**9 + 7)
