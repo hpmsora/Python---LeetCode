@@ -1,54 +1,48 @@
 class Solution:
     def calculate(self, s: str) -> int:
-        
-        cal_list = []
+        stack = []
+        m_d_set = set(["*", "/"])
+        p_n_set = set(["+", "-"])
 
-        index = 0
+        num = ""
 
-        operators_pn = {'+', '-'} 
-        operators_md = {'*', '/'}
-
-        curr_num = ""
-
-        while index < len(s):
-            curr_letter = s[index]
-
-            if curr_letter == " ":
-                index += 1
+        for each_s in s:
+            if each_s == " ":
                 continue
-
-            if curr_letter in operators_pn or curr_letter in operators_md:
-                if cal_list and cal_list[-1] in operators_md:
-                    curr_operator = cal_list.pop()
-
-                    if curr_operator == "*":
-                        cal_list[-1] = cal_list[-1] * int(curr_num)
+            if each_s in m_d_set or each_s in p_n_set:
+                curr_num = int(num)
+                num = ""
+                if stack and stack[-1] in m_d_set:
+                    sign = stack.pop()
+                    if sign == "*":
+                        stack.append(stack.pop() * curr_num)
                     else:
-                        cal_list[-1] = cal_list[-1] // int(curr_num)
-                    cal_list.append(curr_letter)
+                        stack.append(int(stack.pop() / curr_num))
                 else:
-                    cal_list.append(int(curr_num))
-                    cal_list.append(curr_letter)
-                curr_num = ""
+                    stack.append(curr_num)
+
+                stack.append(each_s)
             else:
-                curr_num += curr_letter
-            index += 1
-        if cal_list and cal_list[-1] == "*":
-            cal_list.pop()
-            cal_list[-1] = cal_list[-1] * int(curr_num)
-        elif cal_list and cal_list[-1] == "/":
-            cal_list.pop()
-            cal_list[-1] = cal_list[-1] // int(curr_num)
+                num += each_s
+        if not stack:
+            stack.append(int(num))
+        elif stack[-1] in m_d_set:
+            sign = stack.pop()
+            if sign == "*":
+                stack.append(stack.pop() * int(num))
+            else:
+                stack.append(int(stack.pop() / int(num)))
         else:
-            cal_list.append(int(curr_num))
-        sol = 0
-        curr_opreator = "+"
-        for each_cal_list in cal_list:
-            if each_cal_list in operators_pn:
-                curr_opreator = each_cal_list
+            stack.append(int(num))
+
+        index = 1
+        sol = stack[0]
+        while index < len(stack):
+            curr = stack[index]
+            index += 1
+            if curr == "+":
+                sol += stack[index]
             else:
-                if curr_opreator == "+":
-                    sol += each_cal_list
-                else:
-                    sol -= each_cal_list
+                sol -= stack[index]
+            index += 1
         return sol
