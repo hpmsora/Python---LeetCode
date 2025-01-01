@@ -233,6 +233,7 @@
 |0977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python3](/Solutions/0977_Squares_of_a_Sorted_Array.py) | Easy |
 |0983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [Python3](/Solutions/0983_Minimum_Cost_For_Tickets.py) | Medium |
 |0986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [Python3](/Solutions/0986_Interval_List_Intersections.py) | Medium |
+|0987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Python3](/Solutions/0987_Vertical_Order_Traversal_of_a_Binary_Tree.py) | Hard |
 |0992|[Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [Python3](/Solutions/0992_subarrays_with_K_Different_Integers.py) | Hard |
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Python3](/Solutions/1004_Max_Consecutive_Ones_III.py) | Medium |
 |1014|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) | [Python3](/Solutions/1014_Best_Sightseeing_Pair.py) | Medium |
