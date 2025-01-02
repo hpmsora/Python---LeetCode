@@ -7,5 +7,4 @@ class Solution:
         for each_nums in nums[k:]:
             if heap[0] < each_nums:
                 heapq.heappushpop(heap, each_nums)
-        
         return heap[0]
