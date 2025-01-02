@@ -323,6 +323,7 @@
 |2540|[Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | [Python3](/Solutions/2540_Minimum_Common_Value.py) | Easy |
 |2554|[Maximum Number of Integers to Choose From a Range I](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/) | [Python3](/Solutions/2554_Maximum_Number_of_Integers_to_Choose_From_a_Range_I.py) | Medium |
 |2558|[Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | [Python3](/Solutions/2558_Take_Gifts_From_the_Richest_Pile.py) | Easy |
+|2559|[Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/) | [Python3](/Solutions/2559_Count_Vowel_Strings_in_Ranges.py) | Medium |
 |2563|[Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | [Python3](/Solutions/2563_Count_the_Number_of_Fair_Pairs.py) | Medium |
 |2577|[Minimum Time to Visit a Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/) | [Python3](/Solutions/2577_Minimum_Time_to_Visit_a_Cell_In_a_Grid.py) | Hard |
 |2583|[Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | [Python3](/Solutions/2583_Kth_Largest_Sum_in_a_Binary_Tree.py) | Medium |
