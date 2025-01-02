@@ -7,35 +7,23 @@
 class BSTIterator:
 
     def __init__(self, root: Optional[TreeNode]):
-        self.root_list = []
-
-        # helper - BSF
-        def helper(_root):
-            if not(_root.left or _root.right):
-                return [_root.val]
-            
-            left = []
-            if _root.left:
-                left = helper(_root.left)
-            
-            right = []
-            if _root.right:
-                right = helper(_root.right)
-            
-            return left + [_root.val] + right
+        self.num_list = []
+        self.index = 0
         
-        if root:
-            self.root_list = helper(root)
+        def dfs(_root):
+            if _root.left:
+                dfs(_root.left)
+            self.num_list.append(_root.val)
+            if _root.right:
+                dfs(_root.right)
+        dfs(root)
 
     def next(self) -> int:
-        if self.root_list:
-            return self.root_list.pop(0)
+        self.index += 1
+        return self.num_list[self.index - 1]
 
     def hasNext(self) -> bool:
-        if self.root_list:
-            return True
-        else:
-            return False
+        return self.index < len(self.num_list)
         
 
 
