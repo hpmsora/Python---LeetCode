@@ -209,6 +209,7 @@
 |0766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Python3](/Solutions/0766_Toeplitz_Matrix.py) | Easy |
 |0769|[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [Python3](/Solutions/0769_Max_Chunks_To_Make_Sorted.py) | Medium |
 |0773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | [Python3](/Solutions/0773_Sliding_Puzzle.py) | Hard |
+|0785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [Python3](/Solutions/0785_Is_Graph_Bipartite.py) | Medium |
 |0791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | [Python3](/Solutions/0791_Custom_Sort_String.py) | Medium |
 |0796|[Rotate String](https://leetcode.com/problems/rotate-string/) | [Python3](/Solutions/0796_Rotate_String.py) | Easy |
 |0824|[Goat Latin](https://leetcode.com/problems/goat-latin/) | [Python3](/Solutions/0824_Goat_Latin.py) | Easy |
