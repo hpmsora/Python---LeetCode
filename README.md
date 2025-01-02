@@ -25,6 +25,7 @@
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python3](/Solutions/0026_Remove_Duplicates_from_Sorted_Array.py) | Easy |
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/) | [Python3](/Solutions/0027_Remove_Element.py) | Easy |
 |0028|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Python3](/Solutions/0028_Find_the_Index_of_the_First_Occurrence_in_a_String.py) | Easy |
+|0029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Python3](/Solutions/0029_Divide_Two_Integers.py) | Medium |
 |0030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Python3](/Solutions/0030_Substring_with_Concatenation_of_All_Words.py) | Hard |
 |0031|[Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python3](/Solutions/0031_Next_Permutation.py) | Medium |
 |0034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python3](/Solutions/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) | Medium |
