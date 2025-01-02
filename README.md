@@ -233,6 +233,7 @@
 |0977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python3](/Solutions/0977_Squares_of_a_Sorted_Array.py) | Easy |
 |0983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [Python3](/Solutions/0983_Minimum_Cost_For_Tickets.py) | Medium |
 |0986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [Python3](/Solutions/0986_Interval_List_Intersections.py) | Medium |
+|0987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Python3](/Solutions/0987_Vertical_Order_Traversal_of_a_Binary_Tree.py) | Hard |
 |0992|[Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [Python3](/Solutions/0992_subarrays_with_K_Different_Integers.py) | Hard |
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Python3](/Solutions/1004_Max_Consecutive_Ones_III.py) | Medium |
 |1014|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) | [Python3](/Solutions/1014_Best_Sightseeing_Pair.py) | Medium |
@@ -256,6 +257,8 @@
 |1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [Python3](/Solutions/1329_Sort_the_Matrix_Diagonally.py) | Medium |
 |1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | [Python3](/Solutions/1331_Rank_Transform_of_an_Array.py) | Easy |
 |1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Python3](/Solutions/1346_Check_If_N_and_Its_Double_Exist.py) | Easy |
+|1422|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Python3](/Solutions/1422_Maximum_Score_After_Splitting_a_String.py) | Easy |
+|1427|[Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | [Python3](/Solutions/1427_Perform_String_Shifts.py) | Easy |
 |1436|[Destination City](https://leetcode.com/problems/destination-city/) | [Python3](/Solutions/1436_Destination_City.py) | Easy |
 |1455|[Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [Python3](/Solutions/1455_Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence.py) | Easy |
 |1469|[Find All The Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/) | [Python3](/Solutions/1469_Find_All_The_Lonely_Nodes.py) | Easy |
