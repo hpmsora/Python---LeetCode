@@ -308,6 +308,7 @@
 |2182|[Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/) | [Python3](/Solutions/2182_Construct_String_With_Repeat_Limit.py) | Medium |
 |2225|[Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | [Python3](/Solutions/2225_Find_Players_With_Zero_or_One_Losses.py) | Medium |
 |2257|[Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | [Python3](/Solutions/2257_Count_Unguarded_Cells_in_the_Grid.py) | Medium |
+|2270|[Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/) | [Python3](/Solutions/2270_Number_of_Ways_to_Split_Array.py) | Medium |
 |2275|[Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | [Python3](/Solutions/2275_Largest_Combination_With_Bitwise_AND_Greater_Than_Zero.py) | Medium |
 |2290|[Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) | [Python3](/Solutions/2290_Minimum_Obstacle_Removal_to_Reach_Corner.py) | Hard |
 |2330|[Valid Palindrome IV](https://leetcode.com/problems/valid-palindrome-iv/) | [Python3](/Solutions/2330_Valid_Palindrome_IV.py) | Hard |
