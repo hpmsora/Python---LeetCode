@@ -3,31 +3,38 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        index = len(nums) - 1
         
-        prev_num = nums[index]
-        index -= 1
-        
-        while index >= 0:
-            each_nums = nums[index]
-            
-            if prev_num > each_nums:
-                index_2 = index + 1
-                min_gap = prev_num - each_nums
-                next_digit_index = index_2
-                while index_2 < len(nums) and nums[index_2] > each_nums:
-                    if nums[index_2] - each_nums < min_gap:
-                        next_digit_index = index_2
-                        min_gap = nums[index_2] - each_nums
-                    index_2 += 1
-                nums[index], nums[next_digit_index] = nums[next_digit_index], nums[index]
-                # nums[index + 1:] reverse
-                new_nums = nums[index + 1:]
-                new_nums.sort()
-                nums[index + 1:] = new_nums
+        prev_num = nums[-1]
+
+        index_1 = len(nums) - 1
+
+        while index_1 >= 0:
+            each_nums = nums[index_1]
+            if each_nums < prev_num:
+                diff = float('inf')
+                swap_index = index_1 + 1
+                index_2 = len(nums) - 1
+                while index_2 > index_1:
+                    if nums[index_2] - each_nums > 0 and nums[index_2] - each_nums < diff:
+                        swap_index = index_2
+                        diff = nums[index_2] - each_nums
+                    index_2 -= 1
+                # Swap
+                nums[index_1], nums[swap_index] = nums[swap_index], nums[index_1]
+                # Rest reverse
+                left = index_1 + 1
+                right = len(nums) - 1
+                while left < right:
+                    nums[left], nums[right] = nums[right], nums[left]
+                    left += 1
+                    right -= 1
                 return
-                break
-            prev_num = each_nums
-            
-            index -= 1
-        nums.reverse()
+            else:
+                prev_num = each_nums
+            index_1 -= 1
+        left = 0
+        right = len(nums) - 1
+        while left < right:
+            nums[left], nums[right] = nums[right], nums[left]
+            left += 1
+            right -= 1

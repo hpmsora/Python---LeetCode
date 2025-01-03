@@ -25,6 +25,7 @@
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python3](/Solutions/0026_Remove_Duplicates_from_Sorted_Array.py) | Easy |
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/) | [Python3](/Solutions/0027_Remove_Element.py) | Easy |
 |0028|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Python3](/Solutions/0028_Find_the_Index_of_the_First_Occurrence_in_a_String.py) | Easy |
+|0029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Python3](/Solutions/0029_Divide_Two_Integers.py) | Medium |
 |0030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Python3](/Solutions/0030_Substring_with_Concatenation_of_All_Words.py) | Hard |
 |0031|[Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python3](/Solutions/0031_Next_Permutation.py) | Medium |
 |0034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python3](/Solutions/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) | Medium |
@@ -209,6 +210,7 @@
 |0766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Python3](/Solutions/0766_Toeplitz_Matrix.py) | Easy |
 |0769|[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [Python3](/Solutions/0769_Max_Chunks_To_Make_Sorted.py) | Medium |
 |0773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | [Python3](/Solutions/0773_Sliding_Puzzle.py) | Hard |
+|0785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [Python3](/Solutions/0785_Is_Graph_Bipartite.py) | Medium |
 |0791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | [Python3](/Solutions/0791_Custom_Sort_String.py) | Medium |
 |0796|[Rotate String](https://leetcode.com/problems/rotate-string/) | [Python3](/Solutions/0796_Rotate_String.py) | Easy |
 |0824|[Goat Latin](https://leetcode.com/problems/goat-latin/) | [Python3](/Solutions/0824_Goat_Latin.py) | Easy |
@@ -323,6 +325,7 @@
 |2540|[Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | [Python3](/Solutions/2540_Minimum_Common_Value.py) | Easy |
 |2554|[Maximum Number of Integers to Choose From a Range I](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/) | [Python3](/Solutions/2554_Maximum_Number_of_Integers_to_Choose_From_a_Range_I.py) | Medium |
 |2558|[Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | [Python3](/Solutions/2558_Take_Gifts_From_the_Richest_Pile.py) | Easy |
+|2559|[Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/) | [Python3](/Solutions/2559_Count_Vowel_Strings_in_Ranges.py) | Medium |
 |2563|[Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | [Python3](/Solutions/2563_Count_the_Number_of_Fair_Pairs.py) | Medium |
 |2577|[Minimum Time to Visit a Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/) | [Python3](/Solutions/2577_Minimum_Time_to_Visit_a_Cell_In_a_Grid.py) | Hard |
 |2583|[Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | [Python3](/Solutions/2583_Kth_Largest_Sum_in_a_Binary_Tree.py) | Medium |
