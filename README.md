@@ -292,6 +292,7 @@
 |1861|[Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | [Python3](/Solutions/1861_Rotating_the_Box.py) | Meidum |
 |1891|[Cutting Ribbons](https://leetcode.com/problems/cutting-ribbons/) | [Python3](/Solutions/1891_Cutting_Ribbons.py) | Meidum |
 |1897|[Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | [Python3](/Solutions/1897_Redistribute_Characters_to_Make_All_Strings_Equal.py) | Easy |
+|1930|[Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [Python3](/Solutions/1930_Unique_Length-3_Palindromic_Subsequences.py) | Meidum |
 |1942|[The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | [Python3](/Solutions/1942_The_Number_of_the_Smallest_Unoccupied_Chair.py) | Meidum |
 |1957|[Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [Python3](/Solutions/1957_Delete_Characters_to_Make_Fancy_String.py) | Easy |
 |1963|[Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | [Python3](/Solutions/1963_Minimum_Number_of_Swaps_to_Make_the_String_Balanced.py) | Meidum |
