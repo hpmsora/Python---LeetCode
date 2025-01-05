@@ -262,6 +262,7 @@
 |1422|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Python3](/Solutions/1422_Maximum_Score_After_Splitting_a_String.py) | Easy |
 |1427|[Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | [Python3](/Solutions/1427_Perform_String_Shifts.py) | Easy |
 |1436|[Destination City](https://leetcode.com/problems/destination-city/) | [Python3](/Solutions/1436_Destination_City.py) | Easy |
+|1443|[Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) | [Python3](/Solutions/1443_Minimum_Time_to_Collect_All_Apples_in_a_Tree.py) | Medium |
 |1455|[Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [Python3](/Solutions/1455_Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence.py) | Easy |
 |1469|[Find All The Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/) | [Python3](/Solutions/1469_Find_All_The_Lonely_Nodes.py) | Easy |
 |1492|[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [Python3](/Solutions/1492_The_kth_Factor_of_n.py) | Medium |
