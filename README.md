@@ -287,6 +287,7 @@
 |1760|[Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) | [Python3](/Solutions/1760_Minimum_Limit_of_Balls_in_a_Bag.py) | Medium |
 |1762|[Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/) | [Python3](/Solutions/1762_Buildings_Withan_Ocean_View.py) | Medium |
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [Python3](/Solutions/1768_Merge_Strings_Alternately.py) | Easy |
+|1769|[Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | [Python3](/Solutions/1769_Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.py) | Medium |
 |1791|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | [Python3](/Solutions/1791_Find_Center_of_Star_Graph.py) | Easy |
 |1792|[Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | [Python3](/Solutions/1792_Maximum_Average_Pass_Ratio.py) | Meidum |
 |1829|[Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/) | [Python3](/Solutions/1829_Maximum_XOR_for_Each_Query.py) | Meidum |
