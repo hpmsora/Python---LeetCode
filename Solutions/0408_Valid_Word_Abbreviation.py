@@ -1,56 +1,37 @@
 class Solution:
     def validWordAbbreviation(self, word: str, abbr: str) -> bool:
         
-        abbr_list = []
-        # Loop - abbr
-        index = 0
-        number = set(["1","2","3","4","5","6","7","8","9","0"]) # number specification
-        while index < len(abbr):
-            # Get indexed letter
-            letter = abbr[index]
-            # Check letter is number
-            if letter in number:
-                # number start with 0, return False
-                if letter == "0":
-                    return False
-                # Check connected number
-                index += 1
-                while index < len(abbr):
-                    letter_2 = abbr[index]
-                    if letter_2 in number:
-                        letter += letter_2
-                        index += 1
-                    else:
-                        index -= 1
-                        break
-                # Add number
-                abbr_list.append((True, int(letter)))
-            else:
-                # Add letter
-                abbr_list.append((False, letter))
-            index += 1
+        num_set = {"0", "1", "2", "3", "4", "5", "6", "7", "8", "9"}
 
-        # Loop - abbr list
-        index = 0
-        index_abbr_list = 0
-        for isNumber, each_abbr_list in abbr_list:
-            # Check matching with number
-            if index > len(word) - 1:
-                return False
-            if isNumber:
-                index += each_abbr_list
-                if index > len(word):
+        abbr_list = []
+        num = ""
+        for each_abbr in abbr:
+            if each_abbr in num_set:
+                if not num and each_abbr == "0":
                     return False
-                elif index == len(word) and index_abbr_list == len(abbr_list)-1:
-                    return True
-                continue
-            elif not word[index] == each_abbr_list:
-                return False
-            index += 1
-            index_abbr_list += 1
-        
-        # RETURN - pass all test
-        if index == len(word):
+                num += each_abbr
+            else:
+                if num:
+                    abbr_list.append((1, int(num)))
+                    num = ""
+                abbr_list.append((0, each_abbr))
+        if num:
+            abbr_list.append((1, int(num)))
+
+        print(abbr_list)
+
+        index_word = 0
+        for isStrNum, each_abbr_list in abbr_list:
+            if isStrNum == 0:
+                if index_word >= len(word) or not word[index_word] == each_abbr_list:
+                    return False
+                else:
+                    index_word += 1
+            else:
+                index_word += each_abbr_list
+                if index_word > len(word):
+                    return False
+        if index_word == len(word):
             return True
         else:
             return False
