@@ -259,6 +259,7 @@
 |1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [Python3](/Solutions/1329_Sort_the_Matrix_Diagonally.py) | Medium |
 |1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | [Python3](/Solutions/1331_Rank_Transform_of_an_Array.py) | Easy |
 |1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Python3](/Solutions/1346_Check_If_N_and_Its_Double_Exist.py) | Easy |
+|1408|[String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | [Python3](/Solutions/1408_String_Matching_in_an_Array.py) | Easy |
 |1422|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Python3](/Solutions/1422_Maximum_Score_After_Splitting_a_String.py) | Easy |
 |1427|[Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | [Python3](/Solutions/1427_Perform_String_Shifts.py) | Easy |
 |1436|[Destination City](https://leetcode.com/problems/destination-city/) | [Python3](/Solutions/1436_Destination_City.py) | Easy |
