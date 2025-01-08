@@ -359,6 +359,7 @@
 |2981|[Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/) | [Python3](/Solutions/2981_Find_Longest_Special_Substring_That_Occurs_Thrice_I.py) | Medium |
 |3005|[Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | [Python3](/Solutions/3005_Count_Elements_With_Maximum_Frequency.py) | Easy |
 |3011|[Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/) | [Python3](/Solutions/3011_Find_if_Array_Can_Be_Sorted.py) | Medium |
+|3042|[Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/) | [Python3](/Solutions/3042_Count_Prefix_and_Suffix_Pairs_I.py) | Easy |
 |3062|[Winner of the Linked List Game](https://leetcode.com/problems/winner-of-the-linked-list-game/) | [Python3](/Solutions/3062_Winner_of_the_Linked_List_Game.py) | Easy |
 |3063|[Linked List Frequency](https://leetcode.com/problems/linked-list-frequency/) | [Python3](/Solutions/3063_Linked_List_Frequency.py) | Easy |
 |3097|[Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/) | [Python3](/Solutions/3097_Shortest_Subarray_With_OR_at_Least_K_II.py) | Medium |
