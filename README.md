@@ -309,6 +309,7 @@
 |2109|[Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/) | [Python3](/Solutions/2109_Adding_Spaces_to_a_String.py) | Medium |
 |2125|[Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | [Python3](/Solutions/2125_Number_of_Laser_Beams_in_a_Bank.py) | Medium |
 |2149|[Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [Python3](/Solutions/2149_Rearrange_Array_Elements_by_Sign.py) | Medium |
+|2168|[Unique Substrings With Equal Digit Frequency](https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/) | [Python3](/Solutions/2168_Unique_Substrings_With_Equal_Digit_Frequency.py) | Medium |
 |2182|[Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/) | [Python3](/Solutions/2182_Construct_String_With_Repeat_Limit.py) | Medium |
 |2185|[Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | [Python3](/Solutions/2185_Counting_Words_With_a_Given_Prefix.py) | Easy |
 |2225|[Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | [Python3](/Solutions/2225_Find_Players_With_Zero_or_One_Losses.py) | Medium |
