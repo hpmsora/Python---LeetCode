@@ -310,6 +310,7 @@
 |2125|[Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | [Python3](/Solutions/2125_Number_of_Laser_Beams_in_a_Bank.py) | Medium |
 |2149|[Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [Python3](/Solutions/2149_Rearrange_Array_Elements_by_Sign.py) | Medium |
 |2182|[Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/) | [Python3](/Solutions/2182_Construct_String_With_Repeat_Limit.py) | Medium |
+|2185|[Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | [Python3](/Solutions/2185_Counting_Words_With_a_Given_Prefix.py) | Easy |
 |2225|[Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | [Python3](/Solutions/2225_Find_Players_With_Zero_or_One_Losses.py) | Medium |
 |2257|[Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | [Python3](/Solutions/2257_Count_Unguarded_Cells_in_the_Grid.py) | Medium |
 |2270|[Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/) | [Python3](/Solutions/2270_Number_of_Ways_to_Split_Array.py) | Medium |
