@@ -221,6 +221,7 @@
 |0865|[Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [Python3](/Solutions/0865_Smallest_Subtree_withall_the_Deepest_Nodes.py) | Medium |
 |0872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [Python3](/Solutions/0872_Leaf-Similar_Trees.py) | Easy |
 |0876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python3](/Solutions/0876_Middle_of_the_Linked_List.py) | Easy |
+|0916|[Word Subsets](https://leetcode.com/problems/word-subsets/) | [Python3](/Solutions/0916_Word_Subsets.py) | Medium |
 |0921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Python3](/Solutions/0921_Minimum_Add_to_Make_Parentheses_Valid.py) | Medium |
 |0930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | [Python3](/Solutions/0930_Binary_Subarrays_With_Sum.py) | Medium |
 |0931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [Python3](/Solutions/0931_Minimum_Falling_Path_Sum.py) | Medium |
@@ -259,6 +260,7 @@
 |1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [Python3](/Solutions/1329_Sort_the_Matrix_Diagonally.py) | Medium |
 |1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | [Python3](/Solutions/1331_Rank_Transform_of_an_Array.py) | Easy |
 |1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Python3](/Solutions/1346_Check_If_N_and_Its_Double_Exist.py) | Easy |
+|1400|[Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/) | [Python3](/Solutions/1400_Construct_K_Palindrome_Strings.py) | Medium |
 |1408|[String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | [Python3](/Solutions/1408_String_Matching_in_an_Array.py) | Easy |
 |1422|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Python3](/Solutions/1422_Maximum_Score_After_Splitting_a_String.py) | Easy |
 |1427|[Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | [Python3](/Solutions/1427_Perform_String_Shifts.py) | Easy |
