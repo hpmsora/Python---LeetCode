@@ -1,77 +1,43 @@
 class Solution:
     def isNumber(self, s: str) -> bool:
-        # Number only set
-        num_set = {
-            '1', '2', '3', '4', '5', '6', '7', '8', '9', '0'
-        }
+        num_set = { "0", "1", "2", "3", "4", "5", "6", "7", "8", "9" }
+        p_n_set = {"-", "+"}
 
-        # Sign check
-        if s[0] == '-' or s[0] == '+':
-            s = s[1:]
-            if len(s) == 0: # only sign check
-                return False
-            
-        # Only dot check
-        if s == '.':
+        # 0. All letter lower
+        s = s.lower()
+
+        # 1. Exponent check
+        s_list = s.split("e")
+        if len(s_list) > 2:
             return False
+        
+        # 2. Number Check
+        for index in range(len(s_list)):
+            each_s_list = s_list[index]
+            # 2.1 Sign Check
+            if each_s_list and each_s_list[0] in p_n_set:
+                each_s_list = each_s_list[1:]
+                if len(each_s_list) == 0 or each_s_list[0] in p_n_set:
+                    return False
 
-        # Loop - each letter in s:
-        isDot = False # Dot duplication check
-        for index in range(len(s)):
-            # Each s
-            each_s = s[index]
-
-            # Sign check (expecpt after e)
-            if each_s == '+' or each_s == '-':
+            # 2.2 Emtpy check
+            if not each_s_list:
                 return False
-
-            # . check
-            elif each_s == '.':
-                if isDot: # Has dot before
-                    return False
-                else: # First dot
-                    isDot = True
             
-            # e check
-            elif each_s == 'e' or each_s == 'E':
-                # First e check
-                if index == 0:
-                    return False
-
-                # Previous number check
-                if not s[index - 1] in num_set:
-                    if not s[index - 1] == ".":
-                        return False
-                    else:
-                        if index-1 > 0:
-                            if s[index-2] in num_set:
-                                pass
-                        else:
-                            return False
-                
-                # last index check
-                if index == len(s) - 1:
-                    return False
-
-                # Sign check (after e)
-                index += 1
-                if s[index] == '+' or s[index] == '-':
-                    index += 1
-                    # after sign last index check
-                    if index > len(s) - 1:
-                        return False
-                
-                # Loop - rest of num need to be integer
-                while index < len(s):
-                    each_s = s[index]
-                    if not each_s in num_set:
-                        return False
-                    index += 1
-                return True # Integer pass
-            
-            # Number check
-            elif not each_s in num_set:
+            # 2.3 Dot split
+            each_s_list_dot_split = each_s_list.split(".")
+            if index == 1 and len(each_s_list_dot_split) == 2:
                 return False
-
-        # All pass
+            if len(each_s_list_dot_split) > 2:
+                return False
+            elif len(each_s_list_dot_split) == 2:
+                if (not each_s_list_dot_split[0]) and (not each_s_list_dot_split[1]):
+                    print("AA")
+                    return False
+            
+            # 2.4 Only number check
+            for index, each_each_s_list_dot_split in enumerate(each_s_list_dot_split):
+                for each_letter in each_each_s_list_dot_split:
+                    if not each_letter in num_set:
+                        return False
         return True
