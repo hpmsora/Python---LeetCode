@@ -163,6 +163,7 @@
 |0389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Python3](/Solutions/0389_Find_the_Difference.py) | Easy |
 |0398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/) | [Python3](/Solutions/0398_Random_Pick_Index.py) | Medium |
 |0399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [Python3](/Solutions/0399_Evaluate_Division.py) | Medium |
+|0407|[Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | [Python3](/Solutions/0407_Trapping_Rain_Water_II.py) | Hard |
 |0408|[Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) | [Python3](/Solutions/0408_Valid_Word_Abbreviation.py) | Easy |
 |0414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Python3](/Solutions/0414_Third_Maximum_Number.py) | Easy |
 |0417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Python3](/Solutions/0417_Pacific_Atlantic_Water_Flow.py) | Medium |
