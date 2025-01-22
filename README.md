@@ -292,6 +292,7 @@
 |1750|[Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | [Python3](/Solutions/1750_Minimum_Length_of_String_After_Deleting_Similar_Ends.py) | Medium |
 |1760|[Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) | [Python3](/Solutions/1760_Minimum_Limit_of_Balls_in_a_Bag.py) | Medium |
 |1762|[Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/) | [Python3](/Solutions/1762_Buildings_Withan_Ocean_View.py) | Medium |
+|1765|[Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/) | [Python3](/Solutions/1765_Map_of_Highest_Peak.py) | Medium |
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [Python3](/Solutions/1768_Merge_Strings_Alternately.py) | Easy |
 |1769|[Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | [Python3](/Solutions/1769_Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.py) | Medium |
 |1791|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | [Python3](/Solutions/1791_Find_Center_of_Star_Graph.py) | Easy |
