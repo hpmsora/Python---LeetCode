@@ -214,6 +214,7 @@
 |0785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [Python3](/Solutions/0785_Is_Graph_Bipartite.py) | Medium |
 |0791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | [Python3](/Solutions/0791_Custom_Sort_String.py) | Medium |
 |0796|[Rotate String](https://leetcode.com/problems/rotate-string/) | [Python3](/Solutions/0796_Rotate_String.py) | Easy |
+|0802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [Python3](/Solutions/0802_Find_Eventual_Safe_States.py) | Medium |
 |0824|[Goat Latin](https://leetcode.com/problems/goat-latin/) | [Python3](/Solutions/0824_Goat_Latin.py) | Easy |
 |0827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | [Python3](/Solutions/0827_Making_A_Large_Island.py) | Hard |
 |0859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Python3](/Solutions/0859_Buddy_Strings.py) | Easy |
