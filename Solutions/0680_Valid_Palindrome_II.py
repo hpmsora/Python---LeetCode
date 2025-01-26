@@ -4,8 +4,11 @@ class Solution:
         right = len(s) - 1
 
         while left < right:
-            if not s[left] == s[right]:
-                return s[left+1:right+1] == s[left+1:right+1][::-1] or s[left:right] == s[left:right][::-1]
-            left += 1
-            right -= 1
+            if s[left] == s[right]:
+                left += 1
+                right -= 1
+            else:
+                left_skip = s[left+1:right+1]
+                right_skip = s[left:right]
+                return left_skip == left_skip[::-1] or right_skip == right_skip[::-1]
         return True
