@@ -1,18 +1,19 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         sol = []
-        def helper(_nums, _list):
+
+        def helper(_nums, _parent):
+            nonlocal sol
             if not _nums:
-                nonlocal sol
-                sol.append(_list)
+                sol.append(_parent)
                 return
             
-            for num in _nums:
-                new_nums = _nums[:]
-                new_list = _list[:]
-                new_nums.remove(num)
-                new_list.append(num)
-
-                helper(new_nums, new_list)
+            for index, each_nums in enumerate(_nums):
+                if 0 == len(_nums) - 1:
+                    sol.append(_parent + [each_nums])
+                elif index == 0:
+                    helper(_nums[1:], _parent + [each_nums])
+                else:
+                    helper(_nums[:index] + _nums[index+1:], _parent + [each_nums])
         helper(nums, [])
         return sol
