@@ -1,29 +1,19 @@
 class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
-        nums = set()
-
-        for each_left, each_right in intervals:
-            for num in range(each_left, each_right):
-                nums.add(num)
-                nums.add(num + 0.5)
-            nums.add(each_right)
-        
-        nums = sorted(list(nums))
-
-        left_num = 0
-        right_num = 0
+        intervals.sort()
         sol = []
-        if nums:
-            left_num = nums.pop(0)
-            right_num = left_num
-        while nums:
-            each_nums = nums.pop(0)
-            if each_nums == right_num + 0.5:
-                nums.pop(0)
-                right_num += 1
+
+        for start, end in intervals:
+            if sol:
+                sol_start = sol[-1][0]
+                sol_end = sol[-1][1]
+                if sol_end < start:
+                    sol.append([start, end])
+                elif sol_start <= start and sol_end <= end:
+                    sol[-1][0] = sol_start
+                    sol[-1][1] = end
+                elif sol_start <= start and end <= sol_end:
+                    sol[-1][0] = sol_start
             else:
-                sol.append([left_num, right_num])
-                left_num = each_nums
-                right_num = each_nums
-        sol.append([left_num, right_num])
+                sol.append([start, end])
         return sol
