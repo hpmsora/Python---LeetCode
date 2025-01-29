@@ -201,6 +201,7 @@
 |0674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [Python3](/Solutions/0674_Longest_Continuous_Increasing_Subsequence.py) | Easy |
 |0678|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [Python3](/Solutions/0678_Valid_Parenthesis_String.py) | Medium |
 |0680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [Python3](/Solutions/0680_Valid_Palindrome_II.py) | Easy |
+|0684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Python3](/Solutions/0684_Redundant_Connection.py) | Medium |
 |0689|[Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [Python3](/Solutions/0689_Maximum_Sum_of_3_Non-Overlapping_Subarrays.py) | Hard |
 |0703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Python3](/Solutions/0703_Kth_Largest_Element_in_a_Stream.py) | Easy |
 |0708|[Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/) | [Python3](/Solutions/0708_Insert_into_a_Sorted_Circular_Linked_List.py) | Medium |
@@ -217,6 +218,7 @@
 |0802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [Python3](/Solutions/0802_Find_Eventual_Safe_States.py) | Medium |
 |0824|[Goat Latin](https://leetcode.com/problems/goat-latin/) | [Python3](/Solutions/0824_Goat_Latin.py) | Easy |
 |0827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | [Python3](/Solutions/0827_Making_A_Large_Island.py) | Hard |
+|0852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Python3](/Solutions/0852_Peak_Index_in_a_Mountain_Array.py) | Medium |
 |0859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Python3](/Solutions/0859_Buddy_Strings.py) | Easy |
 |0863|[Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [Python3](/Solutions/0862_Shortest_Subarray_with_Sum_at_Least_K.py) | Hard |
 |0863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Python3](/Solutions/0863_All_Nodes_Distance_K_in_Binary_Tree.py) | Medium |
@@ -356,6 +358,7 @@
 |2610|[Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | [Python3](/Solutions/2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.py) | Medium |
 |2641|[Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/) | [Python3](/Solutions/2641_Cousins_in_Binary_Tree_II.py) | Medium |
 |2657|[Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | [Python3](/Solutions/2657_Find_the_Prefix_Common_Array_of_Two_Arrays.py) | Medium |
+|2658|[Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/) | [Python3](/Solutions/2658_Maximum_Number_of_Fish_in_a_Grid.py) | Medium |
 |2661|[First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/) | [Python3](/Solutions/2661_First_Completely_Painted_Row_or_Column.py) | Medium |
 |2683|[Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/) | [Python3](/Solutions/2683_Neighboring_Bitwise_XOR.py) | Medium |
 |2696|[Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | [Python3](/Solutions/2696_Minimum_String_Length_After_Removing_Substrings.py) | Easy |
