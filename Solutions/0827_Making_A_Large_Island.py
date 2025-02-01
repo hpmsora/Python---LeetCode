@@ -4,14 +4,18 @@ class Solution:
         m = len(grid)
         n = len(grid[0])
 
+        # Check visited
         visited = set()
         candidates_pos_islandindex_dict = {}
 
+        # Direction list
         dirs = [(1, 0), (-1, 0), (0, 1), (0, -1)]
 
+        # Loop variable
         island_index_size_dict = {}
         island_index = 0
 
+        # Solution Variable
         sol = 1
 
         for x in range(m):
