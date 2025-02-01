@@ -303,6 +303,7 @@
 |1791|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | [Python3](/Solutions/1791_Find_Center_of_Star_Graph.py) | Easy |
 |1792|[Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | [Python3](/Solutions/1792_Maximum_Average_Pass_Ratio.py) | Meidum |
 |1829|[Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/) | [Python3](/Solutions/1829_Maximum_XOR_for_Each_Query.py) | Meidum |
+|1852|[Distinct Numbers in Each Subarray](https://leetcode.com/problems/distinct-numbers-in-each-subarray/) | [Python3](/Solutions/1852_Distinct_Numbers_in_Each_Subarray.py) | Meidum |
 |1861|[Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | [Python3](/Solutions/1861_Rotating_the_Box.py) | Meidum |
 |1891|[Cutting Ribbons](https://leetcode.com/problems/cutting-ribbons/) | [Python3](/Solutions/1891_Cutting_Ribbons.py) | Meidum |
 |1897|[Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | [Python3](/Solutions/1897_Redistribute_Characters_to_Make_All_Strings_Equal.py) | Easy |
