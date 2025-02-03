@@ -295,6 +295,7 @@
 |1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [Python3](/Solutions/1704_Determine_if_String_Halves_Are_Alike.py) | Easy |
 |1730|[Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/) | [Python3](/Solutions/1730_Shortest_Path_to_Get_Food.py) | Medium |
 |1750|[Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | [Python3](/Solutions/1750_Minimum_Length_of_String_After_Deleting_Similar_Ends.py) | Medium |
+|1752|[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Python3](/Solutions/1752_Check_if_Array_Is_Sorted_and_Rotated.py) | Easy |
 |1760|[Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) | [Python3](/Solutions/1760_Minimum_Limit_of_Balls_in_a_Bag.py) | Medium |
 |1762|[Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/) | [Python3](/Solutions/1762_Buildings_Withan_Ocean_View.py) | Medium |
 |1765|[Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/) | [Python3](/Solutions/1765_Map_of_Highest_Peak.py) | Medium |
