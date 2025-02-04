@@ -389,6 +389,7 @@
 |3062|[Winner of the Linked List Game](https://leetcode.com/problems/winner-of-the-linked-list-game/) | [Python3](/Solutions/3062_Winner_of_the_Linked_List_Game.py) | Easy |
 |3063|[Linked List Frequency](https://leetcode.com/problems/linked-list-frequency/) | [Python3](/Solutions/3063_Linked_List_Frequency.py) | Easy |
 |3097|[Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/) | [Python3](/Solutions/3097_Shortest_Subarray_With_OR_at_Least_K_II.py) | Medium |
+|3105|[Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | [Python3](/Solutions/3105_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray.py) | Medium |
 |3133|[Minimum Array End](https://leetcode.com/problems/minimum-array-end/) | [Python3](/Solutions/3133_Minimum_Array_End.py) | Medium |
 |3151|[Special Array I](https://leetcode.com/problems/special-array-i/) | [Python3](/Solutions/3151_Special_Array_I.py) | Easy |
 |3152|[Special Array II](https://leetcode.com/problems/special-array-ii/) | [Python3](/Solutions/3152_Special_Array_II.py) | Medium |
