@@ -301,6 +301,7 @@
 |1765|[Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/) | [Python3](/Solutions/1765_Map_of_Highest_Peak.py) | Medium |
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [Python3](/Solutions/1768_Merge_Strings_Alternately.py) | Easy |
 |1769|[Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | [Python3](/Solutions/1769_Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.py) | Medium |
+|1790|[Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [Python3](/Solutions/1790_Check_if_One_String_Swap_Can_Make_Strings_Equal.py) | Easy |
 |1791|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | [Python3](/Solutions/1791_Find_Center_of_Star_Graph.py) | Easy |
 |1792|[Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | [Python3](/Solutions/1792_Maximum_Average_Pass_Ratio.py) | Meidum |
 |1800|[Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/) | [Python3](/Solutions/1800_Maximum_Ascending_Subarray_Sum.py) | Easy |
