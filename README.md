@@ -303,6 +303,7 @@
 |1769|[Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | [Python3](/Solutions/1769_Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.py) | Medium |
 |1791|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | [Python3](/Solutions/1791_Find_Center_of_Star_Graph.py) | Easy |
 |1792|[Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | [Python3](/Solutions/1792_Maximum_Average_Pass_Ratio.py) | Meidum |
+|1800|[Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/) | [Python3](/Solutions/1800_Maximum_Ascending_Subarray_Sum.py) | Easy |
 |1829|[Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/) | [Python3](/Solutions/1829_Maximum_XOR_for_Each_Query.py) | Meidum |
 |1852|[Distinct Numbers in Each Subarray](https://leetcode.com/problems/distinct-numbers-in-each-subarray/) | [Python3](/Solutions/1852_Distinct_Numbers_in_Each_Subarray.py) | Meidum |
 |1861|[Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | [Python3](/Solutions/1861_Rotating_the_Box.py) | Meidum |
