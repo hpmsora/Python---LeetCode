@@ -293,6 +293,7 @@
 |1669|[Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | [Python3](/Solutions/1669_Merge_In_Between_Linked_Lists.py) | Medium |
 |1700|[Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [Python3](/Solutions/1700_Number_of_Students_Unable_to_Eat_Lunch.py) | Easy |
 |1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [Python3](/Solutions/1704_Determine_if_String_Halves_Are_Alike.py) | Easy |
+|1726|[Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/) | [Python3](/Solutions/1726_Tuple_with_Same_Product.py) | Medium |
 |1730|[Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/) | [Python3](/Solutions/1730_Shortest_Path_to_Get_Food.py) | Medium |
 |1750|[Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | [Python3](/Solutions/1750_Minimum_Length_of_String_After_Deleting_Similar_Ends.py) | Medium |
 |1752|[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Python3](/Solutions/1752_Check_if_Array_Is_Sorted_and_Rotated.py) | Easy |
