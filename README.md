@@ -338,6 +338,7 @@
 |2290|[Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) | [Python3](/Solutions/2290_Minimum_Obstacle_Removal_to_Reach_Corner.py) | Hard |
 |2330|[Valid Palindrome IV](https://leetcode.com/problems/valid-palindrome-iv/) | [Python3](/Solutions/2330_Valid_Palindrome_IV.py) | Hard |
 |2337|[Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) | [Python3](/Solutions/2337_Move_Pieces_to_Obtain_a_String.py) | Medium |
+|2342|[Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | [Python3](/Solutions/2342_Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.py) | Medium |
 |2381|[Shifting Letters II](http://leetcode.com/problems/shifting-letters-ii/) | [Python3](/Solutions/2381_Shifting_Letters_II.py) | Medium |
 |2385|[Amount of Time for Binary Tree to Be Infected](http://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | [Python3](/Solutions/2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected.py) | Medium |
 |2415|[Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/) | [Python3](/Solutions/2415_Reverse_Odd_Levels_of_Binary_Tree.py) | Medium |
