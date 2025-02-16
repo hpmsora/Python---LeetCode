@@ -370,6 +370,7 @@
 |2661|[First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/) | [Python3](/Solutions/2661_First_Completely_Painted_Row_or_Column.py) | Medium |
 |2683|[Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/) | [Python3](/Solutions/2683_Neighboring_Bitwise_XOR.py) | Medium |
 |2696|[Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | [Python3](/Solutions/2696_Minimum_String_Length_After_Removing_Substrings.py) | Easy |
+|2698|[Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/) | [Python3](/Solutions/2698_Find_the_Punishment_Number_of_an_Integer.py) | Medium |
 |2762|[Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/) | [Python3](/Solutions/2762_Continuous_Subarrays.py) | Medium |
 |2769|[Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [Python3](/Solutions/2769_Find_the_Maximum_Achievable_Number.py) | Easy |
 |2779|[Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/) | [Python3](/Solutions/2779_MaximumBeauty_of_an_Array_After_Applying_Operation.py) | Medium |
