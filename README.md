@@ -348,6 +348,7 @@
 |2425|[Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/) | [Python3](/Solutions/2425_Bitwise_XOR_of_All_Pairings.py) | Medium |
 |2429|[Minimize XOR](https://leetcode.com/problems/minimize-xor/) | [Python3](/Solutions/2429_Minimize_XOR.py) | Medium |
 |2444|[Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | [Python3](/Solutions/2444_Count_Subarrays_With_Fixed_Bounds.py) | Hard |
+|2460|[Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | [Python3](/Solutions/2460_Apply_Operations_to_an_Array.py) | Easy |
 |2461|[Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | [Python3](/Solutions/2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K.py) | Medium |
 |2466|[Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) | [Python3](/Solutions/2466_Count_Ways_To_Build_Good_Strings.py) | Medium |
 |2485|[Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | [Python3](/Solutions/2485_Find_the_Pivot_Integer.py) | Easy |
