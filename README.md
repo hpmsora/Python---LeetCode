@@ -329,6 +329,7 @@
 |2125|[Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | [Python3](/Solutions/2125_Number_of_Laser_Beams_in_a_Bank.py) | Medium |
 |2127|[Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/) | [Python3](/Solutions/2127_Maximum_Employees_to_Be_Invited_to_a_Meeting.py) | Hard |
 |2149|[Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [Python3](/Solutions/2149_Rearrange_Array_Elements_by_Sign.py) | Medium |
+|2161|[Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | [Python3](/Solutions/2161_Partition_Array_According_to_Given_Pivot.py) | Medium |
 |2168|[Unique Substrings With Equal Digit Frequency](https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/) | [Python3](/Solutions/2168_Unique_Substrings_With_Equal_Digit_Frequency.py) | Medium |
 |2182|[Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/) | [Python3](/Solutions/2182_Construct_String_With_Repeat_Limit.py) | Medium |
 |2185|[Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | [Python3](/Solutions/2185_Counting_Words_With_a_Given_Prefix.py) | Easy |
