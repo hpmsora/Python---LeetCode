@@ -252,6 +252,7 @@
 |1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Python3](/Solutions/1091_Shortest_Path_in_Binary_Matrix.py) | Medium |
 |1106|[Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | [Python3](/Solutions/1106_Parsing_A_Boolean_Expression.py) | Hard |
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [Python3](/Solutions/1137_N-th_Tribonacci_Number.py) | Medium |
+|1151|[Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/) | [Python3](/Solutions/1151_Minimum_Swaps_to_Group_All_1s_Together.py) | Medium |
 |1171|[Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [Python3](/Solutions/1171_Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List.py) | Medium |
 |1176|[Diet Plan Performance](https://leetcode.com/problems/diet-plan-performance/) | [Python3](/Solutions/1176_Diet_Plan_Performance.py) | Easy |
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [Python3](/Solutions/1207_Unique_Number_of_Occurrences.py) | Easy |
