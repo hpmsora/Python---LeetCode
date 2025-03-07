@@ -357,6 +357,7 @@
 |2490|[Circular Sentence](https://leetcode.com/problems/circular-sentence/) | [Python3](/Solutions/2490_Circular_Sentence.py) | Easy |
 |2493|[Divide Nodes Into the Maximum Number of Groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/) | [Python3](/Solutions/2493_Divide_Nodes_Into_the_Maximum_Number_of_Groups.py) | Hard |
 |2516|[Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/) | [Python3](/Solutions/2516_Take_K_of_Each_Character_From_Left_and_Right.py) | Medium |
+|2523|[Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/) | [Python3](/Solutions/2523_Closest_Prime_Numbers_in_Range.py) | Medium |
 |2530|[Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) | [Python3](/Solutions/2530_Maximal_Score_After_Applying_K_Operations.py) | Medium |
 |2540|[Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | [Python3](/Solutions/2540_Minimum_Common_Value.py) | Easy |
 |2554|[Maximum Number of Integers to Choose From a Range I](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/) | [Python3](/Solutions/2554_Maximum_Number_of_Integers_to_Choose_From_a_Range_I.py) | Medium |
