@@ -267,6 +267,7 @@
 |1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | [Python3](/Solutions/1331_Rank_Transform_of_an_Array.py) | Easy |
 |1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Python3](/Solutions/1346_Check_If_N_and_Its_Double_Exist.py) | Easy |
 |1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | [Python3](/Solutions/1352_Product_of_the_Last_K_Numbers.py) | Medium |
+|1358|[Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [Python3](/Solutions/1358_Number_of_Substrings_Containing_All_Three_Characters.py) | Medium |
 |1368|[Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | [Python3](/Solutions/1368_Minimum_Cost_to_Make_at_Least_One_Valid_Path_in_a_Grid.py) | Hard |
 |1400|[Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/) | [Python3](/Solutions/1400_Construct_K_Palindrome_Strings.py) | Medium |
 |1408|[String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | [Python3](/Solutions/1408_String_Matching_in_an_Array.py) | Easy |
