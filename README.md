@@ -414,3 +414,4 @@
 |3243|[Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/) | [Python3](/Solutions/3243_Shortest_Distance_After_Road_Addition_Queries_I.py) | Medium |
 |3254|[Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/) | [Python3](/Solutions/3254_Find_the_Power_of_K-Size_Subarrays_I.py) | Medium |
 |3264|[Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/) | [Python3](/Solutions/3264_Final_Array_State_After_K_Multiplication_Operations_I.py) | Medium |
+|3356|[Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/) | [Python3](/Solutions/3356_Zero_Array_Transformation_II.py) | Medium |
