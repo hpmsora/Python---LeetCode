@@ -409,6 +409,7 @@
 |3151|[Special Array I](https://leetcode.com/problems/special-array-i/) | [Python3](/Solutions/3151_Special_Array_I.py) | Easy |
 |3152|[Special Array II](https://leetcode.com/problems/special-array-ii/) | [Python3](/Solutions/3152_Special_Array_II.py) | Medium |
 |3163|[String Compression III](https://leetcode.com/problems/string-compression-iii/) | [Python3](/Solutions/3163_String_Compression_III.py) | Medium |
+|3191|[Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | [Python3](/Solutions/3191_Minimum_Operations_to_Make_Binary_Array_Elements_Equal_to_One_I.py) | Medium |
 |3203|[Find Minimum Diameter After Merging Two Trees](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/) | [Python3](/Solutions/3203_Find_Minimum_Diameter_After_Merging_Two_Trees.py) | Medium |
 |3223|[Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/) | [Python3](/Solutions/3223_Minimum_Length_of_String_After_Operations.py) | Medium |
 |3243|[Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/) | [Python3](/Solutions/3243_Shortest_Distance_After_Road_Addition_Queries_I.py) | Medium |
