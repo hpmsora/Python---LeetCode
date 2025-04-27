@@ -416,3 +416,4 @@
 |3254|[Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/) | [Python3](/Solutions/3254_Find_the_Power_of_K-Size_Subarrays_I.py) | Medium |
 |3264|[Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/) | [Python3](/Solutions/3264_Final_Array_State_After_K_Multiplication_Operations_I.py) | Medium |
 |3356|[Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/) | [Python3](/Solutions/3356_Zero_Array_Transformation_II.py) | Medium |
+|3392|[Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/) | [Python3](/Solutions/3392_Count_Subarrays_of_Length_Three_With_a_Condition.py) | Easy |
