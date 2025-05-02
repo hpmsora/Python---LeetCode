@@ -218,6 +218,7 @@
 |0802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [Python3](/Solutions/0802_Find_Eventual_Safe_States.py) | Medium |
 |0824|[Goat Latin](https://leetcode.com/problems/goat-latin/) | [Python3](/Solutions/0824_Goat_Latin.py) | Easy |
 |0827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | [Python3](/Solutions/0827_Making_A_Large_Island.py) | Hard |
+|0838|[Push Dominoes](https://leetcode.com/problems/push-dominoes/) | [Python3](/Solutions/0838_Push_Dominoes.py) | Medium |
 |0852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Python3](/Solutions/0852_Peak_Index_in_a_Mountain_Array.py) | Medium |
 |0859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Python3](/Solutions/0859_Buddy_Strings.py) | Easy |
 |0863|[Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [Python3](/Solutions/0862_Shortest_Subarray_with_Sum_at_Least_K.py) | Hard |
