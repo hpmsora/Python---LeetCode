@@ -326,6 +326,7 @@
 |2064|[Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) | [Python3](/Solutions/2064_Minimized_Maximum_of_Products_Distributed_to_Any_Store.py) | Meidum |
 |2070|[Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/) | [Python3](/Solutions/2070_Most_Beautiful_Item_for_Each_Query.py) | Meidum |
 |2073|[Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | [Python3](/Solutions/2073_Time_Needed_to_Buy_Tickets.py) | Easy |
+|2094|[Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) | [Python3](/Solutions/2094_Finding_3-Digit_Even_Numbers.py) | Easy |
 |2097|[Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/) | [Python3](/Solutions/2097_Valid_Arrangement_of_Pairs.py) | Hard |
 |2108|[Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [Python3](/Solutions/2108_Find_First_Palindromic_String_in_the_Array.py) | Medium |
 |2109|[Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/) | [Python3](/Solutions/2109_Adding_Spaces_to_a_String.py) | Medium |
