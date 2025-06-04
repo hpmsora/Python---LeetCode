@@ -421,3 +421,4 @@
 |3335|[Total Characters in String After Transformations I](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/) | [Python3](/Solutions/3335_Total_Characters_in_String_After_Transformations_I.py) | Medium |
 |3356|[Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/) | [Python3](/Solutions/3356_Zero_Array_Transformation_II.py) | Medium |
 |3392|[Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/) | [Python3](/Solutions/3392_Count_Subarrays_of_Length_Three_With_a_Condition.py) | Easy |
+|3403|[Find the Lexicographically Largest String From the Box I](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/) | [Python3](/Solutions/3403_Find_the_Lexicographically_Largest_String_From_the_Box_I.py) | Medium |
