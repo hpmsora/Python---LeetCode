@@ -249,6 +249,7 @@
 |1027|[Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | [Python3](/Solutions/1027_Longest_Arithmetic_Subsequence.py) | Medium |
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Python3](/Solutions/1047_Remove_All_Adjacent_Duplicates_In_String.py) | Easy |
 |1047|[Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) | [Python3](/Solutions/1119_Remove_Vowels_from_a_String.py) | Easy |
+|1061|[Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | [Python3](/Solutions/1061_Lexicographically_Smallest_Equivalent_String.py) | Medium |
 |1072|[Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) | [Python3](/Solutions/1072_Flip_Columns_For_Maximum_Number_of_Equal_Rows.py) | Medium |
 |1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Python3](/Solutions/1091_Shortest_Path_in_Binary_Matrix.py) | Medium |
 |1106|[Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | [Python3](/Solutions/1106_Parsing_A_Boolean_Expression.py) | Hard |
