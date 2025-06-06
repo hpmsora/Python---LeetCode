@@ -354,6 +354,7 @@
 |2418|[Sort the People](https://leetcode.com/problems/sort-the-people/) | [Python3](/Solutions/2418_Sort_the_People.py) | Easy |
 |2425|[Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/) | [Python3](/Solutions/2425_Bitwise_XOR_of_All_Pairings.py) | Medium |
 |2429|[Minimize XOR](https://leetcode.com/problems/minimize-xor/) | [Python3](/Solutions/2429_Minimize_XOR.py) | Medium |
+|2434|[Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | [Python3](/Solutions/2434_Using_a_Robot_to_Print_the_Lexicographically_Smallest_String.py) | Medium |
 |2444|[Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | [Python3](/Solutions/2444_Count_Subarrays_With_Fixed_Bounds.py) | Hard |
 |2460|[Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | [Python3](/Solutions/2460_Apply_Operations_to_an_Array.py) | Easy |
 |2461|[Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | [Python3](/Solutions/2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K.py) | Medium |
