@@ -393,6 +393,7 @@
 |2870|[Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/) | [Python3](/Solutions/2870_Minimum_Number_of_Operations_to_Make_Array_Empty.py) | Medium |
 |2914|[Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | [Python3](/Solutions/2914_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful.py) | Medium |
 |2924|[Find Champion II](https://leetcode.com/problems/find-champion-ii/) | [Python3](/Solutions/2924_Find_Champion_II.py) | Medium |
+|2927|[Distribute Candies Among Children III](https://leetcode.com/problems/distribute-candies-among-children-iii/) | [Python3](/Solutions/2927_Distribute_Candies_Among_Children_III.py) | Hard |
 |2938|[Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/) | [Python3](/Solutions/2938_Separate_Black_and_White_Balls.py) | Medium |
 |2948|[Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | [Python3](/Solutions/2948_Make_Lexicographically_Smallest_Array_by_Swapping_Elements.py) | Medium |
 |2951|[Find the Peaks](https://leetcode.com/problems/find-the-peaks/) | [Python3](/Solutions/2951_Find_the_Peaks.py) | Easy |
