@@ -170,6 +170,7 @@
 |0417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Python3](/Solutions/0417_Pacific_Atlantic_Water_Flow.py) | Medium |
 |0426|[Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) | [Python3](/Solutions/0426_Convert_Binary_Search_Tree_to_Sorted_Doubly_Linked_List.py) | Medium |
 |0433|[Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | [Python3](/Solutions/0433_Minimum_Genetic_Mutation.py) | Medium |
+|0440|[K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | [Python3](/Solutions/0440_K-th_Smallest_in_Lexicographical_Order.py) | Hard |
 |0442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Python3](/Solutions/0442_Find_All_Duplicates_in_an_Array.py) | Medium |
 |0443|[String Compression](https://leetcode.com/problems/string-compression/) | [Python3](/Solutions/0443_String_Compression.py) | Medium |
 |0451|[String Compression](https://leetcode.com/problems/sort-characters-by-frequency/) | [Python3](/Solutions/0451_Sort_Characters_By_Frequency.py) | Medium |
