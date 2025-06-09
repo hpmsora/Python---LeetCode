@@ -159,6 +159,7 @@
 |0364|[Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) | [Python3](/Solutions/0364_Nested_List_Weight_Sum_II.py) | Medium |
 |0378|[Nested List Weight Sum II](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [Python3](/Solutions/0378_Kth_Smallest_Element_in_a_Sorted_Matrix.py) | Medium |
 |0380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/word-pattern/) | [Python3](/Solutions/0380_Insert_Delete_GetRandom_O(1).py) | Medium |
+|0386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [Python3](/Solutions/0386_Lexicographical_Numbers.py) | Medium |
 |0387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python3](/Solutions/0387_First_Unique_Character_in_a_String.py) | Easy |
 |0389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Python3](/Solutions/0389_Find_the_Difference.py) | Easy |
 |0398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/) | [Python3](/Solutions/0398_Random_Pick_Index.py) | Medium |
