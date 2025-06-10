@@ -6,31 +6,21 @@
 #         self.right = right
 class Solution:
     def findTarget(self, root: Optional[TreeNode], k: int) -> bool:
+        queue = collections.deque([root])
         num_set = set()
-
-        # DFS
-        def helper(_root):
-            if not _root:
-                return False
-            val = _root.val
-            if k - val in num_set:
-                return True
-            else:
-                num_set.add(val)
+        
+        while queue:
+            curr_node = queue.popleft()
             
-            # Left
-            left = False
-            if _root.left:
-                left = helper(_root.left)
-            if left:
-                return True
-            # Right
-            right = False
-            if _root.right:
-                right = helper(_root.right)
-            if right:
+            curr_val = curr_node.val
+            if k - curr_val in num_set:
                 return True
             
-            return False
-
-        return helper(root)
+            num_set.add(curr_val)
+            
+            if curr_node.left:
+                queue.append(curr_node.left)
+            
+            if curr_node.right:
+                queue.append(curr_node.right)
+        return False
