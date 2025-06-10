@@ -1,27 +1,49 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        def isPal(_s):
-            return _s == _s[::-1]
+        sol = ""
+        max_len = 0
 
-        start_index = 0
-        sol = s[0]
-
+        # odd
         index = 0
+
         while index < len(s):
-            start_index = index
-            for last_index in range(start_index+1, len(s) + 1):
-                cur_s = s[start_index:last_index]
-                if isPal(cur_s):
-                    if len(sol) < (last_index - start_index):
-                        sol = cur_s
-                    
-                    #rev_cur_s = cur_s[::-1]
-                    #for start_index_2 in range(last_index + 1, len(s) + 1 - (last_index - start_index)):
-                    #    if s[start_index_2:start_index_2+(last_index - start_index)] == rev_cur_s:
-                    #        if isPal(s[index:start_index_2+(last_index - start_index)]):
-                    #            if len(sol) < (start_index_2+(last_index - start_index) - index):
-                    #                sol = s[start_index_2:start_index_2+(last_index - start_index)]
-                    #index = last_index - 1
-                    #continue
+            left = index - 1
+            right = index + 1
+            while left >= 0 and right < len(s):
+                if not s[left] == s[right]:
+                    diff = right - left - 1
+                    if diff > max_len:
+                        sol = s[left + 1:right]
+                        max_len = diff
+                    break
+                else:
+                    left -= 1
+                    right += 1
+            diff = right - left - 1
+            if diff > max_len:
+                sol = s[left + 1:right]
+                max_len = diff
+            index += 1
+
+        # even
+        index = 0
+
+        while index < len(s):
+            left = index
+            right = index + 1
+            while left >= 0 and right < len(s):
+                if not s[left] == s[right]:
+                    diff = right - left - 1
+                    if diff > max_len:
+                        sol = s[left + 1:right]
+                        max_len = diff
+                    break
+                else:
+                    left -= 1
+                    right += 1
+            diff = right - left - 1
+            if diff > max_len:
+                sol = s[left + 1:right]
+                max_len = diff
             index += 1
         return sol
