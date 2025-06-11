@@ -259,6 +259,7 @@
 |1061|[Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | [Python3](/Solutions/1061_Lexicographically_Smallest_Equivalent_String.py) | Medium |
 |1072|[Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) | [Python3](/Solutions/1072_Flip_Columns_For_Maximum_Number_of_Equal_Rows.py) | Medium |
 |1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Python3](/Solutions/1091_Shortest_Path_in_Binary_Matrix.py) | Medium |
+|1100|[Find K-Length Substrings With No Repeated Characters](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/) | [Python3](/Solutions/1100_Find_K-Length_Substrings_With_No_Repeated_Characters.py) | Medium |
 |1106|[Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | [Python3](/Solutions/1106_Parsing_A_Boolean_Expression.py) | Hard |
 |1129|[Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | [Python3](/Solutions/1129_Shortest_Path_with_Alternating_Colors.py) | Medium |
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [Python3](/Solutions/1137_N-th_Tribonacci_Number.py) | Medium |
