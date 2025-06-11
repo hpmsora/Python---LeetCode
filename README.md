@@ -276,6 +276,7 @@
 |1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/) | [Python3](/Solutions/1291_Sequential_Digits.py) | Medium |
 |1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [Python3](/Solutions/1329_Sort_the_Matrix_Diagonally.py) | Medium |
 |1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | [Python3](/Solutions/1331_Rank_Transform_of_an_Array.py) | Easy |
+|1335|[Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | [Python3](/Solutions/1335_Minimum_Difficulty_of_a_Job_Schedule.py) | Hard |
 |1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Python3](/Solutions/1346_Check_If_N_and_Its_Double_Exist.py) | Easy |
 |1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | [Python3](/Solutions/1352_Product_of_the_Last_K_Numbers.py) | Medium |
 |1358|[Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [Python3](/Solutions/1358_Number_of_Substrings_Containing_All_Three_Characters.py) | Medium |
