@@ -45,6 +45,7 @@
 |0056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python3](/Solutions/0056_Merge_Intervals.py) | Medium |
 |0057|[Insert Interval](https://leetcode.com/problems/insert-interval/) | [Python3](/Solutions/0057_Insert_Interval.py) | Medium |
 |0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python3](/Solutions/0058_Length_of_Last_Word.py) | Easy |
+|0059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Python3](/Solutions/0059_Spiral_Matrix_II.py) | Medium |
 |0061|[Rotate List](https://leetcode.com/problems/rotate-list/) | [Python3](/Solutions/0061_Rotate_List.py) | Medium |
 |0062|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python3](/Solutions/0062_Unique_Paths.py) | Medium |
 |0063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Python3](/Solutions/0063_Unique_Paths_II.py) | Medium |
@@ -246,6 +247,7 @@
 |0986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [Python3](/Solutions/0986_Interval_List_Intersections.py) | Medium |
 |0987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Python3](/Solutions/0987_Vertical_Order_Traversal_of_a_Binary_Tree.py) | Hard |
 |0992|[Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [Python3](/Solutions/0992_subarrays_with_K_Different_Integers.py) | Hard |
+|0994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Python3](/Solutions/0994_Rotting_Oranges.py) | Medium |
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Python3](/Solutions/1004_Max_Consecutive_Ones_III.py) | Medium |
 |1014|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) | [Python3](/Solutions/1014_Best_Sightseeing_Pair.py) | Medium |
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [Python3](/Solutions/1026_Maximum_Difference_Between_Node_and_Ancestor.py) | Medium |
