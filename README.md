@@ -73,6 +73,7 @@
 |0102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Python3](/Solutions/0102_Binary_Tree_Level_Order_Traversal.py) | Medium |
 |0103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Python3](/Solutions/0103_Binary_Tree_Zigzag_Level_Order_Traversal.py) | Medium |
 |0105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Python3](/Solutions/0105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py) | Medium |
+|0106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Python3](/Solutions/0106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.py) | Medium |
 |0108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python3](/Solutions/0108_Convert_Sorted_Array_to_Binary_Search_Tree.py) | Easy |
 |0110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Python3](/Solutions/0110_Balanced_Binary_Tree.py) | Easy |
 |0111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Python3](/Solutions/0111_Minimum_Depth_of_Binary_Tree) | Easy |
@@ -211,6 +212,7 @@
 |0708|[Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/) | [Python3](/Solutions/0708_Insert_into_a_Sorted_Circular_Linked_List.py) | Medium |
 |0713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [Python3](/Solutions/0713_Subarray_Product_Less_Than_K.py) | Medium |
 |0721|[Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [Python3](/Solutions/0721_Accounts_Merge.py) | Medium |
+|0727|[Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/) | [Python3](/Solutions/0727_Minimum_Window_Subsequence.py) | Hard |
 |0739|[Network Delay Time](https://leetcode.com/problems/daily-temperatures/) | [Python3](/Solutions/0739_Daily_Temperatures.py) | Medium |
 |0743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Python3](/Solutions/0743_Network_Delay_Time.py) | Medium |
 |0766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Python3](/Solutions/0766_Toeplitz_Matrix.py) | Easy |
@@ -258,6 +260,7 @@
 |1072|[Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) | [Python3](/Solutions/1072_Flip_Columns_For_Maximum_Number_of_Equal_Rows.py) | Medium |
 |1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Python3](/Solutions/1091_Shortest_Path_in_Binary_Matrix.py) | Medium |
 |1106|[Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | [Python3](/Solutions/1106_Parsing_A_Boolean_Expression.py) | Hard |
+|1129|[Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | [Python3](/Solutions/1129_Shortest_Path_with_Alternating_Colors.py) | Medium |
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [Python3](/Solutions/1137_N-th_Tribonacci_Number.py) | Medium |
 |1151|[Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/) | [Python3](/Solutions/1151_Minimum_Swaps_to_Group_All_1s_Together.py) | Medium |
 |1171|[Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [Python3](/Solutions/1171_Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List.py) | Medium |
