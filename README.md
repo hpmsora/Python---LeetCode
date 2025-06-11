@@ -247,6 +247,7 @@
 |0986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [Python3](/Solutions/0986_Interval_List_Intersections.py) | Medium |
 |0987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Python3](/Solutions/0987_Vertical_Order_Traversal_of_a_Binary_Tree.py) | Hard |
 |0992|[Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [Python3](/Solutions/0992_subarrays_with_K_Different_Integers.py) | Hard |
+|0994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Python3](/Solutions/0994_Rotting_Oranges.py) | Medium |
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Python3](/Solutions/1004_Max_Consecutive_Ones_III.py) | Medium |
 |1014|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) | [Python3](/Solutions/1014_Best_Sightseeing_Pair.py) | Medium |
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [Python3](/Solutions/1026_Maximum_Difference_Between_Node_and_Ancestor.py) | Medium |
