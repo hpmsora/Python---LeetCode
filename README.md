@@ -259,6 +259,7 @@
 |1061|[Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | [Python3](/Solutions/1061_Lexicographically_Smallest_Equivalent_String.py) | Medium |
 |1072|[Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) | [Python3](/Solutions/1072_Flip_Columns_For_Maximum_Number_of_Equal_Rows.py) | Medium |
 |1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Python3](/Solutions/1091_Shortest_Path_in_Binary_Matrix.py) | Medium |
+|1100|[Find K-Length Substrings With No Repeated Characters](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/) | [Python3](/Solutions/1100_Find_K-Length_Substrings_With_No_Repeated_Characters.py) | Medium |
 |1106|[Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | [Python3](/Solutions/1106_Parsing_A_Boolean_Expression.py) | Hard |
 |1129|[Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | [Python3](/Solutions/1129_Shortest_Path_with_Alternating_Colors.py) | Medium |
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [Python3](/Solutions/1137_N-th_Tribonacci_Number.py) | Medium |
@@ -275,6 +276,7 @@
 |1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/) | [Python3](/Solutions/1291_Sequential_Digits.py) | Medium |
 |1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [Python3](/Solutions/1329_Sort_the_Matrix_Diagonally.py) | Medium |
 |1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | [Python3](/Solutions/1331_Rank_Transform_of_an_Array.py) | Easy |
+|1335|[Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | [Python3](/Solutions/1335_Minimum_Difficulty_of_a_Job_Schedule.py) | Hard |
 |1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Python3](/Solutions/1346_Check_If_N_and_Its_Double_Exist.py) | Easy |
 |1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | [Python3](/Solutions/1352_Product_of_the_Last_K_Numbers.py) | Medium |
 |1358|[Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [Python3](/Solutions/1358_Number_of_Substrings_Containing_All_Three_Characters.py) | Medium |
@@ -299,6 +301,7 @@
 |1578|[Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [Python3](/Solutions/1578_Minimum_Time_to_Make_Rope_Colorful.py) | Medium |
 |1609|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree/) | [Python3](/Solutions/1609_Even_Odd_Tree.py) | Medium |
 |1614|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Python3](/Solutions/1614_Maximum_Nesting_Depth_of_the_Parentheses.py) | Easy |
+|1629|[Slowest Key](https://leetcode.com/problems/slowest-key/) | [Python3](/Solutions/1629_Slowest_Key.py) | Easy |
 |1639|[Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/) | [Python3](/Solutions/1639_Number_of_Ways_to_Form_a_Target_String_Given_a_Dictionary.py) | Hard |
 |1644|[Lowest Common Ancestor of a Binary Tree II](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/) | [Python3](/Solutions/1644_Lowest_Common_Ancestor_of_a_Binary_Tree_II.py) | Medium |
 |1650|[Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/) | [Python3](/Solutions/1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III.py) | Medium |
@@ -435,3 +438,4 @@
 |3392|[Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/) | [Python3](/Solutions/3392_Count_Subarrays_of_Length_Three_With_a_Condition.py) | Easy |
 |3403|[Find the Lexicographically Largest String From the Box I](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/) | [Python3](/Solutions/3403_Find_the_Lexicographically_Largest_String_From_the_Box_I.py) | Medium |
 |3442|[Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) | [Python3](/Solutions/3442_Maximum_Difference_Between_Even_and_Odd_Frequency_I.py) | Easy |
+|3445|[Maximum Difference Between Even and Odd Frequency II](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/) | [Python3](/Solutions/3442_Maximum_Difference_Between_Even_and_Odd_Frequency_II.py) | Hard |
