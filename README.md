@@ -217,6 +217,7 @@
 |0739|[Network Delay Time](https://leetcode.com/problems/daily-temperatures/) | [Python3](/Solutions/0739_Daily_Temperatures.py) | Medium |
 |0743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Python3](/Solutions/0743_Network_Delay_Time.py) | Medium |
 |0766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Python3](/Solutions/0766_Toeplitz_Matrix.py) | Easy |
+|0767|[Reorganize String](https://leetcode.com/problems/reorganize-string/) | [Python3](/Solutions/0767_Reorganize_String.py) | Medium |
 |0769|[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [Python3](/Solutions/0769_Max_Chunks_To_Make_Sorted.py) | Medium |
 |0773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | [Python3](/Solutions/0773_Sliding_Puzzle.py) | Hard |
 |0785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [Python3](/Solutions/0785_Is_Graph_Bipartite.py) | Medium |
