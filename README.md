@@ -82,6 +82,7 @@
 |0117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Python3](/Solutions/0117_Populating_Next_Right_Pointers_in_Each_Node_II.py) | Medium |
 |0118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python3](/Solutions/0118_Pascals_Triangle.py) | Easy |
 |0120|[Triangle](https://leetcode.com/problems/triangle/) | [Python3](/Solutions/0120_Triangle.py) | Medium |
+|0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python3](/Solutions/0121_Best_Time_to_Buy_and_Sell_Stock.py) | Easy |
 |0122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python3](/Solutions/0122_Best_Time_to_Buy_and_Sell_Stock_II.py) | Medium |
 |0124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Python3](/Solutions/0124_Binary_Tree_Maximum_Path_Sum.py) | Hard |
 |0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python3](/Solutions/0125_Valid_Palindrome.py) | Easy |
