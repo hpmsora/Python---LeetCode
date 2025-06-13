@@ -82,6 +82,7 @@
 |0117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Python3](/Solutions/0117_Populating_Next_Right_Pointers_in_Each_Node_II.py) | Medium |
 |0118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python3](/Solutions/0118_Pascals_Triangle.py) | Easy |
 |0120|[Triangle](https://leetcode.com/problems/triangle/) | [Python3](/Solutions/0120_Triangle.py) | Medium |
+|0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python3](/Solutions/0121_Best_Time_to_Buy_and_Sell_Stock.py) | Easy |
 |0122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python3](/Solutions/0122_Best_Time_to_Buy_and_Sell_Stock_II.py) | Medium |
 |0124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Python3](/Solutions/0124_Binary_Tree_Maximum_Path_Sum.py) | Hard |
 |0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python3](/Solutions/0125_Valid_Palindrome.py) | Easy |
@@ -216,6 +217,7 @@
 |0739|[Network Delay Time](https://leetcode.com/problems/daily-temperatures/) | [Python3](/Solutions/0739_Daily_Temperatures.py) | Medium |
 |0743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Python3](/Solutions/0743_Network_Delay_Time.py) | Medium |
 |0766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Python3](/Solutions/0766_Toeplitz_Matrix.py) | Easy |
+|0767|[Reorganize String](https://leetcode.com/problems/reorganize-string/) | [Python3](/Solutions/0767_Reorganize_String.py) | Medium |
 |0769|[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [Python3](/Solutions/0769_Max_Chunks_To_Make_Sorted.py) | Medium |
 |0773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | [Python3](/Solutions/0773_Sliding_Puzzle.py) | Hard |
 |0785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [Python3](/Solutions/0785_Is_Graph_Bipartite.py) | Medium |
@@ -254,13 +256,17 @@
 |1014|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) | [Python3](/Solutions/1014_Best_Sightseeing_Pair.py) | Medium |
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [Python3](/Solutions/1026_Maximum_Difference_Between_Node_and_Ancestor.py) | Medium |
 |1027|[Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | [Python3](/Solutions/1027_Longest_Arithmetic_Subsequence.py) | Medium |
+|1035|[Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [Python3](/Solutions/1035_Uncrossed_Lines.py) | Medium |
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Python3](/Solutions/1047_Remove_All_Adjacent_Duplicates_In_String.py) | Easy |
-|1047|[Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) | [Python3](/Solutions/1119_Remove_Vowels_from_a_String.py) | Easy |
+|1060|[Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array/) | [Python3](/Solutions/1060_Missing_Element_in_Sorted_Array.py) | Medium |
 |1061|[Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | [Python3](/Solutions/1061_Lexicographically_Smallest_Equivalent_String.py) | Medium |
 |1072|[Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) | [Python3](/Solutions/1072_Flip_Columns_For_Maximum_Number_of_Equal_Rows.py) | Medium |
+|1074|[Number of Submatrices That Sum to Target
+](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | [Python3](/Solutions/1074_Number_of_Submatrices_That_Sum_to_Target.py) | Hard |
 |1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Python3](/Solutions/1091_Shortest_Path_in_Binary_Matrix.py) | Medium |
 |1100|[Find K-Length Substrings With No Repeated Characters](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/) | [Python3](/Solutions/1100_Find_K-Length_Substrings_With_No_Repeated_Characters.py) | Medium |
 |1106|[Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | [Python3](/Solutions/1106_Parsing_A_Boolean_Expression.py) | Hard |
+|1119|[Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) | [Python3](/Solutions/1119_Remove_Vowels_from_a_String.py) | Easy |
 |1129|[Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | [Python3](/Solutions/1129_Shortest_Path_with_Alternating_Colors.py) | Medium |
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [Python3](/Solutions/1137_N-th_Tribonacci_Number.py) | Medium |
 |1151|[Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/) | [Python3](/Solutions/1151_Minimum_Swaps_to_Group_All_1s_Together.py) | Medium |
@@ -437,5 +443,6 @@
 |3356|[Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/) | [Python3](/Solutions/3356_Zero_Array_Transformation_II.py) | Medium |
 |3392|[Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/) | [Python3](/Solutions/3392_Count_Subarrays_of_Length_Three_With_a_Condition.py) | Easy |
 |3403|[Find the Lexicographically Largest String From the Box I](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/) | [Python3](/Solutions/3403_Find_the_Lexicographically_Largest_String_From_the_Box_I.py) | Medium |
+|3423|[Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/) | [Python3](/Solutions/3423_Maximum_Difference_Between_Adjacent_Elements_in_a_Circular_Array.py) | Easy |
 |3442|[Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) | [Python3](/Solutions/3442_Maximum_Difference_Between_Even_and_Odd_Frequency_I.py) | Easy |
 |3445|[Maximum Difference Between Even and Odd Frequency II](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/) | [Python3](/Solutions/3442_Maximum_Difference_Between_Even_and_Odd_Frequency_II.py) | Hard |
