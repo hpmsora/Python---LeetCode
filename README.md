@@ -394,6 +394,7 @@
 |2593|[Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/) | [Python3](/Solutions/2593_Find_Score_of_an_Array_After_Marking_All_Elements.py) | Medium |
 |2601|[Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/) | [Python3](/Solutions/.py) | Medium |
 |2610|[Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | [Python3](/Solutions/2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.py) | Medium |
+|2616|[Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) | [Python3](/Solutions/2616_Minimize_the_Maximum_Difference_of_Pairs.py) | Medium |
 |2641|[Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/) | [Python3](/Solutions/2641_Cousins_in_Binary_Tree_II.py) | Medium |
 |2657|[Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | [Python3](/Solutions/2657_Find_the_Prefix_Common_Array_of_Two_Arrays.py) | Medium |
 |2658|[Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/) | [Python3](/Solutions/2658_Maximum_Number_of_Fish_in_a_Grid.py) | Medium |
