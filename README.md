@@ -388,6 +388,7 @@
 |2558|[Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | [Python3](/Solutions/2558_Take_Gifts_From_the_Richest_Pile.py) | Easy |
 |2559|[Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/) | [Python3](/Solutions/2559_Count_Vowel_Strings_in_Ranges.py) | Medium |
 |2563|[Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | [Python3](/Solutions/2563_Count_the_Number_of_Fair_Pairs.py) | Medium |
+|2566|[Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/) | [Python3](/Solutions/2566_Maximum_Difference_by_Remapping_a_Digit.py) | Easy |
 |2577|[Minimum Time to Visit a Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/) | [Python3](/Solutions/2577_Minimum_Time_to_Visit_a_Cell_In_a_Grid.py) | Hard |
 |2579|[Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/) | [Python3](/Solutions/2579_Count_Total_Number_of_Colored_Cells.py) | Medium |
 |2583|[Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | [Python3](/Solutions/2583_Kth_Largest_Sum_in_a_Binary_Tree.py) | Medium |
