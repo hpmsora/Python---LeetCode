@@ -291,6 +291,7 @@
 |1422|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Python3](/Solutions/1422_Maximum_Score_After_Splitting_a_String.py) | Easy |
 |1424|[Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/) | [Python3](/Solutions/1424_Diagonal_Traverse_II.py) | Medium |
 |1427|[Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | [Python3](/Solutions/1427_Perform_String_Shifts.py) | Easy |
+|1432|[Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) | [Python3](/Solutions/1432_Max_Difference_You_Can_Get_From_Changing_an_Integer.py) | Medium |
 |1436|[Destination City](https://leetcode.com/problems/destination-city/) | [Python3](/Solutions/1436_Destination_City.py) | Easy |
 |1443|[Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) | [Python3](/Solutions/1443_Minimum_Time_to_Collect_All_Apples_in_a_Tree.py) | Medium |
 |1455|[Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [Python3](/Solutions/1455_Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence.py) | Easy |
