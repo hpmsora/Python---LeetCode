@@ -261,8 +261,7 @@
 |1060|[Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array/) | [Python3](/Solutions/1060_Missing_Element_in_Sorted_Array.py) | Medium |
 |1061|[Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | [Python3](/Solutions/1061_Lexicographically_Smallest_Equivalent_String.py) | Medium |
 |1072|[Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) | [Python3](/Solutions/1072_Flip_Columns_For_Maximum_Number_of_Equal_Rows.py) | Medium |
-|1074|[Number of Submatrices That Sum to Target
-](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | [Python3](/Solutions/1074_Number_of_Submatrices_That_Sum_to_Target.py) | Hard |
+|1074|[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | [Python3](/Solutions/1074_Number_of_Submatrices_That_Sum_to_Target.py) | Hard |
 |1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Python3](/Solutions/1091_Shortest_Path_in_Binary_Matrix.py) | Medium |
 |1100|[Find K-Length Substrings With No Repeated Characters](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/) | [Python3](/Solutions/1100_Find_K-Length_Substrings_With_No_Repeated_Characters.py) | Medium |
 |1106|[Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | [Python3](/Solutions/1106_Parsing_A_Boolean_Expression.py) | Hard |
