@@ -1,23 +1,25 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        nums_dict = {}
+        freq_dict = {}
 
-        for each_nums in nums:
-            if each_nums in nums_dict:
-                nums_dict[each_nums] += 1
+        for num in nums:
+            if num in freq_dict:
+                freq_dict[num] += 1
             else:
-                nums_dict[each_nums] = 1
+                freq_dict[num] = 1
 
-        heap = [(0, 0)] # (Freq, Key)
+        heap = [(0, "")]
         heapq.heapify(heap)
 
-        for key, value in nums_dict.items():
-            if len(heap) < k:
-                heapq.heappush(heap, (value, key))
-            elif heap[0][0] < value:
-                heapq.heappushpop(heap, (value, key))
+        for num, freq in freq_dict.items():
+            if heap[0][0] < freq:
+                if len(heap) == k:
+                    heapq.heappushpop(heap, (freq, num))
+                else:
+                    heapq.heappush(heap, (freq, num))
         
         sol = []
-        for _, each_heap in heap:
-            sol.append(each_heap)
+
+        for _, num in heap:
+            sol.append(num)
         return sol
