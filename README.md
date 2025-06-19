@@ -114,6 +114,7 @@
 |0191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Python3](/Solutions/0191_Number_of_1_Bits.py) | Easy |
 |0198|[House Robber](https://leetcode.com/problems/house-robber/) | [Python3](/Solutions/0198_House_Robber.py) | Medium |
 |0199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Python3](/Solutions/0199_Binary_Tree_Right_Side_View.py) | Medium |
+|0200|[Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python3](/Solutions/0200_Number_of_Islands.py) | Medium |
 |0202|[Happy Number](https://leetcode.com/problems/happy-number/) | [Python3](/Solutions/0202_Happy_Number.py) | Easy |
 |0205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Python3](/Solutions/0205_Isomorphic_Strings.py) | Easy |
 |0206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python3](/Solutions/0206_Reverse_Linked_List.py) | Easy |
@@ -446,6 +447,7 @@
 |3356|[Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/) | [Python3](/Solutions/3356_Zero_Array_Transformation_II.py) | Medium |
 |3392|[Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/) | [Python3](/Solutions/3392_Count_Subarrays_of_Length_Three_With_a_Condition.py) | Easy |
 |3403|[Find the Lexicographically Largest String From the Box I](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/) | [Python3](/Solutions/3403_Find_the_Lexicographically_Largest_String_From_the_Box_I.py) | Medium |
+|3405|[Count the Number of Arrays with K Matching Adjacent Elements](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/) | [Python3](/Solutions/3405_Count_the_Number_of_Arrays_with_K_Matching_Adjacent_Elements.py) | Hard |
 |3423|[Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/) | [Python3](/Solutions/3423_Maximum_Difference_Between_Adjacent_Elements_in_a_Circular_Array.py) | Easy |
 |3442|[Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) | [Python3](/Solutions/3442_Maximum_Difference_Between_Even_and_Odd_Frequency_I.py) | Easy |
 |3445|[Maximum Difference Between Even and Odd Frequency II](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/) | [Python3](/Solutions/3442_Maximum_Difference_Between_Even_and_Odd_Frequency_II.py) | Hard |
