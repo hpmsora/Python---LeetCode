@@ -363,6 +363,7 @@
 |2270|[Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/) | [Python3](/Solutions/2270_Number_of_Ways_to_Split_Array.py) | Medium |
 |2275|[Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | [Python3](/Solutions/2275_Largest_Combination_With_Bitwise_AND_Greater_Than_Zero.py) | Medium |
 |2290|[Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) | [Python3](/Solutions/2290_Minimum_Obstacle_Removal_to_Reach_Corner.py) | Hard |
+|2294|[Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/) | [Python3](/Solutions/2294_Partition_Array_Such_That_Maximum_Difference_Is_K.py) | Medium |
 |2330|[Valid Palindrome IV](https://leetcode.com/problems/valid-palindrome-iv/) | [Python3](/Solutions/2330_Valid_Palindrome_IV.py) | Hard |
 |2337|[Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) | [Python3](/Solutions/2337_Move_Pieces_to_Obtain_a_String.py) | Medium |
 |2342|[Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | [Python3](/Solutions/2342_Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.py) | Medium |
