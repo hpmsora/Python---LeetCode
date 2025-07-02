@@ -8,18 +8,16 @@ class Solution:
             else:
                 freq_dict[num] = 1
 
-        heap = [(0, "")]
+        heap = [] # [(freq, num), ...]
         heapq.heapify(heap)
-
         for num, freq in freq_dict.items():
-            if heap[0][0] < freq:
-                if len(heap) == k:
+            if len(heap) < k:
+                heapq.heappush(heap, (freq, num))
+            else:
+                if heap[0][0] < freq:
                     heapq.heappushpop(heap, (freq, num))
-                else:
-                    heapq.heappush(heap, (freq, num))
         
         sol = []
-
         for _, num in heap:
             sol.append(num)
         return sol
